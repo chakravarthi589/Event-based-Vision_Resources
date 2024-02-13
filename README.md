@@ -1,1 +1,1 @@
-# event-based-sensing
+# Event-based Sensing / Neuromorphic Vision / Event-based Camera 
