@@ -22,10 +22,10 @@ This repository is dedicated to categorizing articles on event-based sensing. Wh
 ## CVPR 2020
 - Learning to Super Resolve Intensity Images From Events <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/I._Learning_to_Super_Resolve_Intensity_Images_From_Events_CVPR_2020_paper.pdf" target="_blank">[Paper]</a>
 - Single Image Optical Flow Estimation With an Event Camera <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Pan_Single_Image_Optical_Flow_Estimation_With_an_Event_Camera_CVPR_2020_paper.pdf" target="_blank">[Paper]</a>
-- <a href=" " target="_blank">[Paper]</a>
-- <a href=" " target="_blank">[Paper]</a>
-- <a href=" " target="_blank">[Paper]</a>
-- <a href=" " target="_blank">[Paper]</a>
+- Joint Filtering of Intensity Images and Neuromorphic Events for High-Resolution Noise-Robust Imaging <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Joint_Filtering_of_Intensity_Images_and_Neuromorphic_Events_for_High-Resolution_CVPR_2020_paper.pdf" target="_blank">[Paper]</a>
+- Learning Event-Based Motion Deblurring <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_Learning_Event-Based_Motion_Deblurring_CVPR_2020_paper.pdf" target="_blank">[Paper]</a>
+- Event Probability Mask (EPM) and Event Denoising Convolutional Neural Network (EDnCNN) for Neuromorphic Cameras <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Baldwin_Event_Probability_Mask_EPM_and_Event_Denoising_Convolutional_Neural_Network_CVPR_2020_paper.pdf" target="_blank">[Paper]</a>
+- Video to Events: Recycling Video Datasets for Event Cameras <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Gehrig_Video_to_Events_Recycling_Video_Datasets_for_Event_Cameras_CVPR_2020_paper.pdf" target="_blank">[Paper]</a>
 - <a href=" " target="_blank">[Paper]</a>
 - <a href=" " target="_blank">[Paper]</a>
 - <a href=" " target="_blank">[Paper]</a>
