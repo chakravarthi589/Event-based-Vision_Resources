@@ -1,4 +1,4 @@
-# Event-based Sensing / Neuromorphic Vision / Event-based Camera [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Event-based Sensing / Dynamic Vision Sensors / Neuromorphic Vision / Event-based Camera [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This repository is dedicated to categorizing articles on event-based sensing. While many papers are directly linked to PDFs hosted on platforms like arXiv or OpenAccess, certain articles may necessitate access through an academic license. These include publications from IEEE, Springer, Elsevier journals, and others.
 
