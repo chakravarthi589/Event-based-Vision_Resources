@@ -5,9 +5,9 @@ This repository is dedicated to categorizing articles on event-based sensing. Wh
 ---
 # :high_brightness: Tools / Simulators 
 
-|  | Simulators |
-| --------------- | --------------- | --------------- | ---------------|
-| 1| abc |
+| Simulators |
+| --------------- | 
+| abc |
 ---
 # :high_brightness: Event-based Cameras
 ---
