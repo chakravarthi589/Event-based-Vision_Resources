@@ -26,10 +26,10 @@ This repository is dedicated to categorizing articles on event-based sensing. Wh
 - Learning Event-Based Motion Deblurring <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_Learning_Event-Based_Motion_Deblurring_CVPR_2020_paper.pdf" target="_blank">[Paper]</a>
 - Event Probability Mask (EPM) and Event Denoising Convolutional Neural Network (EDnCNN) for Neuromorphic Cameras <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Baldwin_Event_Probability_Mask_EPM_and_Event_Denoising_Convolutional_Neural_Network_CVPR_2020_paper.pdf" target="_blank">[Paper]</a>
 - Video to Events: Recycling Video Datasets for Event Cameras <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Gehrig_Video_to_Events_Recycling_Video_Datasets_for_Event_Cameras_CVPR_2020_paper.pdf" target="_blank">[Paper]</a>
-- <a href=" " target="_blank">[Paper]</a>
-- <a href=" " target="_blank">[Paper]</a>
-- <a href=" " target="_blank">[Paper]</a>
-- <a href=" " target="_blank">[Paper]</a>
+- EventSR: From Asynchronous Events to Image Reconstruction, Restoration, and Super-Resolution via End-to-End Adversarial Learning <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_EventSR_From_Asynchronous_Events_to_Image_Reconstruction_Restoration_and_Super-Resolution_CVPR_2020_paper.pdf" target="_blank">[Paper]</a>
+- EventCap: Monocular 3D Capture of High-Speed Human Motions Using an Event Camera <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_EventCap_Monocular_3D_Capture_of_High-Speed_Human_Motions_Using_an_CVPR_2020_paper.pdf" target="_blank">[Paper]</a>
+- Globally Optimal Contrast Maximisation for Event-Based Motion Estimation <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Globally_Optimal_Contrast_Maximisation_for_Event-Based_Motion_Estimation_CVPR_2020_paper.pdf" target="_blank">[Paper]</a>
+- Learning Visual Motion Segmentation Using Event Surfaces <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Mitrokhin_Learning_Visual_Motion_Segmentation_Using_Event_Surfaces_CVPR_2020_paper.pdf" target="_blank">[Paper]</a>
 - <a href=" " target="_blank">[Paper]</a>
 - <a href=" " target="_blank">[Paper]</a>
 - <a href=" " target="_blank">[Paper]</a>
