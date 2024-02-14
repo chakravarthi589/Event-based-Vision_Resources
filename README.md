@@ -7,7 +7,8 @@ This repository is dedicated to categorizing articles on event-based sensing. Wh
 
 | Simulators |
 | --------------- | 
-| <b> Name: </b> ESIM: an Open Event Camera Simulator <a href="https://rpg.ifi.uzh.ch/docs/CORL18_Rebecq.pdf" target="_blank">[Paper] </a>  <br/> <b> Github Repo: </b>  https://github.com/uzh-rpg/rpg_esim <br/> <b> Webpage: </b>  https://rpg.ifi.uzh.ch/esim.html <br/> 
+| <b> ESIM: </b>  an Open Event Camera Simulator <a href="https://rpg.ifi.uzh.ch/docs/CORL18_Rebecq.pdf" target="_blank">[Paper] </a>  <a href="https://github.com/uzh-rpg/rpg_esim" target="_blank">[Github] </a> <a href="https://rpg.ifi.uzh.ch/esim.html" target="_blank">[Webpage] |
+
 ---
 # :high_brightness: Event-based Cameras
 ---
