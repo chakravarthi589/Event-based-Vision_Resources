@@ -8,8 +8,8 @@ This repository is dedicated to categorizing articles on event-based sensing. Wh
 | Simulators |
 | --------------- | 
 | abc |
-| --------------- | 
-| abc |
+|efgh ijkl | 
+
 ---
 # :high_brightness: Event-based Cameras
 ---
