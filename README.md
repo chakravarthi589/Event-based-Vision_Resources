@@ -17,7 +17,23 @@ This repository is dedicated to categorizing articles on event-based sensing. Wh
 ## CVPR 2023
 - <a href=" " target="_blank">[Paper]</a>
 ## CVPR 2022
+- <a href=" " target="_blank">[Paper]</a>
+- <a href=" " target="_blank">[Paper]</a>
+- <a href=" " target="_blank">[Paper]</a>
+- <a href=" " target="_blank">[Paper]</a>
+
 ## CVPR 2021
+- Learning To Reconstruct High Speed and High Dynamic Range Videos From Events <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Zou_Learning_To_Reconstruct_High_Speed_and_High_Dynamic_Range_Videos_CVPR_2021_paper.pdf" target="_blank">[Paper]</a>
+- EvDistill: Asynchronous Events To End-Task Learning via Bidirectional Reconstruction-Guided Cross-Modal Knowledge Distillation <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_EvDistill_Asynchronous_Events_To_End-Task_Learning_via_Bidirectional_Reconstruction-Guided_Cross-Modal_CVPR_2021_paper.pdf" target="_blank">[Paper]</a>
+- Back to Event Basics: Self-Supervised Learning of Image Reconstruction for Event Cameras via Photometric Constancy <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Paredes-Valles_Back_to_Event_Basics_Self-Supervised_Learning_of_Image_Reconstruction_for_CVPR_2021_paper.pdf" target="_blank">[Paper]</a>
+- Spatiotemporal Registration for Event-Based Visual Odometry <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Spatiotemporal_Registration_for_Event-Based_Visual_Odometry_CVPR_2021_paper.pdf" target="_blank">[Paper]</a>
+- Turning Frequency to Resolution: Video Super-Resolution via Event Cameras <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Jing_Turning_Frequency_to_Resolution_Video_Super-Resolution_via_Event_Cameras_CVPR_2021_paper.pdf" target="_blank">[Paper]</a>
+- EventZoom: Learning To Denoise and Super Resolve Neuromorphic Events <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Duan_EventZoom_Learning_To_Denoise_and_Super_Resolve_Neuromorphic_Events_CVPR_2021_paper.pdf" target="_blank">[Paper]</a>
+- Event-Based Synthetic Aperture Imaging With a Hybrid Network <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Event-Based_Synthetic_Aperture_Imaging_With_a_Hybrid_Network_CVPR_2021_paper.pdf" target="_blank">[Paper]</a>
+- Indoor Lighting Estimation Using an Event Camera <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Indoor_Lighting_Estimation_Using_an_Event_Camera_CVPR_2021_paper.pdf" target="_blank">[Paper]</a>
+- Event-Based Bispectral Photometry Using Temporally Modulated Illumination <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Takatani_Event-Based_Bispectral_Photometry_Using_Temporally_Modulated_Illumination_CVPR_2021_paper.pdf" target="_blank">[Paper]</a>
+- Time Lens: Event-Based Video Frame Interpolation <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Tulyakov_Time_Lens_Event-Based_Video_Frame_Interpolation_CVPR_2021_paper.pdf" target="_blank">[Paper]</a>
+
 
 ## CVPR 2020
 - Learning to Super Resolve Intensity Images From Events <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/I._Learning_to_Super_Resolve_Intensity_Images_From_Events_CVPR_2020_paper.pdf" target="_blank">[Paper]</a>
@@ -30,16 +46,7 @@ This repository is dedicated to categorizing articles on event-based sensing. Wh
 - EventCap: Monocular 3D Capture of High-Speed Human Motions Using an Event Camera <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_EventCap_Monocular_3D_Capture_of_High-Speed_Human_Motions_Using_an_CVPR_2020_paper.pdf" target="_blank">[Paper]</a>
 - Globally Optimal Contrast Maximisation for Event-Based Motion Estimation <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Globally_Optimal_Contrast_Maximisation_for_Event-Based_Motion_Estimation_CVPR_2020_paper.pdf" target="_blank">[Paper]</a>
 - Learning Visual Motion Segmentation Using Event Surfaces <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Mitrokhin_Learning_Visual_Motion_Segmentation_Using_Event_Surfaces_CVPR_2020_paper.pdf" target="_blank">[Paper]</a>
-- <a href=" " target="_blank">[Paper]</a>
-- <a href=" " target="_blank">[Paper]</a>
-- <a href=" " target="_blank">[Paper]</a>
-- <a href=" " target="_blank">[Paper]</a>
-- <a href=" " target="_blank">[Paper]</a>
-- <a href=" " target="_blank">[Paper]</a>
-- <a href=" " target="_blank">[Paper]</a>
-- <a href=" " target="_blank">[Paper]</a>
-- <a href=" " target="_blank">[Paper]</a>
-- <a href=" " target="_blank">[Paper]</a>
+
 
 
 ## CVPR 2019
