@@ -8,7 +8,7 @@ This repository is dedicated to categorizing articles on event-based sensing. Wh
 
 | CVPR  |
 | --------------- | 
-|##CVPR 2023 | 
+| | 
 
 
 ## WACV 2023
