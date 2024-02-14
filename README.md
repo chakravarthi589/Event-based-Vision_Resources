@@ -18,7 +18,30 @@ This repository is dedicated to categorizing articles on event-based sensing. Wh
 - <a href=" " target="_blank">[Paper]</a>
 ## CVPR 2022
 ## CVPR 2021
+
 ## CVPR 2020
+- Learning to Super Resolve Intensity Images From Events <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/I._Learning_to_Super_Resolve_Intensity_Images_From_Events_CVPR_2020_paper.pdf" target="_blank">[Paper]</a>
+- Single Image Optical Flow Estimation With an Event Camera <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Pan_Single_Image_Optical_Flow_Estimation_With_an_Event_Camera_CVPR_2020_paper.pdf" target="_blank">[Paper]</a>
+- <a href=" " target="_blank">[Paper]</a>
+- <a href=" " target="_blank">[Paper]</a>
+- <a href=" " target="_blank">[Paper]</a>
+- <a href=" " target="_blank">[Paper]</a>
+- <a href=" " target="_blank">[Paper]</a>
+- <a href=" " target="_blank">[Paper]</a>
+- <a href=" " target="_blank">[Paper]</a>
+- <a href=" " target="_blank">[Paper]</a>
+- <a href=" " target="_blank">[Paper]</a>
+- <a href=" " target="_blank">[Paper]</a>
+- <a href=" " target="_blank">[Paper]</a>
+- <a href=" " target="_blank">[Paper]</a>
+- <a href=" " target="_blank">[Paper]</a>
+- <a href=" " target="_blank">[Paper]</a>
+- <a href=" " target="_blank">[Paper]</a>
+- <a href=" " target="_blank">[Paper]</a>
+- <a href=" " target="_blank">[Paper]</a>
+- <a href=" " target="_blank">[Paper]</a>
+
+
 ## CVPR 2019
 - Unsupervised Event-Based Learning of Optical Flow, Depth, and Egomotion <a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Unsupervised_Event-Based_Learning_of_Optical_Flow_Depth_and_Egomotion_CVPR_2019_paper.pdf" target="_blank">[Paper]</a>
 - Events-To-Video: Bringing Modern Computer Vision to Event Cameras <a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Rebecq_Events-To-Video_Bringing_Modern_Computer_Vision_to_Event_Cameras_CVPR_2019_paper.pdf" target="_blank">[Paper]</a>
