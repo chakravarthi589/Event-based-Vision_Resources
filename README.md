@@ -2,9 +2,9 @@
 
 This repository is dedicated to categorizing articles on event-based sensing. While many papers are directly linked to PDFs hosted on platforms like arXiv or OpenAccess, certain articles may necessitate access through an academic license. These include publications from IEEE, Springer, Elsevier journals, and others.
 
-| Column 1 Header | Column 2 Header | Column 3 Header |
-| --------------- | --------------- | --------------- |
-| Row 1, Col 1    | Row 1, Col 2    | Row 1, Col 3    |
+| CVPR | WACV | ICCV | ECCV |
+| --------------- | --------------- | --------------- | ---------------|
+| Row 1, Col 1    | Row 1, Col 2    | Row 1, Col 3    | ---------------|
 
 
 
