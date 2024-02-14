@@ -21,7 +21,7 @@ This repository is dedicated to categorizing articles on event-based sensing. Wh
 ## CVPR 2019
 ## CVPR 2018
 ## CVPR 2017
-- Event-based Visual Inertial Odometry [[Paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Hussein_Unified_Embedding_and_CVPR_2017_paper.pdf){:target="_blank"}
+- Event-based Visual Inertial Odometry [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Hussein_Unified_Embedding_and_CVPR_2017_paper.pdf){:target="_blank"}]
 ---
 
 ## WACV 2023
