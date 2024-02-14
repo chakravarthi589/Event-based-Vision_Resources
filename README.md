@@ -5,7 +5,7 @@ This repository is dedicated to categorizing articles on event-based sensing. Wh
 | Column 1 Header | Column 2 Header | Column 3 Header |
 | --------------- | --------------- | --------------- |
 | Row 1, Col 1    | Row 1, Col 2    | Row 1, Col 3    |
-|-----------------------------------------------------|
+
 
 
 ## CVPR 2023
