@@ -24,6 +24,7 @@ This repository is dedicated to categorizing articles on event-based sensing. Wh
 - HATS: Histograms of Averaged Time Surfaces for Robust Event-Based Object Classification <a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Sironi_HATS_Histograms_of_CVPR_2018_paper.pdf" target="_blank">[Paper]</a>
 - A Unifying Contrast Maximization Framework for Event Cameras, With Applications to Motion, Depth, and Optical Flow Estimation <a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Gallego_A_Unifying_Contrast_CVPR_2018_paper.pdf" target="_blank">[Paper]</a>
 - Event-Based Vision Meets Deep Learning on Steering Prediction for Self-Driving Cars <a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Maqueda_Event-Based_Vision_Meets_CVPR_2018_paper.pdf" target="_blank">[Paper]</a>
+- A Low Power, High Throughput, Fully Event-Based Stereo System <a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Andreopoulos_A_Low_Power_CVPR_2018_paper.pdf" target="_blank">[Paper]</a>
 
 ## CVPR 2017
 - Event-based Visual Inertial Odometry <a href="https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhu_Event-Based_Visual_Inertial_CVPR_2017_paper.pdf" target="_blank">[Paper]</a>
