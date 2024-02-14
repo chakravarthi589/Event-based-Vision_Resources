@@ -21,7 +21,7 @@ This repository is dedicated to categorizing articles on event-based sensing. Wh
 ## CVPR 2019
 ## CVPR 2018
 ## CVPR 2017
-- Event-based Visual Inertial Odometry [OpenAI](https://openai.com){:target="_blank"}
+- Event-based Visual Inertial Odometry <a href="https://openai.com" target="_blank">OpenAI</a>
 - 
 
 ---
