@@ -173,21 +173,17 @@ This repository is dedicated to categorizing articles on event-based sensing. Wh
 
 
 ## ECCV 2020
-- <a href="" target="_blank">[Paper]</a>
-- <a href="" target="_blank">[Paper]</a>
-- <a href="" target="_blank">[Paper]</a>
-- <a href="" target="_blank">[Paper]</a>
-- <a href="" target="_blank">[Paper]</a>
-- <a href="" target="_blank">[Paper]</a>
-- <a href="" target="_blank">[Paper]</a>
-- <a href="" target="_blank">[Paper]</a>
-- <a href="" target="_blank">[Paper]</a>
-- <a href="" target="_blank">[Paper]</a>
-- <a href="" target="_blank">[Paper]</a>
-- <a href="" target="_blank">[Paper]</a>
-- <a href="" target="_blank">[Paper]</a>
-- <a href="" target="_blank">[Paper]</a>
-- <a href="" target="_blank">[Paper]</a>
+- Entropy Minimisation Framework for Event-based Vision Model Estimation <a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500154.pdf" target="_blank">[Paper]</a>
+- Jointly learning visual motion and confidence from local patches in event cameras <a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510494.pdf" target="_blank">[Paper]</a>
+- Event-based Asynchronous Sparse Convolutional Networks <a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530409.pdf" target="_blank">[Paper]</a>
+- Learning Event-Driven Video Deblurring and Interpolation <a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530681.pdf" target="_blank">[Paper]</a>
+- Event Enhanced High-Quality Image Recovery <a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580154.pdf" target="_blank">[Paper]</a>
+- Learning to See in the Dark with Events <a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630647.pdf" target="_blank">[Paper]</a>
+- A Differentiable Recurrent Surface for Asynchronous Event-Based Data <a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650137.pdf" target="_blank">[Paper]</a>
+- Globally-Optimal Event Camera Motion Estimation <a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710052.pdf" target="_blank">[Paper]</a>
+- Reducing the Sim-to-Real Gap for Event Cameras <a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720528.pdf" target="_blank">[Paper]</a>
+- Stereo Event-based Particle Tracking Velocimetry for 3D Fluid Flow Reconstruction <a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740035.pdf" target="_blank">[Paper]</a>
+- Spike-FlowNet: Event-based Optical Flow Estimation with Energy-Efficient Hybrid Neural Networks <a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740358.pdf" target="_blank">[Paper]</a>
 
 ## ECCV 2018
 - <a href="" target="_blank">[Paper]</a>
