@@ -2,7 +2,9 @@
 
 This repository is dedicated to categorizing articles on event-based sensing. While many papers are directly linked to PDFs hosted on platforms like arXiv or OpenAccess, certain articles may necessitate access through an academic license. These include publications from IEEE, Springer, Elsevier journals, and others.
 
-#### Search Keywords: event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic sensor, event camera
+#### Search Keywords: 
+event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic sensor, event camera
+
 #### Pull Request: 
 **People who meet the following criteria are free to request a pull (pull request).**
 - Suggestions for new categories
@@ -10,7 +12,8 @@ This repository is dedicated to categorizing articles on event-based sensing. Wh
 - Corrections to the statistical tables
 - Additions of a summary or performance
 
-#### Pull Request: <a href="https://chakravarthi589.github.io/" target="_blank">[Bharatesh Chakravarthi, Ph.D]
+#### Personal Page: 
+<a href="https://chakravarthi589.github.io/" target="_blank">[Bharatesh Chakravarthi, Ph.D]
 
 ---
 # :high_brightness: Tools / Simulators 
