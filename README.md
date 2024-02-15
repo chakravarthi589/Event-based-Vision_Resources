@@ -1,6 +1,6 @@
 # Event-based Sensing / Dynamic Vision Sensors / Neuromorphic Vision / Event-based Camera [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This repository is dedicated to categorizing articles on event-based sensing. While many papers are directly linked to PDFs hosted on platforms like arXiv or OpenAccess, certain articles may necessitate access through an academic license. These include publications from IEEE, Springer, Elsevier journals, and others.
+This repository is dedicated to categorizing articles on event-based sensing. While many papers are directly linked to PDFs hosted on platforms like arXiv or OpenAccess, certain articles may necessitate access through an academic license. These include publications from IEEE, Springer, Elsevier journals, and others. (Last Updated on: 02/15/2024)
 
 #### Search Keywords: 
 event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic sensor, event camera
@@ -15,8 +15,7 @@ event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic
 #### Personal Page: 
 <a href="https://chakravarthi589.github.io/" target="_blank"> Bharatesh Chakravarthi, Ph.D
 
-#### Last Update: 
-02/15/2024
+
 
 ---
 # :high_brightness: Tools / Simulators 
