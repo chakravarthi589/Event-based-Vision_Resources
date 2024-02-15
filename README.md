@@ -44,7 +44,7 @@ event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic
 
 - Event-Based Shape From Polarization <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Muglikar_Event-Based_Shape_From_Polarization_CVPR_2023_paper.pdf" target="_blank">[Paper]</a>&nbsp;<a href="https://rpg.ifi.uzh.ch/esfp.html" target="_blank">[Webpage]</a>&nbsp;<a href="https://github.com/uzh-rpg/ESfP" target="_blank">[Github]</a>&nbsp;<a href="https://www.youtube.com/watch?v=sF3Ue2Zkpec&ab_channel=UZHRoboticsandPerceptionGroup" target="_blank">[Video]</a>&nbsp;
   
-- Learning Spatial-Temporal Implicit Neural Representations for Event-Guided Video Super-Resolution <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Learning_Spatial-Temporal_Implicit_Neural_Representations_for_Event-Guided_Video_Super-Resolution_CVPR_2023_paper.pdf" target="_blank">[Paper]</a>
+- Learning Spatial-Temporal Implicit Neural Representations for Event-Guided Video Super-Resolution <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Learning_Spatial-Temporal_Implicit_Neural_Representations_for_Event-Guided_Video_Super-Resolution_CVPR_2023_paper.pdf" target="_blank">[Paper]</a>&nbsp;<a href="https://vlis2022.github.io/cvpr23/egvsr" target="_blank">[Webpage]</a>&nbsp;<a href="https://github.com/yunfanLu/INR-Event-VSR" target="_blank">[Github]</a>&nbsp;<a href="https://www.youtube.com/watch?v=ty531p2Me7Q&ab_channel=ChristophenLU" target="_blank">[Video]</a>&nbsp;
 
 - Event-Based Blurry Frame Interpolation Under Blind Exposure <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Weng_Event-Based_Blurry_Frame_Interpolation_Under_Blind_Exposure_CVPR_2023_paper.pdf" target="_blank">[Paper]</a>
 
