@@ -184,21 +184,10 @@ This repository is dedicated to categorizing articles on event-based sensing. Wh
 - Spike-FlowNet: Event-based Optical Flow Estimation with Energy-Efficient Hybrid Neural Networks <a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740358.pdf" target="_blank">[Paper]</a>
 
 ## ECCV 2018
-- <a href="" target="_blank">[Paper]</a>
-- <a href="" target="_blank">[Paper]</a>
-- <a href="" target="_blank">[Paper]</a>
-- <a href="" target="_blank">[Paper]</a>
-- <a href="" target="_blank">[Paper]</a>
-- <a href="" target="_blank">[Paper]</a>
-- <a href="" target="_blank">[Paper]</a>
-- <a href="" target="_blank">[Paper]</a>
-- <a href="" target="_blank">[Paper]</a>
-- <a href="" target="_blank">[Paper]</a>
-- <a href="" target="_blank">[Paper]</a>
-- <a href="" target="_blank">[Paper]</a>
-- <a href="" target="_blank">[Paper]</a>
-- <a href="" target="_blank">[Paper]</a>
-- <a href="" target="_blank">[Paper]</a>
+- Semi-Dense 3D Reconstruction with a Stereo Event Camera <a href="https://openaccess.thecvf.com/content_ECCV_2018/papers/Yi_Zhou_Semi-Dense_3D_Reconstruction_ECCV_2018_paper.pdf" target="_blank">[Paper]</a>
+- Asynchronous, Photometric Feature Tracking using Events and Frames <a href="https://openaccess.thecvf.com/content_ECCV_2018/papers/Daniel_Gehrig_Asynchronous_Photometric_Feature_ECCV_2018_paper.pdf" target="_blank">[Paper]</a>
+- Realtime Time Synchronized Event-based Stereo <a href="https://openaccess.thecvf.com/content_ECCV_2018/papers/Alex_Zhu_Realtime_Time_Synchronized_ECCV_2018_paper.pdf" target="_blank">[Paper]</a>
+
 ---
 
 ## ICCV 2022
