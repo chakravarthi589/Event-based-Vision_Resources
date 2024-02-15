@@ -145,12 +145,12 @@ This repository is dedicated to categorizing articles on event-based sensing. Wh
 
 
 ## WACV 2018
-- <a href="" target="_blank">[Paper]</a>
+- No Papers on event-based vision / event-based camera / neuromorphic sensors
 
 
 
 ## WACV 2017
-- <a href="" target="_blank">[Paper]</a>
+- No Papers on event-based vision / event-based camera / neuromorphic sensors
 
 ---
 
