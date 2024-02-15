@@ -241,21 +241,7 @@ Image Reconstruction from Events <a href="https://openaccess.thecvf.com/content/
 ---
 
 ## ICCV 2017
-- <a href="" target="_blank">[Paper]</a>
-- <a href="" target="_blank">[Paper]</a>
-- <a href="" target="_blank">[Paper]</a>
-- <a href="" target="_blank">[Paper]</a>
-- <a href="" target="_blank">[Paper]</a>
-- <a href="" target="_blank">[Paper]</a>
-- <a href="" target="_blank">[Paper]</a>
-- <a href="" target="_blank">[Paper]</a>
-- <a href="" target="_blank">[Paper]</a>
-- <a href="" target="_blank">[Paper]</a>
-- <a href="" target="_blank">[Paper]</a>
-- <a href="" target="_blank">[Paper]</a>
-- <a href="" target="_blank">[Paper]</a>
-- <a href="" target="_blank">[Paper]</a>
-- <a href="" target="_blank">[Paper]</a>
+- No Papers on event-based vision / event-based camera / neuromorphic sensors
 ---
 
 
