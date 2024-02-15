@@ -15,6 +15,8 @@ event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic
 #### Personal Page: 
 <a href="https://chakravarthi589.github.io/" target="_blank"> Bharatesh Chakravarthi, Ph.D
 
+#### Last Update: 02/15/2024
+
 ---
 # :high_brightness: Tools / Simulators 
 
