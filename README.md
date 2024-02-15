@@ -117,12 +117,39 @@ This repository is dedicated to categorizing articles on event-based sensing. Wh
 ---
 
 ## WACV 2023
+- Ev-NeRF: Event Based Neural Radiance Field <a href="https://openaccess.thecvf.com/content/WACV2023/papers/Hwang_Ev-NeRF_Event_Based_Neural_Radiance_Field_WACV_2023_paper.pdf" target="_blank">[Paper]</a>
+- EventPoint: Self-Supervised Interest Point Detection and Description for Event-Based Camera <a href="https://openaccess.thecvf.com/content/WACV2023/papers/Huang_EventPoint_Self-Supervised_Interest_Point_Detection_and_Description_for_Event-Based_Camera_WACV_2023_paper.pdf" target="_blank">[Paper]</a>
+- Event-Based RGB Sensing With Structured Light <a href="https://openaccess.thecvf.com/content/WACV2023/papers/Bajestani_Event-Based_RGB_Sensing_With_Structured_Light_WACV_2023_paper.pdf" target="_blank">[Paper]</a>
+
 ## WACV 2022
+- Learned Event-Based Visual Perception for Improved Space Object Detection <a href="https://openaccess.thecvf.com/content/WACV2022/papers/Salvatore_Learned_Event-Based_Visual_Perception_for_Improved_Space_Object_Detection_WACV_2022_paper.pdf" target="_blank">[Paper]</a>
+- Event-Based Kilohertz Eye Tracking Using Coded Differential Lighting <a href="https://openaccess.thecvf.com/content/WACV2022/papers/Stoffregen_Event-Based_Kilohertz_Eye_Tracking_Using_Coded_Differential_Lighting_WACV_2022_paper.pdf" target="_blank">[Paper]</a>
+
 ## WACV 2021
+
+
 ## WACV 2020
+- Fast Image Reconstruction with an Event Camera <a href="https://openaccess.thecvf.com/content_WACV_2020/papers/Scheerlinck_Fast_Image_Reconstruction_with_an_Event_Camera_WACV_2020_paper.pdf" target="_blank">[Paper]</a>
+- Robust Feature Tracking in DVS Event Stream using Bezier Mapping <a href="https://openaccess.thecvf.com/content_WACV_2020/papers/Seok_Robust_Feature_Tracking_in_DVS_Event_Stream_using_Bezier_Mapping_WACV_2020_paper.pdf" target="_blank">[Paper]</a>
+- QR-code Reconstruction from Event Data via Optimization in Code Subspace <a href="https://openaccess.thecvf.com/content_WACV_2020/papers/Nagata_QR-code_Reconstruction_from_Event_Data_via_Optimization_in_Code_Subspace_WACV_2020_paper.pdf" target="_blank">[Paper]</a>
+- Event-based Star Tracking via Multiresolution Progressive Hough Transforms <a href="https://openaccess.thecvf.com/content_WACV_2020/papers/Bagchi_Event-based_Star_Tracking_via_Multiresolution_Progressive_Hough_Transforms_WACV_2020_paper.pdf" target="_blank">[Paper]</a>
+
+
 ## WACV 2019
+- Attention Mechanisms for Object Recognition With Event-Based Cameras <a href="/https://arxiv.org/pdf/1807.09480.pdf" target="_blank">[Paper]</a>
+- Space-Time Event Clouds for Gesture Recognition: From RGB Cameras to Event Cameras <a href="https://ieeexplore.ieee.org/document/8659288" target="_blank">[Paper]</a>
+
+
 ## WACV 2018
+- <a href="" target="_blank">[Paper]</a>
+- <a href="" target="_blank">[Paper]</a>
+- <a href="" target="_blank">[Paper]</a>
+
+
 ## WACV 2017
+- <a href="" target="_blank">[Paper]</a>
+- <a href="" target="_blank">[Paper]</a>
+- <a href="" target="_blank">[Paper]</a>
 ---
 
 ## ECCV 2022
