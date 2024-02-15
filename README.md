@@ -130,7 +130,7 @@ This repository is dedicated to categorizing articles on event-based sensing. Wh
 - Event-Based Kilohertz Eye Tracking Using Coded Differential Lighting <a href="https://openaccess.thecvf.com/content/WACV2022/papers/Stoffregen_Event-Based_Kilohertz_Eye_Tracking_Using_Coded_Differential_Lighting_WACV_2022_paper.pdf" target="_blank">[Paper]</a>
 
 ## WACV 2021
-- <a href="" target="_blank">[Paper]</a>
+- No Papers on event-based vision / event-based camera / neuromorphic sensors
 
 ## WACV 2020
 - Fast Image Reconstruction with an Event Camera <a href="https://openaccess.thecvf.com/content_WACV_2020/papers/Scheerlinck_Fast_Image_Reconstruction_with_an_Event_Camera_WACV_2020_paper.pdf" target="_blank">[Paper]</a>
