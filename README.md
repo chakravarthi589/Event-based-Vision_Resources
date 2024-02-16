@@ -32,7 +32,7 @@ event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic
 
 | Company | Cameras |
 | --------------- | --------------- |
-| <a href="https://inivation.com/" target="_blank"> iniVation </a>  | [DAVIS346](https://inivation.com/buy/) , [DAVIS346 AER](https://inivation.com/buy/), [DVXplorer](https://inivation.com/buy/, [DVXplorer Micro](https://inivation.com/buy/, <br/> [DVXplorer Lite](https://inivation.com/buy/, [DVXplorer S Duo](https://inivation.com/buy/, [Stereo Kit](https://inivation.com/buy/  <br/> <a href="https://inivation.com/wp-content/uploads/2023/11/2023-11-iniVation-devices-Specifications.pdf" target="_blank"> Camera Specifications </a>
+| <a href="https://inivation.com/" target="_blank"> iniVation </a>  | [DAVIS346](https://inivation.com/buy/) , [DAVIS346 AER](https://inivation.com/buy/),  [DAVIS346 AER](https://inivation.com/buy/), [DAVIS346 AER](https://inivation.com/buy/) <br/> <a href="https://inivation.com/wp-content/uploads/2023/11/2023-11-iniVation-devices-Specifications.pdf" target="_blank"> Camera Specifications </a>
 
 ---
 ## :high_brightness: Datasets
