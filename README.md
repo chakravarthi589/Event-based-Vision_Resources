@@ -33,7 +33,7 @@ event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic
 | Company | Cameras / Devices | Softwares/Tools |
 | --------------- | --------------- |--------------- |
 | <a href="https://inivation.com/" target="_blank"> iniVation </a>  | [DAVIS346](https://inivation.com/buy/) , [DAVIS346 AER](https://inivation.com/buy/),  [DVXplorer](https://inivation.com/buy/), [DVXplorer Micro](https://inivation.com/buy/) <br/>  [DVXplorer Lite](https://inivation.com/buy/), [DVXplorer S Duo](https://inivation.com/buy/), [Stereo Kit](https://inivation.com/buy/) <br/> <a href="https://inivation.com/wp-content/uploads/2023/11/2023-11-iniVation-devices-Specifications.pdf" target="_blank"> Camera Specifications / Comparisions </a> | <a href="https://docs.inivation.com/software/introduction.html" target="_blank"> Software Solutions </a> |
-| <a href="https://www.prophesee.ai/" target="_blank"> Prophesee </a> | [Metavision® EVK4 – HD](https://inivation.com/buy/) | <a href="https://docs.prophesee.ai/stable/index.html" target="_blank"> Metavision SDK </a>|
+| <a href="https://www.prophesee.ai/" target="_blank"> Prophesee </a> | [Metavision® EVK4 – HD](https://www.prophesee.ai/event-camera-evk4/), [Metavision® EVK3 – GENX320](https://www.prophesee.ai/event-based-sensor-genx320/), <br/>  [Metavision® EVK3 – HD](https://www.prophesee.ai/event-based-evk-3/) | <a href="https://docs.prophesee.ai/stable/index.html" target="_blank"> Metavision SDK </a>|
 
 ---
 ## :high_brightness: Datasets
