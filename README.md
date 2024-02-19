@@ -34,11 +34,6 @@ event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic
 | <b> Carla: </b>  DVS Camera <a href="https://carla.readthedocs.io/en/latest/ref_sensors/#dvs-camera" target="_blank">[Web Link]</a>|
 ---
 
-## :high_brightness: CV Conference Papers
-| CVPR | WACV | ECCV | ICCV || CVPR | WACV | ECCV | ICCV |
-| --------------- | --------------- | --------------- | ---------------|                        | --------------- | --------------- | --------------- | ---------------| 
-
-
 
 ## :high_brightness: Datasets
 ---
