@@ -15,6 +15,9 @@ event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic
 #### Personal Page: 
 <a href="https://chakravarthi589.github.io/" target="_blank"> Bharatesh Chakravarthi, Ph.D
 
+#### Our Publications:
+- Our Paper "eTraM: Event-based Traffic Monitoring Dataset" accepted at CVPR 2024
+
 ---
 ## :high_brightness: Event-based Cameras
 
