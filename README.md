@@ -48,7 +48,8 @@ event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic
 
 ## CVPR 2024
 - Coming soon...
-- 
+
+
 ## CVPR 2023
 - EventNeRF: Neural Radiance Fields From a Single Colour Event Camera <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Rudnev_EventNeRF_Neural_Radiance_Fields_From_a_Single_Colour_Event_Camera_CVPR_2023_paper.pdf" target="_blank">[Paper]</a>&nbsp;<a href="https://4dqv.mpi-inf.mpg.de/EventNeRF/" target="_blank">[Webpage]</a>&nbsp;<a href="https://github.com/r00tman/EventNeRF" target="_blank">[Github]</a>&nbsp;<a href="https://nextcloud.mpi-klsb.mpg.de/index.php/s/xDqwRHiWKeSRyes" target="_blank">[Data]
   
