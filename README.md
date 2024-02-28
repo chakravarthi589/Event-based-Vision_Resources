@@ -20,10 +20,8 @@ event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic
 
 ---
 ## :high_brightness: Event-based Cameras
-![Event Cameras](eventCameras.png))
-
 <p align="center">
-  <img src="eventCameras.png" alt="Event Cameras" width="400px">
+  <img src="eventCameras.png" alt="Event Cameras" width="500px">
 </p>
 
 | Company | Cameras / Devices | Softwares/Tools |
