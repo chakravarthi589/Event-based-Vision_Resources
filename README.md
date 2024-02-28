@@ -65,7 +65,7 @@ event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic
 
 - Adaptive Global Decay Process for Event Cameras <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Nunes_Adaptive_Global_Decay_Process_for_Event_Cameras_CVPR_2023_paper.pdf" target="_blank">[Paper]</a>
 
-- Frame-Event Alignment and Fusion Network for High Frame Rate Tracking <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Frame-Event_Alignment_and_Fusion_Network_for_High_Frame_Rate_Tracking_CVPR_2023_paper.pdf" target="_blank">[Paper]</a>
+- Frame-Event Alignment and Fusion Network for High Frame Rate Tracking <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Frame-Event_Alignment_and_Fusion_Network_for_High_Frame_Rate_Tracking_CVPR_2023_paper.pdf" target="_blank">[Paper]</a> 
 
 - EvShutter: Transforming Events for Unconstrained Rolling Shutter Correction <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Erbach_EvShutter_Transforming_Events_for_Unconstrained_Rolling_Shutter_Correction_CVPR_2023_paper.pdf" target="_blank">[Paper]</a>
 - Recurrent Vision Transformers for Object Detection With Event Cameras <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Gehrig_Recurrent_Vision_Transformers_for_Object_Detection_With_Event_Cameras_CVPR_2023_paper.pdf" target="_blank">[Paper]</a>
