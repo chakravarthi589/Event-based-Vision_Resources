@@ -57,6 +57,7 @@ event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic
 - Event-Based Sensing and Signal Processing in the Visual, Auditory, and Olfactory Domain: A Review <a href="https://www.frontiersin.org/articles/10.3389/fncir.2021.610446/full" target="_blank">[Paper]
 - Analytical Review of Event-Based Camera Depth Estimation Methods and Systems <a href="https://www.mdpi.com/1424-8220/22/3/1201" target="_blank">[Paper]
 - Data-Driven Technology in Event-Based Vision <a href="https://www.hindawi.com/journals/complexity/2021/6689337/" target="_blank">[Paper]
+- A Review of Event-Based Indoor Positioning and Navigation <a href="https://ceur-ws.org/Vol-3248/paper12.pdf" target="_blank">[Paper]
 
 ## CVPR 2024
 - Coming soon...
