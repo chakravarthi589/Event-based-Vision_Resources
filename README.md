@@ -16,11 +16,16 @@ event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic
 <a href="https://chakravarthi589.github.io/" target="_blank"> Bharatesh Chakravarthi, Ph.D
 
 #### Our Publications:
-- Our Paper "eTraM: Event-based Traffic Monitoring Dataset" accepted at CVPR 2024
+- Our Paper "eTraM: Event-based Traffic Monitoring Dataset" accepted by CVPR 2024
 
 ---
 ## :high_brightness: Event-based Cameras
 ![Event Cameras](eventCameras.png))
+
+<p align="center">
+  <img src="eventCameras.png" alt="Event Cameras" width="400px">
+</p>
+
 | Company | Cameras / Devices | Softwares/Tools |
 | --------------- | --------------- |--------------- |
 | <a href="https://inivation.com/" target="_blank"> iniVation </a>  | [DAVIS346](https://inivation.com/buy/) , [DAVIS346 AER](https://inivation.com/buy/),  [DVXplorer](https://inivation.com/buy/), [DVXplorer Micro](https://inivation.com/buy/) <br/>  [DVXplorer Lite](https://inivation.com/buy/), [DVXplorer S Duo](https://inivation.com/buy/), [Stereo Kit](https://inivation.com/buy/) <br/> <a href="https://inivation.com/wp-content/uploads/2023/11/2023-11-iniVation-devices-Specifications.pdf" target="_blank"> Camera Specifications / Comparisions </a> | <a href="https://docs.inivation.com/software/introduction.html" target="_blank"> Software Solutions </a> |
