@@ -51,7 +51,12 @@ event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic
 
 ## :high_brightness: Survey/Review Papers
 - Event-Based Vision: A Survey <a href="https://arxiv.org/pdf/2302.08890.pdf" target="_blank">[Paper]
--
+- Deep Learning for Event-based Vision: A Comprehensive Survey and Benchmarks <a href="https://arxiv.org/pdf/2302.08890.pdf" target="_blank">[Paper]
+- Neuromorphic vision: From sensors to event-based algorithms <a href="https://wires.onlinelibrary.wiley.com/doi/epdf/10.1002/widm.1310" target="_blank">[Paper]
+- Event-Based Neuromorphic Vision for Autonomous Driving: A Paradigm Shift for Bio-Inspired Visual Sensing and Perception <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9129849" target="_blank">[Paper]
+- Event-Based Sensing and Signal Processing in the Visual, Auditory, and Olfactory Domain: A Review <a href="https://www.frontiersin.org/articles/10.3389/fncir.2021.610446/full" target="_blank">[Paper]
+- Analytical Review of Event-Based Camera Depth Estimation Methods and Systems <a href="https://www.mdpi.com/1424-8220/22/3/1201" target="_blank">[Paper]
+- Data-Driven Technology in Event-Based Vision <a href="https://www.hindawi.com/journals/complexity/2021/6689337/" target="_blank">[Paper]
 
 ## CVPR 2024
 - Coming soon...
