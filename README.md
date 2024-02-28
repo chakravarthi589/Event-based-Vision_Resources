@@ -50,7 +50,7 @@ event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic
 ---
 
 ## :high_brightness: Survey/Review Papers
--
+- Event-Based Vision: A Survey <a href="https://arxiv.org/pdf/2302.08890.pdf" target="_blank">[Paper]
 -
 
 ## CVPR 2024
