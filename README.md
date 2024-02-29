@@ -333,6 +333,32 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 
 
 ## CVPRW 2021
+- Comparing Representations in Tracking for Event Camera-based SLAM  <a href="https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Jiao_Comparing_Representations_in_Tracking_for_Event_Camera-Based_SLAM_CVPRW_2021_paper.pdf" target="_blank">[Paper] </a>
+- v2e: From Video Frames to Realistic DVS Events <a href="https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Hu_v2e_From_Video_Frames_to_Realistic_DVS_Events_CVPRW_2021_paper.pdf" target="_blank">[Paper] </a>
+- Title <a href=" " target="_blank">[Paper] </a>
+- Title <a href=" " target="_blank">[Paper] </a>
+- Title <a href=" " target="_blank">[Paper] </a>
+- Title <a href=" " target="_blank">[Paper] </a>
+- Title <a href=" " target="_blank">[Paper] </a>
+- Title <a href=" " target="_blank">[Paper] </a>
+- Title <a href=" " target="_blank">[Paper] </a>
+- Title <a href=" " target="_blank">[Paper] </a>
+- Title <a href=" " target="_blank">[Paper] </a>
+- Title <a href=" " target="_blank">[Paper] </a>
+- Title <a href=" " target="_blank">[Paper] </a>
+- Title <a href=" " target="_blank">[Paper] </a>
+- Title <a href=" " target="_blank">[Paper] </a>
+- Title <a href=" " target="_blank">[Paper] </a>
+- Title <a href=" " target="_blank">[Paper] </a>
+- Title <a href=" " target="_blank">[Paper] </a>
+- Title <a href=" " target="_blank">[Paper] </a>
+- Title <a href=" " target="_blank">[Paper] </a>
+- Title <a href=" " target="_blank">[Paper] </a>
+- Title <a href=" " target="_blank">[Paper] </a>
+- Title <a href=" " target="_blank">[Paper] </a>
+- Title <a href=" " target="_blank">[Paper] </a>
+
+
 ## CVPRW 2019
 ## ICRAW 2017
 
