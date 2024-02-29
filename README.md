@@ -288,7 +288,6 @@ Image Reconstruction from Events <a href="https://openaccess.thecvf.com/content/
 - End-to-End Learning of Representations for Asynchronous Event-Based Data <a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Gehrig_End-to-End_Learning_of_Representations_for_Asynchronous_Event-Based_Data_ICCV_2019_paper.pdf" target="_blank">[Paper]</a>
 - Event-Based Motion Segmentation by Motion Compensation <a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Stoffregen_Event-Based_Motion_Segmentation_by_Motion_Compensation_ICCV_2019_paper.pdf" target="_blank">[Paper]</a>
 
----
 
 ## ICCV 2017
 - No Papers on event-based vision / event-based camera / neuromorphic sensors
