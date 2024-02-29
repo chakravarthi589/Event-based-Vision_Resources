@@ -335,18 +335,18 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 ## CVPRW 2021
 - Comparing Representations in Tracking for Event Camera-based SLAM  <a href="https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Jiao_Comparing_Representations_in_Tracking_for_Event_Camera-Based_SLAM_CVPRW_2021_paper.pdf" target="_blank">[Paper] </a>
 - v2e: From Video Frames to Realistic DVS Events <a href="https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Hu_v2e_From_Video_Frames_to_Realistic_DVS_Events_CVPRW_2021_paper.pdf" target="_blank">[Paper] </a>
-- Title <a href=" " target="_blank">[Paper] </a>
-- Title <a href=" " target="_blank">[Paper] </a>
-- Title <a href=" " target="_blank">[Paper] </a>
-- Title <a href=" " target="_blank">[Paper] </a>
-- Title <a href=" " target="_blank">[Paper] </a>
-- Title <a href=" " target="_blank">[Paper] </a>
-- Title <a href=" " target="_blank">[Paper] </a>
-- Title <a href=" " target="_blank">[Paper] </a>
-- Title <a href=" " target="_blank">[Paper] </a>
-- Title <a href=" " target="_blank">[Paper] </a>
-- Title <a href=" " target="_blank">[Paper] </a>
-- Title <a href=" " target="_blank">[Paper] </a>
+- Incremental Motion Estimation for Event-based Cameras by Dispersion Minimisation <a href="https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Nunes_Live_Demonstration_Incremental_Motion_Estimation_for_Event-Based_Cameras_by_Dispersion_CVPRW_2021_paper.pdf" target="_blank">[Paper] </a>
+- Image Reconstruction from Neuromorphic Event Cameras using LaplacianPrediction and Poisson Integration with Spiking and Artificial Neural Networks <a href="https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Duwek_Image_Reconstruction_From_Neuromorphic_Event_Cameras_Using_Laplacian-Prediction_and_Poisson_CVPRW_2021_paper.pdf" target="_blank">[Paper] </a>
+- Feedback control of event cameras <a href="https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Delbruck_Feedback_Control_of_Event_Cameras_CVPRW_2021_paper.pdf" target="_blank">[Paper] </a>
+- Differentiable Event Stream Simulator for Non-Rigid 3D Tracking <a href="https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Nehvi_Differentiable_Event_Stream_Simulator_for_Non-Rigid_3D_Tracking_CVPRW_2021_paper.pdf" target="_blank">[Paper] </a>
+- DVS-OUTLAB: A Neuromorphic Event-Based Long Time Monitoring Dataset for Real-World Outdoor Scenarios <a href="https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Bolten_DVS-OUTLAB_A_Neuromorphic_Event-Based_Long_Time_Monitoring_Dataset_for_Real-World_CVPRW_2021_paper.pdf" target="_blank">[Paper] </a>
+- A Cortically-inspired Architecture for Event-based Visual Motion Processing: From Design Principles to Real-world Applications <a href="https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Peveri_A_Cortically-Inspired_Architecture_for_Event-Based_Visual_Motion_Processing_From_Design_CVPRW_2021_paper.pdf" target="_blank">[Paper] </a>
+- Detecting Stable Keypoints from Events through Image Gradient Prediction <a href="https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Chiberre_Detecting_Stable_Keypoints_From_Events_Through_Image_Gradient_Prediction_CVPRW_2021_paper.pdf" target="_blank">[Paper] </a>
+- EFI-Net: Video Frame Interpolation from Fusion of Events and Frames <a href="https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Paikin_EFI-Net_Video_Frame_Interpolation_From_Fusion_of_Events_and_Frames_CVPRW_2021_paper.pdf" target="_blank">[Paper] </a>
+- How to Calibrate Your Event Camera <a href="https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Muglikar_How_To_Calibrate_Your_Event_Camera_CVPRW_2021_paper.pdf" target="_blank">[Paper] </a>
+- Lifting Monocular Events to 3D Human Poses <a href="https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Scarpellini_Lifting_Monocular_Events_to_3D_Human_Poses_CVPRW_2021_paper.pdf" target="_blank">[Paper] </a>
+- Spike timing-based unsupervised learning of orientation, disparity, and motion representations in a spiking neural network <a href="https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Barbier_Spike_Timing-Based_Unsupervised_Learning_of_Orientation_Disparity_and_Motion_Representations_CVPRW_2021_paper.pdf" target="_blank">[Paper] </a>
+- N-ROD: a Neuromorphic Dataset for Synthetic-to-Real Domain Adaptation <a href="https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Cannici_N-ROD_A_Neuromorphic_Dataset_for_Synthetic-to-Real_Domain_Adaptation_CVPRW_2021_paper.pdf" target="_blank">[Paper] </a>
 - Title <a href=" " target="_blank">[Paper] </a>
 - Title <a href=" " target="_blank">[Paper] </a>
 - Title <a href=" " target="_blank">[Paper] </a>
