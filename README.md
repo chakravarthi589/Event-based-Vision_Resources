@@ -303,20 +303,21 @@ Image Reconstruction from Events <a href="https://openaccess.thecvf.com/content/
 - Neuromorphic Optical Flow and Real-time Implementation with Event Cameras <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Schnider_Neuromorphic_Optical_Flow_and_Real-Time_Implementation_With_Event_Cameras_CVPRW_2023_paper.pdf" target="_blank">[Paper] </a>
 - Low-latency monocular depth estimation using event timing on neuromorphic hardware <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Chiavazza_Low-Latency_Monocular_Depth_Estimation_Using_Event_Timing_on_Neuromorphic_Hardware_CVPRW_2023_paper.pdf" target="_blank">[Paper] </a>
 - PEDRo: an Event-based Dataset for Person Detection in Robotics <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Boretti_PEDRo_An_Event-Based_Dataset_for_Person_Detection_in_Robotics_CVPRW_2023_paper.pdf" target="_blank">[Paper] </a>
-- Title <a href=" " target="_blank">[Paper] </a>
-- Title <a href=" " target="_blank">[Paper] </a>
-- Title <a href=" " target="_blank">[Paper] </a>
-- Title <a href=" " target="_blank">[Paper] </a>
-- Title <a href=" " target="_blank">[Paper] </a>
-- Title <a href=" " target="_blank">[Paper] </a>
-- Title <a href=" " target="_blank">[Paper] </a>
-- Title <a href=" " target="_blank">[Paper] </a>
-- Title <a href=" " target="_blank">[Paper] </a>
-- Title <a href=" " target="_blank">[Paper] </a>
-- Title <a href=" " target="_blank">[Paper] </a>
-- Title <a href=" " target="_blank">[Paper] </a>
-- Title <a href=" " target="_blank">[Paper] </a>
-- Title <a href=" " target="_blank">[Paper] </a>
+- EVREAL: Towards a Comprehensive Benchmark and Analysis Suite for Event-based Video Reconstruction
+ <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Ercan_EVREAL_Towards_a_Comprehensive_Benchmark_and_Analysis_Suite_for_Event-Based_CVPRW_2023_paper.pdf" target="_blank">[Paper] </a>
+- Exploring Joint Embedding Architectures and Data Augmentations for Self-Supervised Representation Learning in Event-Based Vision <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Barchid_Exploring_Joint_Embedding_Architectures_and_Data_Augmentations_for_Self-Supervised_Representation_CVPRW_2023_paper.pdf" target="_blank">[Paper] </a>
+- Real-time Event-based Speed Detection using Spiking Neural Networks <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Roy_Live_Demonstration_Real-Time_Event-Based_Speed_Detection_Using_Spiking_Neural_Networks_CVPRW_2023_paper.pdf" target="_blank">[Paper] </a>
+- Fast Trajectory End-Point Prediction with Event Cameras for Reactive Robot Control <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Monforte_Fast_Trajectory_End-Point_Prediction_With_Event_Cameras_for_Reactive_Robot_CVPRW_2023_paper.pdf" target="_blank">[Paper] </a>
+- Shining light on the DVS pixel: A tutorial and discussion about biasing and optimization <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Graca_Shining_Light_on_the_DVS_Pixel_A_Tutorial_and_Discussion_CVPRW_2023_paper.pdf" target="_blank">[Paper] </a>
+- Frugal event data: how small is too small? A human performance assessment with shrinking data <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Gruel_Frugal_Event_Data_How_Small_Is_Too_Small_A_Human_CVPRW_2023_paper.pdf" target="_blank">[Paper] </a>
+- Within-Camera Multilayer Perceptron DVS Denoising <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Rios-Navarro_Within-Camera_Multilayer_Perceptron_DVS_Denoising_CVPRW_2023_paper.pdf" target="_blank">[Paper] </a>
+- Neuromorphic Event-based Facial Expression Recognition <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Berlincioni_Neuromorphic_Event-Based_Facial_Expression_Recognition_CVPRW_2023_paper.pdf" target="_blank">[Paper] </a>
+- Sparse-E2VID: A Sparse Convolutional Model for Event-Based Video Reconstruction Trained with Real Event Noise <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Cadena_Sparse-E2VID_A_Sparse_Convolutional_Model_for_Event-Based_Video_Reconstruction_Trained_CVPRW_2023_paper.pdf" target="_blank">[Paper] </a>
+- PDAVIS: Bio-inspired Polarization Event Camera <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Haessig_PDAVIS_Bio Inspired_Polarization_Event_Camera_CVPRW_2023_paper.pdf " target="_blank">[Paper] </a>
+- Predictive Coding Light: learning compact visual codes by combining excitatory and inhibitory spike-timing-dependent plasticity <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Ndri_Predictive_Coding_Light_Learning_Compact_Visual_Codes_by_Combining_Excitatory_CVPRW_2023_paper.pdf" target="_blank">[Paper] </a>
+- How Many Events Make an Object? Improving Single-frame Object Detection on the 1 Mpx Dataset <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Kugele_How_Many_Events_Make_an_Object_Improving_Single-Frame_Object_Detection_CVPRW_2023_paper.pdf" target="_blank">[Paper] </a>
+- ANN vs SNN vs Hybrid Architectures for Event-based Real-time Gesture Recognition and Optical Flow Estimation <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Kosta_Live_Demonstration_ANN_vs_SNN_vs_Hybrid_Architectures_for_Event-Based_CVPRW_2023_paper.pdf" target="_blank">[Paper] </a>
+- MoveEnet: Online High-Frequency Human Pose Estimation with an Event Camera <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Goyal_MoveEnet_Online_High-Frequency_Human_Pose_Estimation_With_an_Event_Camera_CVPRW_2023_paper.pdf" target="_blank">[Paper] </a>
 - Title <a href=" " target="_blank">[Paper] </a>
 - Title <a href=" " target="_blank">[Paper] </a>
 
