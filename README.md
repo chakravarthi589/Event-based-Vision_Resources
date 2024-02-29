@@ -349,19 +349,31 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - N-ROD: a Neuromorphic Dataset for Synthetic-to-Real Domain Adaptation <a href="https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Cannici_N-ROD_A_Neuromorphic_Dataset_for_Synthetic-to-Real_Domain_Adaptation_CVPRW_2021_paper.pdf" target="_blank">[Paper] </a>
 
 ## CVPRW 2019
-- Title <a href=" " target="_blank">[Paper] </a>
-- Title <a href=" " target="_blank">[Paper] </a>
-- Title <a href=" " target="_blank">[Paper] </a>
-- Title <a href=" " target="_blank">[Paper] </a>
-- Title <a href=" " target="_blank">[Paper] </a>
-- Title <a href=" " target="_blank">[Paper] </a>
-- Title <a href=" " target="_blank">[Paper] </a>
-- Title <a href=" " target="_blank">[Paper] </a>
-- Title <a href=" " target="_blank">[Paper] </a>
-- Title <a href=" " target="_blank">[Paper] </a>
+- EV-SegNet: Semantic Segmentation for Event-based Cameras <a href="https://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Alonso_EV-SegNet_Semantic_Segmentation_for_Event-Based_Cameras_CVPRW_2019_paper.pdf" target="_blank">[Paper] </a>
+- Learning Event-based Height from Plane and Parallax <a href="https://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Chaney_Learning_Event-Based_Height_From_Plane_and_Parallax_CVPRW_2019_paper.pdf" target="_blank">[Paper] </a>
+- Real-Time 6DOF Pose Relocalization for Event Cameras with Stacked Spatial LSTM Networks <a href="https://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Nguyen_Real-Time_6DOF_Pose_Relocalization_for_Event_Cameras_With_Stacked_Spatial_CVPRW_2019_paper.pdf " target="_blank">[Paper] </a>
+- Star Tracking using an Event Camera <a href="https://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Chin_Star_Tracking_Using_an_Event_Camera_CVPRW_2019_paper.pdf" target="_blank">[Paper] </a>
+- Asynchronous Convolutional Networks for Object Detection in Neuromorphic Cameras <a href="https://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Cannici_Asynchronous_Convolutional_Networks_for_Object_Detection_in_Neuromorphic_Cameras_CVPRW_2019_paper.pdf" target="_blank">[Paper] </a>
+- DET: A High-resolution DVS Dataset for Lane Extraction <a href="https://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Cheng_DET_A_High-Resolution_DVS_Dataset_for_Lane_Extraction_CVPRW_2019_paper.pdf" target="_blank">[Paper] </a>
+- Joint Estimation of Optical Flow and Intensity Image from Event Sensors <a href="https://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Shedligeri_Live_Demonstration_Joint_Estimation_of_Optical_Flow_and_Intensity_Image_CVPRW_2019_paper.pdf" target="_blank">[Paper] </a>
+- A Real-time Event-based Fast Corner Detection Demo based on FPGA <a href="https://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Liu_Live_Demonstration_A_Real-Time_Event-Based_Fast_Corner_Detection_Demo_Based_CVPRW_2019_paper.pdf" target="_blank">[Paper] </a>
+- Face Recognition on an Ultra-low Power Event-driven Convolutional Neural Network ASIC <a href="https://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Liu_Live_Demonstration_Face_Recognition_on_an_Ultra-Low_Power_Event-Driven_Convolutional_CVPRW_2019_paper.pdf" target="_blank">[Paper] </a>
+- CeleX-V: a 1M Pixel Multi-Mode Event-based Sensor  <a href="https://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Chen_Live_Demonstration_CeleX-V_A_1M_Pixel_Multi-Mode_Event-Based_Sensor_CVPRW_2019_paper.pdf" target="_blank">[Paper] </a>
+- CED: Color Event Camera Dataset <a href="https://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Scheerlinck_CED_Color_Event_Camera_Dataset_CVPRW_2019_paper.pdf" target="_blank">[Paper] </a>
+-  Unsupervised Event-based Learning of Optical Flow, Depth and Egomotion <a href="https://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Zhu_Live_Demonstration_Unsupervised_Event-Based_Learning_of_Optical_Flow_Depth_and_CVPRW_2019_paper.pdf" target="_blank">[Paper] </a>
+- DHP19: Dynamic Vision Sensor 3D Human Pose Dataset <a href="https://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Calabrese_DHP19_Dynamic_Vision_Sensor_3D_Human_Pose_Dataset_CVPRW_2019_paper.pdf" target="_blank">[Paper] </a>
+- Real-time VI-SLAM with High-Resolution Event Camera <a href="https://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Yang_Live_Demonstration_Real-Time_Vi-SLAM_With_High-Resolution_Event_Camera_CVPRW_2019_paper.pdf" target="_blank">[Paper] </a>
+- Event-based attention and tracking on neuromorphic hardware <a href="https://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Renner_Event-Based_Attention_and_Tracking_on_Neuromorphic_Hardware_CVPRW_2019_paper.pdf" target="_blank">[Paper] </a>
+
+
 
 
 ## ICRAW 2017
+- Title <a href=" " target="_blank">[Paper] </a>
+- Title <a href=" " target="_blank">[Paper] </a>
+- Title <a href=" " target="_blank">[Paper] </a>
+- Title <a href=" " target="_blank">[Paper] </a>
+- Title <a href=" " target="_blank">[Paper] </a>
 
 ---
 
