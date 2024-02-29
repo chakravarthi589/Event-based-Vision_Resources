@@ -68,43 +68,25 @@ event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic
 
 ## CVPR 2023
 - EventNeRF: Neural Radiance Fields From a Single Colour Event Camera <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Rudnev_EventNeRF_Neural_Radiance_Fields_From_a_Single_Colour_Event_Camera_CVPR_2023_paper.pdf" target="_blank">[Paper]</a>&nbsp;<a href="https://4dqv.mpi-inf.mpg.de/EventNeRF/" target="_blank">[Webpage]</a>&nbsp;<a href="https://github.com/r00tman/EventNeRF" target="_blank">[Github]</a>&nbsp;<a href="https://nextcloud.mpi-klsb.mpg.de/index.php/s/xDqwRHiWKeSRyes" target="_blank">[Data]
-  
 - Progressive Spatio-Temporal Alignment for Efficient Event-Based Motion Estimation <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Progressive_Spatio-Temporal_Alignment_for_Efficient_Event-Based_Motion_Estimation_CVPR_2023_paper.pdf" target="_blank">[Paper]</a>
-
 - Event-Based Shape From Polarization <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Muglikar_Event-Based_Shape_From_Polarization_CVPR_2023_paper.pdf" target="_blank">[Paper]</a>&nbsp;<a href="https://rpg.ifi.uzh.ch/esfp.html" target="_blank">[Webpage]</a>&nbsp;<a href="https://github.com/uzh-rpg/ESfP" target="_blank">[Github]</a>&nbsp;<a href="https://www.youtube.com/watch?v=sF3Ue2Zkpec&ab_channel=UZHRoboticsandPerceptionGroup" target="_blank">[Video]</a>&nbsp;
-  
 - Learning Spatial-Temporal Implicit Neural Representations for Event-Guided Video Super-Resolution <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Learning_Spatial-Temporal_Implicit_Neural_Representations_for_Event-Guided_Video_Super-Resolution_CVPR_2023_paper.pdf" target="_blank">[Paper]</a>&nbsp;<a href="https://vlis2022.github.io/cvpr23/egvsr" target="_blank">[Webpage]</a>&nbsp;<a href="https://github.com/yunfanLu/INR-Event-VSR" target="_blank">[Github]</a>&nbsp;<a href="https://www.youtube.com/watch?v=ty531p2Me7Q&ab_channel=ChristophenLU" target="_blank">[Video]</a>&nbsp;
-
 - Event-Based Blurry Frame Interpolation Under Blind Exposure <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Weng_Event-Based_Blurry_Frame_Interpolation_Under_Blind_Exposure_CVPR_2023_paper.pdf" target="_blank">[Paper]</a>&nbsp;<a href="https://github.com/WarranWeng/EBFI-BE" target="_blank">[Github]</a>
-
 - Data-Driven Feature Tracking for Event Cameras <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Messikommer_Data-Driven_Feature_Tracking_for_Event_Cameras_CVPR_2023_paper.pdf" target="_blank">[Paper]</a>&nbsp;<a href="https://github.com/uzh-rpg/deep_ev_tracker" target="_blank">[Github]</a>&nbsp;<a href="https://www.youtube.com/watch?v=dtkXvNXcWRY&ab_channel=UZHRoboticsandPerceptionGroup" target="_blank">[Video]</a>&nbsp;
-
 - Adaptive Global Decay Process for Event Cameras <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Nunes_Adaptive_Global_Decay_Process_for_Event_Cameras_CVPR_2023_paper.pdf" target="_blank">[Paper]</a>
-
 - Frame-Event Alignment and Fusion Network for High Frame Rate Tracking <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Frame-Event_Alignment_and_Fusion_Network_for_High_Frame_Rate_Tracking_CVPR_2023_paper.pdf" target="_blank">[Paper]</a> 
-
 - EvShutter: Transforming Events for Unconstrained Rolling Shutter Correction <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Erbach_EvShutter_Transforming_Events_for_Unconstrained_Rolling_Shutter_Correction_CVPR_2023_paper.pdf" target="_blank">[Paper]</a>
 - Recurrent Vision Transformers for Object Detection With Event Cameras <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Gehrig_Recurrent_Vision_Transformers_for_Object_Detection_With_Event_Cameras_CVPR_2023_paper.pdf" target="_blank">[Paper]</a>
-
 - Learning Event Guided High Dynamic Range Video Reconstruction <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Learning_Event_Guided_High_Dynamic_Range_Video_Reconstruction_CVPR_2023_paper.pdf" target="_blank">[Paper]</a>
-
 - Tangentially Elongated Gaussian Belief Propagation for Event-Based Incremental Optical Flow Estimation <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Nagata_Tangentially_Elongated_Gaussian_Belief_Propagation_for_Event-Based_Incremental_Optical_Flow_CVPR_2023_paper.pdf" target="_blank">[Paper]</a>
-
 - Learning Adaptive Dense Event Stereo From the Image Domain <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Cho_Learning_Adaptive_Dense_Event_Stereo_From_the_Image_Domain_CVPR_2023_paper.pdf" target="_blank">[Paper]</a>
-
 - Event-Based Video Frame Interpolation With Cross-Modal Asymmetric Bidirectional Motion Fields <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_Event-Based_Video_Frame_Interpolation_With_Cross-Modal_Asymmetric_Bidirectional_Motion_Fields_CVPR_2023_paper.pdf" target="_blank">[Paper]</a>
-
 - Event-Guided Person Re-Identification via Sparse-Dense Complementary Learning <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Cao_Event-Guided_Person_Re-Identification_via_Sparse-Dense_Complementary_Learning_CVPR_2023_paper.pdf" target="_blank">[Paper]</a>
-
 - High-fidelity Event-Radiance Recovery via Transient Event Frequency <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Han_High-Fidelity_Event-Radiance_Recovery_via_Transient_Event_Frequency_CVPR_2023_paper.pdf" target="_blank">[Paper]</a>
-
 - “Seeing” Electric Network Frequency from Events <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Seeing_Electric_Network_Frequency_From_Events_CVPR_2023_paper.pdf" target="_blank">[Paper]</a>
-
 - Deep Polarization Reconstruction with PDAVIS Events
  <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Mei_Deep_Polarization_Reconstruction_With_PDAVIS_Events_CVPR_2023_paper.pdf" target="_blank">[Paper]</a>
- 
 - Event-Based Frame Interpolation with Ad-hoc Deblurring <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Sun_Event-Based_Frame_Interpolation_With_Ad-Hoc_Deblurring_CVPR_2023_paper.pdf" target="_blank">[Paper]</a>
-
 - All-in-focus Imaging from Event Focal Stack
  <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Lou_All-in-Focus_Imaging_From_Event_Focal_Stack_CVPR_2023_paper.pdf" target="_blank">[Paper]</a>
 
