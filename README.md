@@ -50,10 +50,10 @@ event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic
 ---
 
 ## :high_brightness: Event-based Vision Workshop Papers
-- [CVPR Workshop 2023](#CVPR-2024) 
-- [CVPR Workshop 2021](#CVPR-2024) 
-- [CVPR Workshop 2019](#CVPR-2024) 
-- [CVPR Workshop 2017](#CVPR-2024) 
+- [CVPR 2023 Workshop on Event-based Vision](#CVPRW-2023) 
+- [CVPR 2021 Workshop on Event-based Vision](#CVPRW-2021) 
+- [CVPR 2019 Workshop on Event-based Vision and Smart Cameras](#CVPRW-2019) 
+- [ICRA 2017 Workshop on Event-based Vision](#ICRAW-2017) 
 
 ---
 
@@ -293,5 +293,10 @@ Image Reconstruction from Events <a href="https://openaccess.thecvf.com/content/
 ## ICCV 2017
 - No Papers on event-based vision / event-based camera / neuromorphic sensors
 ---
+
+## CVPRW 2023
+## CVPRW 2021
+## CVPRW 2019
+## ICRAW 2017
 
 
