@@ -55,7 +55,7 @@ event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic
 - [CVPR 2019 Workshop on Event-based Vision and Smart Cameras](#CVPRW-2019) 
 - [ICRA 2017 Workshop on Event-based Vision](https://rpg.ifi.uzh.ch/ICRA17_event_vision_workshop.html)
 
-## :high_brightness: Other Papers<br/> ###(Papers from google scholar using the keywords related to event-based vision)
+## :high_brightness: Other Papers <br/> ###:high_brightness:(Papers from google scholar using the keywords related to event-based vision)
 
 ---
 
