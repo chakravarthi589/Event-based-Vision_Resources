@@ -58,7 +58,7 @@ event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic
 ---
 
 ## :high_brightness: Other Papers
-####:high_brightness:(Papers from google scholar using the keywords related to event-based vision)
+###:high_brightness:(Papers from google scholar using the keywords related to event-based vision)
 
 ---
 
