@@ -3,7 +3,7 @@
 This repository is dedicated to categorizing articles on event-based sensing. While many papers are directly linked to PDFs hosted on platforms like arXiv or OpenAccess, certain articles may necessitate access through an academic license. These include publications from IEEE, Springer, Elsevier journals, and others. (Last Updated on: 03/04/2024)
 
 #### Search Keywords: 
-event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic sensor, event camera
+Event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic sensor, event camera
 
 #### Pull Request: 
 **People who meet the following criteria are free to request a pull (pull request).**
@@ -26,7 +26,7 @@ event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic
 
 | Company | Cameras / Devices | Softwares/Tools |
 | --------------- | --------------- |--------------- |
-| <a href="https://inivation.com/" target="_blank"> iniVation </a>  | [DAVIS346](https://inivation.com/buy/) , [DAVIS346 AER](https://inivation.com/buy/),  [DVXplorer](https://inivation.com/buy/), [DVXplorer Micro](https://inivation.com/buy/) <br/>  [DVXplorer Lite](https://inivation.com/buy/), [DVXplorer S Duo](https://inivation.com/buy/), [Stereo Kit](https://inivation.com/buy/) <br/> <a href="https://inivation.com/wp-content/uploads/2023/11/2023-11-iniVation-devices-Specifications.pdf" target="_blank"> Camera Specifications / Comparisions </a> | <a href="https://docs.inivation.com/software/introduction.html" target="_blank"> Software Solutions </a> |
+| <a href="https://inivation.com/" target="_blank"> iniVation </a>  | [DAVIS346](https://inivation.com/buy/) , [DAVIS346 AER](https://inivation.com/buy/),  [DVXplorer](https://inivation.com/buy/), [DVXplorer Micro](https://inivation.com/buy/) <br/>  [DVXplorer Lite](https://inivation.com/buy [DVXplorer S Duo](https://inivation.com/buy/), [Stereo Kit](https://inivation.com/buy/) <br/> <a href="https://inivation.com/wp-content/uploads/2023/11/2023-11-iniVation-devices-Specifications.pdf" target="_blank"> Camera Specifications / Comparisions </a> | <a href="https://docs.inivation.com/software/introduction.html" target="_blank"> Software Solutions </a> |
 | <a href="https://www.prophesee.ai/" target="_blank"> Prophesee </a> | [Metavision® EVK4 – HD](https://www.prophesee.ai/event-camera-evk4/), [Metavision® EVK3 – GENX320](https://www.prophesee.ai/event-based-sensor-genx320/), <br/>  [Metavision® EVK3 – HD](https://www.prophesee.ai/event-based-evk-3/) | <a href="https://docs.prophesee.ai/stable/index.html" target="_blank"> Metavision SDK </a>|
 
 ---
