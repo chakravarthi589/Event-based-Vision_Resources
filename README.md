@@ -9,8 +9,8 @@ Event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic
 **People who meet the following criteria are free to request a pull (pull request).**
 - Suggestions for new categories
 - Changes to categories for some articles
-- Corrections to the statistical tables
-- Additions of a summary or performance
+- Corrections to include/exclude conference/journals/workshop papers 
+- Additions of event cameras
 
 #### Personal Page: 
 <a href="https://chakravarthi589.github.io/" target="_blank"> Bharatesh Chakravarthi, Ph.D
