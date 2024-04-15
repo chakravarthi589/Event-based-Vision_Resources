@@ -1,6 +1,6 @@
-# Event-based Vision / Dynamic Vision Sensors / Neuromorphic Vision / Event-based Camera [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Event-based Vision / Dynamic Vision Sensors / Neuromorphic Vision / Event Camera [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This repository is dedicated to categorizing articles on event-based sensing. While many papers are directly linked to PDFs hosted on platforms like arXiv or OpenAccess, certain articles may necessitate access through an academic license. These include publications from IEEE, Springer, Elsevier journals, and others. (Last Updated on: 03/05/2024)
+This repository is dedicated to categorizing articles on event-based sensing. While many papers are directly linked to PDFs hosted on platforms like arXiv or OpenAccess, certain articles may necessitate access through an academic license. These include publications from IEEE, Springer, Elsevier journals, and others. (Last Updated on: 15/04/2024)
 
 #### Search Keywords: 
 Event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic sensor, event camera
@@ -9,15 +9,15 @@ Event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic
 **People who meet the following criteria are free to request a pull (pull request).**
 - Suggestions for new categories
 - Changes to categories for some articles
-- Corrections to the statistical tables
-- Additions of a summary or performance
+- Corrections to include/exclude conference/journals/workshop papers 
+- Additions of event cameras
 
 #### Personal Page: 
 <a href="https://chakravarthi589.github.io/" target="_blank"> Bharatesh Chakravarthi, Ph.D
 
 #### Our Publications:
-- Our Paper "eTraM: Event-based Traffic Monitoring Dataset" accepted by CVPR 2024
-- Our paper "SEVD: Synthetic Event-based Vision Dataset for Ego and Fixed Traffic
+- Our Paper <a href="https://eventbasedvision.github.io/eTram" target="_blank">eTraM:</a> "Event-based Traffic Monitoring Dataset" accepted by CVPR 2024 (Highlight)
+- Our Paper <a href="https://eventbasedvision.github.io/SEVD" target="_blank">SEVD:</a> "Synthetic Event-based Vision Dataset for Ego and Fixed Traffic
 Perception" accepted by CVPR 2024 Workshop on Synthetic Data for Computer Vision
 
 ---
@@ -60,7 +60,7 @@ Perception" accepted by CVPR 2024 Workshop on Synthetic Data for Computer Vision
 ---
 
 ## :high_brightness: Other Papers
-#### Papers from google scholar using the keywords related to event-based vision
+#### Papers from Google Scholar using the keywords related to event-based vision
 
 ---
 
@@ -78,7 +78,42 @@ Perception" accepted by CVPR 2024 Workshop on Synthetic Data for Computer Vision
 
 
 ## CVPR 2024
-- Coming soon...
+- [Our paper] eTraM: Event-based Traffic Monitoring Dataset
+-  Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline
+- State Space Models for Event Cameras
+- OpenESS: Event-based Semantic Scene Understanding with Open Vocabularies
+- A Simple and Effective Point-based Network for Event Camera 6-DOFs Pose Relocalization
+- Bilateral Event Mining and Complementary for Event Stream Super-Resolution
+- Segment Any Event Streams via Weighted Adaptation of Pivotal Tokens
+- Seeing Motion at Nighttime with an Event Camera
+- ExACT: Language-guided Conceptual Reasoning and Uncertainty Estimation for Event-based Action Recognition and More
+- Low-power, Continuous Remote Behavioral Localization with Event Cameras
+- Mitigating Motion Blur in Neural Radiance Fields with Events and Frames
+- EventEgo3D: 3D Human Motion Capture from Egocentric Event Streams
+- Generalized Event Cameras
+- Event-based Structure-from-Orbit
+- CodedEvents: Optimal Point-Spread-Function Engineering for 3D-Tracking with Event Cameras
+- Implicit Event-RGBD Neural SLAM
+- TTA-EVF: Test-Time Adaptation for Event-based Video Frame Interpolation via Reliable Pixel and Sample Estimation
+- SD2Event: Self-supervised Learning of Dynamic Detectors and Contextual Descriptors for Event Cameras
+- 3D Feature Tracking via Event Camera
+- Frequency-aware Event-based Video Deblurring for Real-World Motion Blur
+- HPL-ESS: Hybrid Pseudo-Labeling for Unsupervised Event-based Semantic Segmentation
+- EvDiG: Event-guided Direct and Global Components Separation
+- Bring Event into RGB and LiDAR: Hierarchical Visual-Motion Fusion for Scene Flow
+- LED: A Large-scale Real-world Paired Dataset for Event Camera Denoising
+- EventPS: Real-Time Photometric Stereo Using an Event Camera
+- Video Frame Interpolation via Direct Synthesis with the Event-based Reference
+- Event-assisted Low-Light Video Object Segmentation
+- Scene Adaptive Sparse Transformer for Event-based Object Detection
+- Efficient Meshflow and Optical Flow Estimation from Event Cameras
+- A Linear N-Point Solver for Line and Motion Estimation with Event Cameras
+- Towards Robust Event-guided Low-Light Image Enhancement: A Large-Scale Real-World Event-Image Dataset and Novel Approach
+- EventDance: Unsupervised Cross-modal Source-free Adaptation for Event-based Object Recognition
+- Latency Correction for Event-guided Deblurring and Frame Interpolation
+- Complementing Event Streams and RGB Frames for Hand Mesh Reconstruction
+- Event-based Visible and Infrared Fusion via Multi-task Collaboration
+- LEOD: Label-Efficient Object Detection for Event Cameras
 
 
 ## CVPR 2023
