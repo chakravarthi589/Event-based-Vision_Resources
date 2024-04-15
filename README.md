@@ -16,8 +16,8 @@ Event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic
 <a href="https://chakravarthi589.github.io/" target="_blank"> Bharatesh Chakravarthi, Ph.D
 
 #### Our Publications:
-- Our Paper "eTraM: Event-based Traffic Monitoring Dataset" accepted by CVPR 2024
-- Our paper "SEVD: Synthetic Event-based Vision Dataset for Ego and Fixed Traffic
+- Our Paper <a href="https://eventbasedvision.github.io/eTram" target="_blank">eTraM:</a> "Event-based Traffic Monitoring Dataset" accepted by CVPR 2024 (Highlight)
+- Our Paper <a href="https://eventbasedvision.github.io/SEVD" target="_blank">SEVD:</a> "Synthetic Event-based Vision Dataset for Ego and Fixed Traffic
 Perception" accepted by CVPR 2024 Workshop on Synthetic Data for Computer Vision
 
 ---
@@ -60,7 +60,7 @@ Perception" accepted by CVPR 2024 Workshop on Synthetic Data for Computer Vision
 ---
 
 ## :high_brightness: Other Papers
-#### Papers from google scholar using the keywords related to event-based vision
+#### Papers from Google Scholar using the keywords related to event-based vision
 
 ---
 
