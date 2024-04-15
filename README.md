@@ -78,7 +78,42 @@ Perception" accepted by CVPR 2024 Workshop on Synthetic Data for Computer Vision
 
 
 ## CVPR 2024
-- Coming soon...
+- [Our paper] eTraM: Event-based Traffic Monitoring Dataset
+-  Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline
+- State Space Models for Event Cameras
+- OpenESS: Event-based Semantic Scene Understanding with Open Vocabularies
+- A Simple and Effective Point-based Network for Event Camera 6-DOFs Pose Relocalization
+- Bilateral Event Mining and Complementary for Event Stream Super-Resolution
+- Segment Any Event Streams via Weighted Adaptation of Pivotal Tokens
+- Seeing Motion at Nighttime with an Event Camera
+- ExACT: Language-guided Conceptual Reasoning and Uncertainty Estimation for Event-based Action Recognition and More
+- Low-power, Continuous Remote Behavioral Localization with Event Cameras
+- Mitigating Motion Blur in Neural Radiance Fields with Events and Frames
+- EventEgo3D: 3D Human Motion Capture from Egocentric Event Streams
+- Generalized Event Cameras
+- Event-based Structure-from-Orbit
+- CodedEvents: Optimal Point-Spread-Function Engineering for 3D-Tracking with Event Cameras
+- Implicit Event-RGBD Neural SLAM
+- TTA-EVF: Test-Time Adaptation for Event-based Video Frame Interpolation via Reliable Pixel and Sample Estimation
+- SD2Event: Self-supervised Learning of Dynamic Detectors and Contextual Descriptors for Event Cameras
+- 3D Feature Tracking via Event Camera
+- Frequency-aware Event-based Video Deblurring for Real-World Motion Blur
+- HPL-ESS: Hybrid Pseudo-Labeling for Unsupervised Event-based Semantic Segmentation
+- EvDiG: Event-guided Direct and Global Components Separation
+- Bring Event into RGB and LiDAR: Hierarchical Visual-Motion Fusion for Scene Flow
+- LED: A Large-scale Real-world Paired Dataset for Event Camera Denoising
+- EventPS: Real-Time Photometric Stereo Using an Event Camera
+- Video Frame Interpolation via Direct Synthesis with the Event-based Reference
+- Event-assisted Low-Light Video Object Segmentation
+- Scene Adaptive Sparse Transformer for Event-based Object Detection
+- Efficient Meshflow and Optical Flow Estimation from Event Cameras
+- A Linear N-Point Solver for Line and Motion Estimation with Event Cameras
+- Towards Robust Event-guided Low-Light Image Enhancement: A Large-Scale Real-World Event-Image Dataset and Novel Approach
+- EventDance: Unsupervised Cross-modal Source-free Adaptation for Event-based Object Recognition
+- Latency Correction for Event-guided Deblurring and Frame Interpolation
+- Complementing Event Streams and RGB Frames for Hand Mesh Reconstruction
+- Event-based Visible and Infrared Fusion via Multi-task Collaboration
+- LEOD: Label-Efficient Object Detection for Event Cameras
 
 
 ## CVPR 2023
