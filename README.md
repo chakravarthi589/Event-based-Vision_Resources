@@ -19,6 +19,10 @@ Event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic
 - Our Paper <a href="https://eventbasedvision.github.io/eTram" target="_blank">eTraM:</a> "Event-based Traffic Monitoring Dataset" accepted by CVPR 2024 (Highlight)
 - Our Paper <a href="https://eventbasedvision.github.io/SEVD" target="_blank">SEVD:</a> "Synthetic Event-based Vision Dataset for Ego and Fixed Traffic
 Perception" accepted by CVPR 2024 Workshop on Synthetic Data for Computer Vision
+<p align="center">
+  <img src="eventCameras.png" alt="Event Cameras" width="500px">
+</p>
+
 
 ---
 ## :high_brightness: Event-based Cameras
