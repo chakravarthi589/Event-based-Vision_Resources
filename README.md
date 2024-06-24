@@ -20,7 +20,7 @@ Event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic
 - Our Paper <a href="https://eventbasedvision.github.io/SEVD" target="_blank">SEVD:</a> "Synthetic Event-based Vision Dataset for Ego and Fixed Traffic
 Perception" accepted by CVPR 2024 Workshop on Synthetic Data for Computer Vision
 <p align="center">
-  <img src=cvpr24_SEVD.png" alt="Event Cameras" width="500px">
+  <img src="cvpr24_SEVD.png" alt="Event Cameras" width="500px">
 </p>
 
 
