@@ -53,6 +53,7 @@ Perception" accepted by CVPR 2024 Workshop on Synthetic Data for Computer Vision
 ---
 
 ## :high_brightness: Event-based Vision Workshop Papers
+- [ECCV 2024 Workshop on Neuromorphic Vision: Advantages and Applications of Event Camera (#ECCVW-2024)
 - [CVPR 2023 Workshop on Event-based Vision](#CVPRW-2023) 
 - [CVPR 2021 Workshop on Event-based Vision](#CVPRW-2021) 
 - [CVPR 2019 Workshop on Event-based Vision and Smart Cameras](#CVPRW-2019) 
@@ -345,6 +346,10 @@ Image Reconstruction from Events <a href="https://openaccess.thecvf.com/content/
 ## ICCV 2017
 - No Papers on event-based vision / event-based camera / neuromorphic sensors
 ---
+
+## #ECCVW-2024
+It will be updated... 
+
 
 ## CVPRW 2023
 - Flow cytometry with event-based vision and spiking neuromorphic hardware <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Abreu_Flow_Cytometry_With_Event-Based_Vision_and_Spiking_Neuromorphic_Hardware_CVPRW_2023_paper.pdf" target="_blank">[Paper] </a>
