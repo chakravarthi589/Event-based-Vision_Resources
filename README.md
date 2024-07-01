@@ -81,9 +81,12 @@ Perception" accepted by CVPR 2024 Workshop on Synthetic Data for Computer Vision
 - A Review of Bioinspired Vision Sensors and Their Applications <a href="https://sensors.myu-group.co.jp/sm_pdf/SM1083.pdf" target="_blank">[Paper]
 
 
+
+
 ## CVPR 2024
 - [Our paper] eTraM: Event-based Traffic Monitoring Dataset <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Verma_eTraM_Event-based_Traffic_Monitoring_Dataset_CVPR_2024_paper.pdf" target="_blank">[Paper]</a>
 &nbsp;<a href="https://openaccess.thecvf.com/content/CVPR2024/supplemental/Verma_eTraM_Event-based_Traffic_CVPR_2024_supplemental.pdf" target="_blank">[Supp]</a>
+- EventPS: Real-Time Photometric Stereo Using an Event Camera [CVPR 2024 Honorable Paper] <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_EventPS_Real-Time_Photometric_Stereo_Using_an_Event_Camera_CVPR_2024_paper.pdf" target="_blank">[Paper]</a>
 -  Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline
 - State Space Models for Event Cameras
 - OpenESS: Event-based Semantic Scene Understanding with Open Vocabularies
@@ -107,7 +110,6 @@ Perception" accepted by CVPR 2024 Workshop on Synthetic Data for Computer Vision
 - EvDiG: Event-guided Direct and Global Components Separation
 - Bring Event into RGB and LiDAR: Hierarchical Visual-Motion Fusion for Scene Flow
 - LED: A Large-scale Real-world Paired Dataset for Event Camera Denoising
-- EventPS: Real-Time Photometric Stereo Using an Event Camera
 - Video Frame Interpolation via Direct Synthesis with the Event-based Reference
 - Event-assisted Low-Light Video Object Segmentation
 - Scene Adaptive Sparse Transformer for Event-based Object Detection
