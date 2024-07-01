@@ -81,21 +81,19 @@ Perception" accepted by CVPR 2024 Workshop on Synthetic Data for Computer Vision
 - A Review of Bioinspired Vision Sensors and Their Applications <a href="https://sensors.myu-group.co.jp/sm_pdf/SM1083.pdf" target="_blank">[Paper]
 
 
-
-
 ## CVPR 2024
 - [Our paper] eTraM: Event-based Traffic Monitoring Dataset <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Verma_eTraM_Event-based_Traffic_Monitoring_Dataset_CVPR_2024_paper.pdf" target="_blank">[Paper]</a>
 &nbsp;<a href="https://openaccess.thecvf.com/content/CVPR2024/supplemental/Verma_eTraM_Event-based_Traffic_CVPR_2024_supplemental.pdf" target="_blank">[Supp]</a>
-- EventPS: Real-Time Photometric Stereo Using an Event Camera <b> [CVPR 2024 Honorable Paper] </b> <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_EventPS_Real-Time_Photometric_Stereo_Using_an_Event_Camera_CVPR_2024_paper.pdf" target="_blank">[Paper] </a>
--  Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline
+- EventPS: Real-Time Photometric Stereo Using an Event Camera <b> [CVPR 2024 Honorable Paper] </b> <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_EventPS_Real-Time_Photometric_Stereo_Using_an_Event_Camera_CVPR_2024_paper.pdf" target="_blank">[Paper] </a> <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_EventPS_Real-Time_Photometric_Stereo_Using_an_Event_Camera_CVPR_2024_paper.pdf" target="_blank">[Paper]</a>
+-  Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Event_Stream-based_Visual_Object_Tracking_A_High-Resolution_Benchmark_Dataset_and_CVPR_2024_paper.pdf" target="_blank">[Paper]</a>
 - State Space Models for Event Cameras <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Zubic_State_Space_Models_for_Event_Cameras_CVPR_2024_paper.pdf" target="_blank">[Paper]</a>
-- OpenESS: Event-based Semantic Scene Understanding with Open Vocabularies
-- A Simple and Effective Point-based Network for Event Camera 6-DOFs Pose Relocalization
+- OpenESS: Event-based Semantic Scene Understanding with Open Vocabularies <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Kong_OpenESS_Event-based_Semantic_Scene_Understanding_with_Open_Vocabularies_CVPR_2024_paper.pdf" target="_blank">[Paper]</a>
+- A Simple and Effective Point-based Network for Event Camera 6-DOFs Pose Relocalization <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Ren_A_Simple_and_Effective_Point-based_Network_for_Event_Camera_6-DOFs_CVPR_2024_paper.pdf" target="_blank">[Paper]</a>
 - Bilateral Event Mining and Complementary for Event Stream Super-Resolution <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_Bilateral_Event_Mining_and_Complementary_for_Event_Stream_Super-Resolution_CVPR_2024_paper.pdf" target="_blank">[Paper]</a>
 - Segment Any Event Streams via Weighted Adaptation of Pivotal Tokens <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Segment_Any_Event_Streams_via_Weighted_Adaptation_of_Pivotal_Tokens_CVPR_2024_paper.pdf" target="_blank">[Paper]</a>
 - Seeing Motion at Nighttime with an Event Camera
 - ExACT: Language-guided Conceptual Reasoning and Uncertainty Estimation for Event-based Action Recognition and More
-- Low-power, Continuous Remote Behavioral Localization with Event Cameras
+- Low-power, Continuous Remote Behavioral Localization with Event Cameras <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Hamann_Low-power_Continuous_Remote_Behavioral_Localization_with_Event_Cameras_CVPR_2024_paper.pdf" target="_blank">[Paper]</a>
 - Mitigating Motion Blur in Neural Radiance Fields with Events and Frames <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Cannici_Mitigating_Motion_Blur_in_Neural_Radiance_Fields_with_Events_and_CVPR_2024_paper.pdf" target="_blank">[Paper]</a>
 - EventEgo3D: 3D Human Motion Capture from Egocentric Event Streams <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Millerdurai_EventEgo3D_3D_Human_Motion_Capture_from_Egocentric_Event_Streams_CVPR_2024_paper.pdf" target="_blank">[Paper]</a>
 - Generalized Event Cameras
@@ -104,23 +102,24 @@ Perception" accepted by CVPR 2024 Workshop on Synthetic Data for Computer Vision
 - Implicit Event-RGBD Neural SLAM
 - TTA-EVF: Test-Time Adaptation for Event-based Video Frame Interpolation via Reliable Pixel and Sample Estimation
 - SD2Event: Self-supervised Learning of Dynamic Detectors and Contextual Descriptors for Event Cameras <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Gao_SD2EventSelf-supervised_Learning_of_Dynamic_Detectors_and_Contextual_Descriptors_for_Event_CVPR_2024_paper.pdf" target="_blank">[Paper]</a>
-- 3D Feature Tracking via Event Camera
+- 3D Feature Tracking via Event Camera <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Li_3D_Feature_Tracking_via_Event_Camera_CVPR_2024_paper.pdf" target="_blank">[Paper]</a>
 - Frequency-aware Event-based Video Deblurring for Real-World Motion Blur
 - HPL-ESS: Hybrid Pseudo-Labeling for Unsupervised Event-based Semantic Segmentation
-- EvDiG: Event-guided Direct and Global Components Separation
+- EvDiG: Event-guided Direct and Global Components Separation <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Zhou_EvDiG_Event-guided_Direct_and_Global_Components_Separation_CVPR_2024_paper.pdf" target="_blank">[Paper]</a>
 - Bring Event into RGB and LiDAR: Hierarchical Visual-Motion Fusion for Scene Flow
 - LED: A Large-scale Real-world Paired Dataset for Event Camera Denoising
 - Video Frame Interpolation via Direct Synthesis with the Event-based Reference <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Video_Frame_Interpolation_via_Direct_Synthesis_with_the_Event-based_Reference_CVPR_2024_paper.pdf" target="_blank">[Paper]</a>
 - Event-assisted Low-Light Video Object Segmentation <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Event-assisted_Low-Light_Video_Object_Segmentation_CVPR_2024_paper.pdf" target="_blank">[Paper]</a>
-- Scene Adaptive Sparse Transformer for Event-based Object Detection
-- Efficient Meshflow and Optical Flow Estimation from Event Cameras
+- Scene Adaptive Sparse Transformer for Event-based Object Detection <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Peng_Scene_Adaptive_Sparse_Transformer_for_Event-based_Object_Detection_CVPR_2024_paper.pdf" target="_blank">[Paper]</a>
+- Efficient Meshflow and Optical Flow Estimation from Event Cameras <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Luo_Efficient_Meshflow_and_Optical_Flow_Estimation_from_Event_Cameras_CVPR_2024_paper.pdf" target="_blank">[Paper]</a>
 - A Linear N-Point Solver for Line and Motion Estimation with Event Cameras
 - Towards Robust Event-guided Low-Light Image Enhancement: A Large-Scale Real-World Event-Image Dataset and Novel Approach <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Liang_Towards_Robust_Event-guided_Low-Light_Image_Enhancement_A_Large-Scale_Real-World_Event-Image_CVPR_2024_paper.pdf" target="_blank">[Paper]</a>
-- EventDance: Unsupervised Cross-modal Source-free Adaptation for Event-based Object Recognition
+- EventDance: Unsupervised Cross-modal Source-free Adaptation for Event-based Object Recognition <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_EventDance_Unsupervised_Source-free_Cross-modal_Adaptation_for_Event-based_Object_Recognition_CVPR_2024_paper.pdf" target="_blank">[Paper]</a>
 - Latency Correction for Event-guided Deblurring and Frame Interpolation
 - Complementing Event Streams and RGB Frames for Hand Mesh Reconstruction
 - Event-based Visible and Infrared Fusion via Multi-task Collaboration
-- LEOD: Label-Efficient Object Detection for Event Cameras
+- LEOD: Label-Efficient Object Detection for Event Cameras <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_LEOD_Label-Efficient_Object_Detection_for_Event_Cameras_CVPR_2024_paper.pdf" target="_blank">[Paper]</a>
+- An N-Point Linear Solver for Line and Motion Estimation with Event Cameras <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Gao_An_N-Point_Linear_Solver_for_Line_and_Motion_Estimation_with_CVPR_2024_paper.pdf" target="_blank">[Paper]</a>
 
 
 ## CVPR 2023
