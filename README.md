@@ -46,9 +46,6 @@ Perception" accepted by CVPR 2024 Workshop on Synthetic Data for Computer Vision
 | <b> Carla: </b>  DVS Camera <a href="https://carla.readthedocs.io/en/latest/ref_sensors/#dvs-camera" target="_blank">[Web Link]</a>|
 ---
 
-
-## :high_brightness: Datasets
----
 ## :high_brightness: CV Conference Papers
 | CVPR | WACV | ECCV | ICCV |
 | --------------- | --------------- | --------------- | ---------------|
@@ -61,6 +58,9 @@ Perception" accepted by CVPR 2024 Workshop on Synthetic Data for Computer Vision
 - [CVPR 2019 Workshop on Event-based Vision and Smart Cameras](#CVPRW-2019) 
 - [ICRA 2017 Workshop on Event-based Vision](https://rpg.ifi.uzh.ch/ICRA17_event_vision_workshop.html)
 
+---
+
+## :high_brightness: Datasets
 ---
 
 ## :high_brightness: Other Papers
