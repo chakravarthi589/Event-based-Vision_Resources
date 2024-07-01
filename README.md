@@ -86,7 +86,7 @@ Perception" accepted by CVPR 2024 Workshop on Synthetic Data for Computer Vision
 ## CVPR 2024
 - [Our paper] eTraM: Event-based Traffic Monitoring Dataset <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Verma_eTraM_Event-based_Traffic_Monitoring_Dataset_CVPR_2024_paper.pdf" target="_blank">[Paper]</a>
 &nbsp;<a href="https://openaccess.thecvf.com/content/CVPR2024/supplemental/Verma_eTraM_Event-based_Traffic_CVPR_2024_supplemental.pdf" target="_blank">[Supp]</a>
-- EventPS: Real-Time Photometric Stereo Using an Event Camera [CVPR 2024 Honorable Paper] <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_EventPS_Real-Time_Photometric_Stereo_Using_an_Event_Camera_CVPR_2024_paper.pdf" target="_blank">[Paper]</a>
+- EventPS: Real-Time Photometric Stereo Using an Event Camera <b> [CVPR 2024 Honorable Paper] </b> <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_EventPS_Real-Time_Photometric_Stereo_Using_an_Event_Camera_CVPR_2024_paper.pdf" target="_blank">[Paper]</a>
 -  Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline
 - State Space Models for Event Cameras
 - OpenESS: Event-based Semantic Scene Understanding with Open Vocabularies
