@@ -91,8 +91,8 @@ Perception" accepted by CVPR 2024 Workshop on Synthetic Data for Computer Vision
 - State Space Models for Event Cameras <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Zubic_State_Space_Models_for_Event_Cameras_CVPR_2024_paper.pdf" target="_blank">[Paper]</a>
 - OpenESS: Event-based Semantic Scene Understanding with Open Vocabularies
 - A Simple and Effective Point-based Network for Event Camera 6-DOFs Pose Relocalization
-- Bilateral Event Mining and Complementary for Event Stream Super-Resolution
-- Segment Any Event Streams via Weighted Adaptation of Pivotal Tokens
+- Bilateral Event Mining and Complementary for Event Stream Super-Resolution <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_Bilateral_Event_Mining_and_Complementary_for_Event_Stream_Super-Resolution_CVPR_2024_paper.pdf" target="_blank">[Paper]</a>
+- Segment Any Event Streams via Weighted Adaptation of Pivotal Tokens <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Segment_Any_Event_Streams_via_Weighted_Adaptation_of_Pivotal_Tokens_CVPR_2024_paper.pdf" target="_blank">[Paper]</a>
 - Seeing Motion at Nighttime with an Event Camera
 - ExACT: Language-guided Conceptual Reasoning and Uncertainty Estimation for Event-based Action Recognition and More
 - Low-power, Continuous Remote Behavioral Localization with Event Cameras
