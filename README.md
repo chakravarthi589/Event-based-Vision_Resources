@@ -418,9 +418,3 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - Event-based attention and tracking on neuromorphic hardware <a href="https://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Renner_Event-Based_Attention_and_Tracking_on_Neuromorphic_Hardware_CVPRW_2019_paper.pdf" target="_blank">[Paper] </a>
 ---
 
-#### Pull Request: 
-**People who meet the following criteria are free to request a pull (pull request).**
-- Suggestions for new categories
-- Changes to categories for some articles
-- Corrections to include/exclude conference/journals/workshop papers 
-- Additions of event cameras
