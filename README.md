@@ -5,14 +5,7 @@ This repository is dedicated to categorizing articles on event-based vision. Whi
 #### Search Keywords: 
 Event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic sensor, event camera
 
-#### Pull Request: 
-**People who meet the following criteria are free to request a pull (pull request).**
-- Suggestions for new categories
-- Changes to categories for some articles
-- Corrections to include/exclude conference/journals/workshop papers 
-- Additions of event cameras
-
-#### Personal Page: 
+#### Github Page Curator: 
 <a href="https://chakravarthi589.github.io/" target="_blank"> Bharatesh Chakravarthi, Ph.D
 
 #### Our Publications:
@@ -424,3 +417,10 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - Real-time VI-SLAM with High-Resolution Event Camera <a href="https://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Yang_Live_Demonstration_Real-Time_Vi-SLAM_With_High-Resolution_Event_Camera_CVPRW_2019_paper.pdf" target="_blank">[Paper] </a>
 - Event-based attention and tracking on neuromorphic hardware <a href="https://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Renner_Event-Based_Attention_and_Tracking_on_Neuromorphic_Hardware_CVPRW_2019_paper.pdf" target="_blank">[Paper] </a>
 ---
+
+#### Pull Request: 
+**People who meet the following criteria are free to request a pull (pull request).**
+- Suggestions for new categories
+- Changes to categories for some articles
+- Corrections to include/exclude conference/journals/workshop papers 
+- Additions of event cameras
