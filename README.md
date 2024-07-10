@@ -254,7 +254,7 @@ Accepted Papers will be updated Soon...
 
 
 ## ECCV 2022
-- Event-Based Fusion for Motion Deblurring with Cross-modal Attention <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780403-supp.pdf" target="_blank">[Paper]</a>
+- Event-Based Fusion for Motion Deblurring with Cross-modal Attention <a href="https://arxiv.org/pdf/2112.00167" target="_blank">[Paper]</a>
 - Event-guided Deblurring of Unknown Exposure Time Videos <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780510.pdf" target="_blank">[Paper]</a>
 - Secrets of Event-Based Optical Flow <a href="https://arxiv.org/pdf/2207.10022.pdf" target="_blank">[Paper]</a>
 - EvAC3D: From Event-based Apparent Contours to 3D Models via Continuous Visual Hulls <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670278.pdf" target="_blank">[Paper]</a>
