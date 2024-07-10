@@ -57,8 +57,8 @@ Perception" accepted by CVPR 2024 Workshop on Synthetic Data for Computer Vision
 ## :high_brightness: Datasets
 ---
 
-## :high_brightness: Other Papers
-#### Papers from Google Scholar using the keywords related to event-based vision
+## :high_brightness: Other Papers 
+[Papers from Google Scholar using the keywords related to event-based vision](#Other-Papers)
 
 ---
 
