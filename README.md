@@ -234,7 +234,7 @@ Perception" accepted by CVPR 2024 Workshop on Synthetic Data for Computer Vision
 
 
 ## WACV 2019
-- Attention Mechanisms for Object Recognition With Event-Based Cameras <a href="/https://arxiv.org/pdf/1807.09480.pdf" target="_blank">[Paper]</a>
+- Attention Mechanisms for Object Recognition With Event-Based Cameras <a href="https://arxiv.org/pdf/1807.09480" target="_blank">[Paper]</a>
 - Space-Time Event Clouds for Gesture Recognition: From RGB Cameras to Event Cameras <a href="https://ieeexplore.ieee.org/document/8659288" target="_blank">[Paper]</a>
 
 
