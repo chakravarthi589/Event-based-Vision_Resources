@@ -73,6 +73,7 @@ Perception" accepted by CVPR 2024 Workshop on Synthetic Data for Computer Vision
 - A Review of Event-Based Indoor Positioning and Navigation <a href="https://ceur-ws.org/Vol-3248/paper12.pdf" target="_blank">[Paper]
 - Retinomorphic Event-Based Vision Sensors: Bioinspired Cameras With Spiking Output <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6887319" target="_blank">[Paper]
 - A Review of Bioinspired Vision Sensors and Their Applications <a href="https://sensors.myu-group.co.jp/sm_pdf/SM1083.pdf" target="_blank">[Paper]
+- Research, Applications and Prospects of Event-Based Pedestrian Detection: A Survey
 
 
 ## CVPR 2024
@@ -421,6 +422,22 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 ## Other Papers
 
 #### 2024
+- A Composable Dynamic Sparse Dataflow Architecture for Efficient Event-based Vision Processing on FPGA
+- Optimising Graph Representation for Hardware Implementation of Graph Convolutional Networks for Event-Based Vision
+- SpikingViT: a Multi-scale Spiking Vision Transformer Model for Event-based Object Detection
+- A Color Event-Based Camera Emulator for Robot Vision
+- An 8×8 Event-Based Vision Infrared Sensor ROIC With Adaptive Threshold Voltage Generation Circuit
+- EvGNN: An Event-driven Graph Neural Network Accelerator for Edge Vision
+- A leakage-suppressed capacitive-feedback amplifier scheme for event-based vision sensors in scaled-down technology
+- Event-based Monocular Depth Estimation with Recurrent Transformers
+- MVT: Multi-Vision Transformer for Event-Based Small Target Detection
+- EvHandPose: Event-based 3D Hand Pose Estimation with Sparse Supervision
+- Spatio-Temporal Fusion Spiking Neural Network for Frame-Based and Event-Based Camera Sensor Fusion
+- HyperE2VID: Improving Event-Based Video Reconstruction via Hypernetworks
+- Event-Based Visual Odometry on Non-Holonomic Ground Vehicles
+
+
+
 
 #### 2023
 - Event-Diffusion: Event-Based Image Reconstruction and Restoration with Diffusion Models <a href="https://dl.acm.org/doi/pdf/10.1145/3581783.3612462" target="_blank">[Paper] </a>
