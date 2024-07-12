@@ -61,9 +61,7 @@ Perception" accepted by CVPR 2024 Workshop on Synthetic Data for Computer Vision
 | <a href="https://eventbasedvision.github.io/eTraM/" target="_blank"> eTraM </a>      | Fixed perception traffic monitoring data                                                                     | Real-world | Prophesee EVK4 HD  | 2D Bounding Box   | Vehicle, Pedestrian, Micromobility  | Daytime, Nighttime, Twilight               | Clear, Rainy                                   |
 | <a href="https://eventbasedvision.github.io/SEVD/" target="_blank"> SEVD        | Fixed and Ego perception Multiview Multi-Modality (RGB, Depth, Optical, Semantic, Instance) traffic data      | Synthetic  | Carla DVS          | 2D & 3D Bounding Box  | Vehicle, Pedestrian, Micromobility  | Daytime, Nighttime, Twilight, Domain shifts | Clear, Cloudy, Wet, Soft Rainy, Hard Rainy, Foggy |
 
-[Synthetic Event-based Datasets](#Synthetic-Event-based-Datasets)
-[Realworld Event-based Datasets](#Realworld-Event-based-Datasets)
----
+
 
 ## :high_brightness: Other Papers 
 [Papers from Google Scholar using the keywords related to event-based vision](#Other-Papers)
@@ -427,11 +425,10 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - Event-based attention and tracking on neuromorphic hardware <a href="https://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Renner_Event-Based_Attention_and_Tracking_on_Neuromorphic_Hardware_CVPRW_2019_paper.pdf" target="_blank">[Paper] </a>
 ---
 
-##Synthetic-Event-based-Datasets
-##Realworld-Event-based-Datasets
+## Synthetic Event-based Datasets
+## Realworld Event-based Datasets
+
 ---
-
-
 ## Other Papers
 
 #### 2024
