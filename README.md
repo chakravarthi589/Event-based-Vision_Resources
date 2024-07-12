@@ -55,6 +55,11 @@ Perception" accepted by CVPR 2024 Workshop on Synthetic Data for Computer Vision
 ---
 
 ## :high_brightness: Datasets
+
+| Dataset Name | Dataset Description | Type | Opensource | Event-Modality | Annotations | Duration | Object Class | Lighting | Weather |
+|--------------|---------------------|------|------------|----------------|-------------|----------|--------------|----------|---------|
+| eTram        | Fixed perception traffic monitoring data | Real-world | ✔ | Prophesee EVK4 HD | 2D Bounding Box | | Vehicle, Pedestrian, Micromobility | Daytime, Nighttime, Twilight | Clear, Rainy |
+| SEVD         | Fixed and Ego perception Multiview Multi-Modality (RGB, Depth, Optical, Semantic, Instance) traffic data | Synthetic | ✔ | Carla DVS | 2D & 3D Bounding Box | | Vehicle, Pedestrian, Micromobility | Daytime, Nighttime, Twilight, Domain shifts | Clear, Cloudy, Wet, Soft Rainy, Hard Rainy, Foggy |
 ---
 
 ## :high_brightness: Other Papers 
