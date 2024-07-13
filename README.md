@@ -436,19 +436,19 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 ## Other Papers
 
 #### 2024
-- A Composable Dynamic Sparse Dataflow Architecture for Efficient Event-based Vision Processing on FPGA
-- Optimising Graph Representation for Hardware Implementation of Graph Convolutional Networks for Event-Based Vision
-- SpikingViT: a Multi-scale Spiking Vision Transformer Model for Event-based Object Detection
-- A Color Event-Based Camera Emulator for Robot Vision
-- An 8×8 Event-Based Vision Infrared Sensor ROIC With Adaptive Threshold Voltage Generation Circuit
-- EvGNN: An Event-driven Graph Neural Network Accelerator for Edge Vision
-- A leakage-suppressed capacitive-feedback amplifier scheme for event-based vision sensors in scaled-down technology
-- Event-based Monocular Depth Estimation with Recurrent Transformers
-- MVT: Multi-Vision Transformer for Event-Based Small Target Detection
-- EvHandPose: Event-based 3D Hand Pose Estimation with Sparse Supervision
-- Spatio-Temporal Fusion Spiking Neural Network for Frame-Based and Event-Based Camera Sensor Fusion
-- HyperE2VID: Improving Event-Based Video Reconstruction via Hypernetworks
-- Event-Based Visual Odometry on Non-Holonomic Ground Vehicles
+- A Composable Dynamic Sparse Dataflow Architecture for Efficient Event-based Vision Processing on FPGA <a href="https://dl.acm.org/doi/pdf/10.1145/3626202.3637558" target="_blank">[Paper] </a>
+- Optimising Graph Representation for Hardware Implementation of Graph Convolutional Networks for Event-Based Vision <a href="https://link.springer.com/chapter/10.1007/978-3-031-62874-0_9" target="_blank">[Paper] </a>
+- SpikingViT: a Multi-scale Spiking Vision Transformer Model for Event-based Object Detection <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10586833" target="_blank">[Paper] </a>
+- A Color Event-Based Camera Emulator for Robot Vision <a href="https://link.springer.com/chapter/10.1007/978-3-031-59057-3_24" target="_blank">[Paper] </a>
+- An 8×8 Event-Based Vision Infrared Sensor ROIC With Adaptive Threshold Voltage Generation Circuit <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10433007" target="_blank">[Paper] </a>
+- EvGNN: An Event-driven Graph Neural Network Accelerator for Edge Vision <a href="https://arxiv.org/pdf/2404.19489" target="_blank">[Paper] </a>
+- A leakage-suppressed capacitive-feedback amplifier scheme for event-based vision sensors in scaled-down technology <a href="https://www.sciencedirect.com/science/article/pii/S0026269224000958?casa_token=jRK-hI6828wAAAAA:wXI8o4cN8n0SHoLKgibgzb2MAGEySHwGstrXb9S1dGVF3w-bv-q1773VYiA9VOeYGg1JPGr_dzk" target="_blank">[Paper] </a>
+- Event-based Monocular Depth Estimation with Recurrent Transformers <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10474340" target="_blank">[Paper] </a>
+- MVT: Multi-Vision Transformer for Event-Based Small Target Detection <a href="https://www.mdpi.com/2072-4292/16/9/1641" target="_blank">[Paper] </a>
+- EvHandPose: Event-based 3D Hand Pose Estimation with Sparse Supervision <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10478195" target="_blank">[Paper] </a>
+- Spatio-Temporal Fusion Spiking Neural Network for Frame-Based and Event-Based Camera Sensor Fusion <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10444915" target="_blank">[Paper] </a>
+- HyperE2VID: Improving Event-Based Video Reconstruction via Hypernetworks <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10462903" target="_blank">[Paper] </a>
+- Event-Based Visual Odometry on Non-Holonomic Ground Vehicles <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10550819" target="_blank">[Paper] </a>
 
 
 
