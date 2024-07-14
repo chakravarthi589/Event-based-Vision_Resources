@@ -59,7 +59,7 @@ Perception" accepted by CVPR 2024 Workshop on Synthetic Data for Computer Vision
 - [Synthetic Event-based Datasets](#Synthetic-Event-based-Datasets) <br/> <br/>
 - [Realworld Event-based Datasets](#Realworld-Event-based-Datasets)
 <br/><br/>
-- Our Datasets
+- Our Datasets <br/>
 | Our Datsets | Dataset Description                                                                                          | Type       | Event-Modality     | Annotations       | Object Class                  | Lighting                                 | Weather                                        |
 |-------|------|----------|---------------|-------------|-----------------|------------------|--------------------|
 | <a href="https://eventbasedvision.github.io/eTraM/" target="_blank"> eTraM </a>      | Fixed perception traffic monitoring data (10 Hrs)                                                                    | Real-world | Prophesee EVK4 HD  | 2D Bounding Box (~2M BB)   | Vehicle, Pedestrian, Micro-mobility  | Daytime, Nighttime, Twilight               | Clear, Rainy                                   |
