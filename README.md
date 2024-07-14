@@ -58,7 +58,7 @@ Perception" accepted by CVPR 2024 Workshop on Synthetic Data for Computer Vision
 
 - [Synthetic Event-based Datasets](#Synthetic-Event-based-Datasets) <br/> <br/>
 - [Realworld Event-based Datasets](#Realworld-Event-based-Datasets) <br/> <br/>
-- [Our Datasets] <br/>
+- Our Datasets <br/>
 
 | Our Datsets | Dataset Description                                                                                          | Type       | Event-Modality     | Annotations       | Object Class                  | Lighting                                 | Weather                                        |
 |-------|------|----------|---------------|-------------|-----------------|------------------|--------------------|
