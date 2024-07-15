@@ -465,4 +465,8 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 
 #### 2017
 - DDD17: End-to-end DAVIS driving dataset <a href="https://arxiv.org/pdf/1711.01458" target="_blank">[Paper] </a>
+- CIFAR10-DVS: An Event-Stream Dataset for Object Classification <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2017.00309/full" target="_blank">[Paper] </a>
+
+#### 2015
+- Converting Static Image Datasets to Spiking Neuromorphic Datasets Using Saccades <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2015.00437/full"_blank">[Paper] </a>
 
