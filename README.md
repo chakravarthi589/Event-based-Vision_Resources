@@ -455,6 +455,7 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 
 #### 2020
 - A Large Scale Event-based Detection Dataset for Automotive <a href="https://arxiv.org/pdf/2001.08499" target="_blank">[Paper] </a>
+- Learning to Detect Objects with a 1 Megapixel Event Camera <a href="https://papers.nips.cc/paper/2020/file/c213877427b46fa96cff6c39e837ccee-Paper.pdf" target="_blank">[Paper] </a>
 
 
 
