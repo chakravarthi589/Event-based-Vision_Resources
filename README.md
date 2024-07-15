@@ -450,12 +450,11 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - HyperE2VID: Improving Event-Based Video Reconstruction via Hypernetworks <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10462903" target="_blank">[Paper] </a>
 - Event-Based Visual Odometry on Non-Holonomic Ground Vehicles <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10550819" target="_blank">[Paper] </a>
 
-
-
-
 #### 2023
 - Event-Diffusion: Event-Based Image Reconstruction and Restoration with Diffusion Models <a href="https://dl.acm.org/doi/pdf/10.1145/3581783.3612462" target="_blank">[Paper] </a>
 
+#### 2020
+- A Large Scale Event-based Detection Dataset for Automotive <a href="https://arxiv.org/pdf/2001.08499" target="_blank">[Paper] </a>
 
 
 
