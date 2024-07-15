@@ -346,6 +346,7 @@ Image Reconstruction from Events <a href="https://openaccess.thecvf.com/content/
 - Learning an Event Sequence Embedding for Dense Event-Based Deep Stereo <a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Tulyakov_Learning_an_Event_Sequence_Embedding_for_Dense_Event-Based_Deep_Stereo_ICCV_2019_paper.pdf" target="_blank">[Paper]</a>
 - End-to-End Learning of Representations for Asynchronous Event-Based Data <a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Gehrig_End-to-End_Learning_of_Representations_for_Asynchronous_Event-Based_Data_ICCV_2019_paper.pdf" target="_blank">[Paper]</a>
 - Event-Based Motion Segmentation by Motion Compensation <a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Stoffregen_Event-Based_Motion_Segmentation_by_Motion_Compensation_ICCV_2019_paper.pdf" target="_blank">[Paper]</a>
+- Graph-Based Object Classification for Neuromorphic Vision Sensing <a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Bi_Graph-Based_Object_Classification_for_Neuromorphic_Vision_Sensing_ICCV_2019_paper.pdf" target="_blank">[Paper]</a>
 
 
 ## ICCV 2017
