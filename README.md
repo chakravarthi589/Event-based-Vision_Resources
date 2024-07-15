@@ -453,6 +453,9 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 #### 2023
 - Event-Diffusion: Event-Based Image Reconstruction and Restoration with Diffusion Models <a href="https://dl.acm.org/doi/pdf/10.1145/3581783.3612462" target="_blank">[Paper] </a>
 
+#### 2021
+- DSEC: A Stereo Event Camera Dataset for Driving Scenarios <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9387069" target="_blank">[Paper] </a>
+
 #### 2020
 - A Large Scale Event-based Detection Dataset for Automotive <a href="https://arxiv.org/pdf/2001.08499" target="_blank">[Paper] </a>
 - Learning to Detect Objects with a 1 Megapixel Event Camera <a href="https://papers.nips.cc/paper/2020/file/c213877427b46fa96cff6c39e837ccee-Paper.pdf" target="_blank">[Paper] </a>
