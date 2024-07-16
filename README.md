@@ -430,7 +430,6 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - Event-based attention and tracking on neuromorphic hardware <a href="https://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Renner_Event-Based_Attention_and_Tracking_on_Neuromorphic_Hardware_CVPRW_2019_paper.pdf" target="_blank">[Paper] </a>
 ---
 
-## Synthetic Event-based Datasets
 ## Realworld Event-based Datasets
 
 | Year | Dataset                          | Sensor                      | Annotation Type             | Objects                                             | Task                                  | Description                                                                                                         |
@@ -451,7 +450,7 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 | 2017 | DvsGesture                       | DVS128                      | Yes                         | 11 Hand and arm gestures                            | Gesture Recognition (Hand and arm)    | Gesture dataset comprising 11 hand gesture categories from 29 subjects under 3 illumination conditions             |
 | 2017 | Event Camera Dataset             | DAVIS 240C                  | Yes                         | Objects rotation, translation, person walking and running, etc., | Pose estimation, visual odometry, SLAM | The dataset consists of object's motion captured in outdoor and indoor scenarios with varying speed and DoFs       |
 
-
+## Synthetic Event-based Datasets
 ---
 ## Other Papers
 
