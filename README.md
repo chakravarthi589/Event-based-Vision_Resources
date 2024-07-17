@@ -34,6 +34,7 @@ Perception" accepted by CVPR 2024 Workshop on Synthetic Data for Computer Vision
 | Event-Camera Simulators |
 | --------------- | 
 | <b> ESIM: </b>  An Open Event Camera Simulator <a href="https://rpg.ifi.uzh.ch/docs/CORL18_Rebecq.pdf" target="_blank">[Paper]</a>&nbsp;<a href="https://github.com/uzh-rpg/rpg_esim" target="_blank">[Github]</a>&nbsp;<a href="https://rpg.ifi.uzh.ch/esim.html" target="_blank">[Webpage]|
+| <b> DAVIS simulator: </b>  An Event Camera Simulator based on Blender <a href="https://arxiv.org/pdf/1610.08336" target="_blank">[Paper]</a>&nbsp;<a href="https://github.com/uzh-rpg/rpg_davis_simulator" target="_blank">[Github]</a>&nbsp;<a href="https://rpg.ifi.uzh.ch/davis_data.html" target="_blank">[Webpage]|
 | <b> v2e: </b>  From Video Frames to Realistic DVS Events <a href="https://tub-rip.github.io/eventvision2021/papers/2021CVPRW_V2E_From_Video_Frames_to_Realistic_DVS_Events.pdf" target="_blank">[Paper]</a>&nbsp;<a href="https://github.com/SensorsINI/v2e" target="_blank">[Github]</a>&nbsp;<a href="https://sites.google.com/view/video2events/home" target="_blank">[Webpage]|
 | <b> DVS-Voltmeter: </b>  Stochastic Process-based Event Simulator for Dynamic Vision Sensors <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670571.pdf" target="_blank">[Paper]</a>&nbsp;<a href="https://github.com/Lynn0306/DVS-Voltmeter" target="_blank">[Github]</a>|
 | <b> Carla: </b>  DVS Camera <a href="https://carla.readthedocs.io/en/latest/ref_sensors/#dvs-camera" target="_blank">[Web Link]</a>|
