@@ -57,7 +57,7 @@ Perception" accepted by CVPR 2024 Workshop on Synthetic Data for Computer Vision
 
 ## :high_brightness: Datasets
 
-- [Realworld Event-based Datasets](#Realworld-Event-based-Datasets) <br/> <br/>
+- [Realworld Event-based Datasets](#Realworld-Event-based-Datasets) <br/> 
 - [Synthetic Event-based Datasets](#Synthetic-Event-based-Datasets) <br/> <br/>
 
 - Our Datasets <br/>
