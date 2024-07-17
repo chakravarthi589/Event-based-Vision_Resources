@@ -31,7 +31,7 @@ Perception" accepted by CVPR 2024 Workshop on Synthetic Data for Computer Vision
 ---
 ## :high_brightness: Tools / Simulators 
 
-| Simulators |
+| Event-Camera Simulators |
 | --------------- | 
 | <b> ESIM: </b>  An Open Event Camera Simulator <a href="https://rpg.ifi.uzh.ch/docs/CORL18_Rebecq.pdf" target="_blank">[Paper]</a>&nbsp;<a href="https://github.com/uzh-rpg/rpg_esim" target="_blank">[Github]</a>&nbsp;<a href="https://rpg.ifi.uzh.ch/esim.html" target="_blank">[Webpage]|
 | <b> v2e: </b>  From Video Frames to Realistic DVS Events <a href="https://tub-rip.github.io/eventvision2021/papers/2021CVPRW_V2E_From_Video_Frames_to_Realistic_DVS_Events.pdf" target="_blank">[Paper]</a>&nbsp;<a href="https://github.com/SensorsINI/v2e" target="_blank">[Github]</a>&nbsp;<a href="https://sites.google.com/view/video2events/home" target="_blank">[Webpage]|
