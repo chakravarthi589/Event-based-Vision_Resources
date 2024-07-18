@@ -79,7 +79,7 @@ Perception" accepted by CVPR 2024 Workshop on Synthetic Data for Computer Vision
 ---
 
 ## :high_brightness: Survey/Review Papers
-- Event-Based Vision: A Survey <a href="https://arxiv.org/abs/1904.08405" target="_blank">[Paper]
+- Event-Based Vision: A Survey <a href="https://arxiv.org/pdf/1904.08405" target="_blank">[Paper]
 - Deep Learning for Event-based Vision: A Comprehensive Survey and Benchmarks <a href="https://arxiv.org/pdf/2302.08890.pdf" target="_blank">[Paper]
 - Neuromorphic vision: From sensors to event-based algorithms <a href="https://wires.onlinelibrary.wiley.com/doi/epdf/10.1002/widm.1310" target="_blank">[Paper]
 - Event-Based Neuromorphic Vision for Autonomous Driving: A Paradigm Shift for Bio-Inspired Visual Sensing and Perception <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9129849" target="_blank">[Paper]
