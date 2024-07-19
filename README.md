@@ -491,6 +491,7 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 #### 2023
 - Event-Diffusion: Event-Based Image Reconstruction and Restoration with Diffusion Models <a href="https://dl.acm.org/doi/pdf/10.1145/3581783.3612462" target="_blank">[Paper] </a>
 - V2CE: Video to Continuous Events Simulator <a href="https://arxiv.org/pdf/2309.08891" target="_blank">[Paper] </a>
+- E-nerf: Neural radiance fields from a moving event camera
 
 #### 2022
 - Fast classification and action recognition with event-based imaging
@@ -500,7 +501,6 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - DSEC: A Stereo Event Camera Dataset for Driving Scenarios <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9387069" target="_blank">[Paper] </a>
 - Event Camera Simulator Improvements via Characterized Parameters <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.702765/full" target="_blank">[Paper] </a>
 - Event-based stereo visual odometry
-
 
 
 #### 2020
@@ -516,6 +516,7 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 #### 2017
 - DDD17: End-to-end DAVIS driving dataset <a href="https://arxiv.org/pdf/1711.01458" target="_blank">[Paper] </a>
 - CIFAR10-DVS: An Event-Stream Dataset for Object Classification <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2017.00309/full" target="_blank">[Paper] </a>
+- High-speed video generation with an event camera
 
 #### 2016
 - The event-camera dataset and simulator: Event-based data for pose estimation, visual odometry, and SLAM <a href=" " taget="https://journals.sagepub.com/doi/epub/10.1177/0278364917691115" target="_blank"> [Paper] </a>
@@ -524,3 +525,9 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - Converting Static Image Datasets to Spiking Neuromorphic Datasets Using Saccades <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2015.00437/full" target="_blank">[Paper] </a>
 - Poker-DVS and MNIST-DVS. Their History, How They Were Made, and Other Details <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2015.00481/full" target="_blank">[Paper] </a>
 
+#### 2014
+- Event-based, 6-DOF pose tracking for high-speed maneuvers
+- Low-latency event-based visual odometry
+
+#### 2013
+- Event-based visual flow
