@@ -502,6 +502,9 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 
 #### 2018
 - The Multivehicle Stereo Event Camera Dataset: An Event Camera Dataset for 3D Perception <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8288670" target="_blank">[Paper] </a>
+- Event-based moving object detection and tracking
+- Long-term object tracking with a moving event camera
+- EV-FlowNet: Self-Supervised Optical Flow Estimation for Event-based Cameras
 
 #### 2017
 - DDD17: End-to-end DAVIS driving dataset <a href="https://arxiv.org/pdf/1711.01458" target="_blank">[Paper] </a>
