@@ -518,6 +518,16 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - CIFAR10-DVS: An Event-Stream Dataset for Object Classification <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2017.00309/full" target="_blank">[Paper] </a>
 - High-speed video generation with an event camera
 - The event-camera dataset and simulator: Event-based data for pose estimation, visual odometry, and SLAM <a href=" " taget="https://journals.sagepub.com/doi/epub/10.1177/0278364917691115" target="_blank"> [Paper] </a>
+- A spiking neural network model of 3D perception for event-based neuromorphic stereo vision systems
+- Event-Based, 6-DOF Camera Tracking from Photometric Depth Maps
+- Event-based feature tracking with probabilistic data association
+- Fast event-based corner detection
+- An Event-Driven Classifier for Spiking Neural Networks Fed with Synthetic or Dynamic Vision Sensor Data
+- Event-Driven Stereo Visual Tracking Algorithm to Solve Object Occlusion
+- Event-Based Stereo Depth Estimation Using Belief Propagation
+- 4.1 A 640×480 dynamic vision sensor with a 9µm pixel and 300Meps address-event representation
+- Real-time Visual-Inertial Odometry for Event Cameras using Keyframe-based Nonlinear Optimization
+- Accurate Angular Velocity Estimation With an Event Camera
 
 #### 2016
 
