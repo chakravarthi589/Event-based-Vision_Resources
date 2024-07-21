@@ -501,6 +501,16 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - DSEC: A Stereo Event Camera Dataset for Driving Scenarios <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9387069" target="_blank">[Paper] </a>
 - Event Camera Simulator Improvements via Characterized Parameters <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.702765/full" target="_blank">[Paper] </a>
 - Event-based stereo visual odometry
+- Event-driven Vision and Control for UAVs on a Neuromorphic Chip
+- Self-Supervised Learning of Event-Based Optical Flow with Spiking Neural Networks
+- Event-Based Motion Segmentation With Spatio-Temporal Graph Cuts
+- Temporal Binary Representation for Event-Based Action Recognition
+- E-RAFT: Dense Optical Flow from Event Cameras
+- High-speed structured light based 3D scanning using an event camera
+- TUM-VIE: The TUM Stereo Visual-Inertial Event Dataset
+- Real-time face & eye tracking and blink detection using event cameras
+- Combining Events and Frames Using Recurrent Asynchronous Multimodal Networks for Monocular Depth Prediction
+
 
 
 #### 2020
