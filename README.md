@@ -513,7 +513,18 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - Long-term object tracking with a moving event camera
 - EV-FlowNet: Self-Supervised Optical Flow Estimation for Event-based Cameras
 - ESIM: an Open Event Camera Simulator
-- 
+- EMVS: Event-Based Multi-View Stereo—3D Reconstruction with an Event Camera in Real-Time
+- A Novel Event-Based Incipient Slip Detection Using Dynamic Active-Pixel Vision Sensor (DAVIS)
+- Real-Time Clustering and Multi-Target Tracking Using Event-Based Sensors
+- ACE: An Efficient Asynchronous Corner Tracker for Event Cameras
+- Pseudo-Labels for Supervised Learning on Dynamic Vision Sensor Data, Applied to Object Detection Under Ego-Motion
+- Asynchronous Corner Detection and Tracking for Event Cameras in Real Time
+- Continuous-Time Visual-Inertial Odometry for Event Cameras
+- Continuous-Time Intensity Estimation Using Event Cameras
+- ABMOF: A Novel Optical Flow Algorithm for Dynamic Vision Sensors
+- Unsupervised Learning of Dense Optical Flow, Depth and Egomotion from Sparse Event Data
+- Front and Back Illuminated Dynamic and Active Pixel Vision Sensors Comparison
+
 
 #### 2017
 - DDD17: End-to-end DAVIS driving dataset <a href="https://arxiv.org/pdf/1711.01458" target="_blank">[Paper] </a>
