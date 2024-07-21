@@ -496,6 +496,24 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 #### 2022
 - Fast classification and action recognition with event-based imaging
 - Event-based motion capture system for online multi-quadrotor localization and tracking
+- Fusing Event-based and RGB camera for Robust Object Detection in Adverse Conditions
+- Event-Based Line SLAM in Real-Time
+- Neuromorphic Vision-Based Fall Localization in Event Streams With Temporal–Spatial Attention Weighted Network
+- Asynchronous Spatio-Temporal Memory Network for Continuous Event-Based Object Detection
+- Spatio-Temporal Recurrent Networks for Event-Based Optical Flow Estimation
+- Event-LSTM: An Unsupervised and Asynchronous Learning-Based Representation for Event-Based Data
+- EDFLOW: Event Driven Optical Flow Camera With Keypoint Detection and Adaptive Block Matching
+- Event Transformer. A Sparse-Aware Solution for Efficient Event Data Processing
+- Learning Dense and Continuous Optical Flow From an Event Camera
+- ECSNet: Spatio-Temporal Feature Learning for Event Camera
+- Visual Odometry with an Event Camera Using Continuous Ray Warping and Volumetric Contrast Maximization
+- Time-Ordered Recent Event (TORE) Volumes for Event Cameras
+- Low Cost and Latency Event Camera Background Activity Denoising
+- SuperFast: 200× Video Frame Interpolation via Event Camera
+- Real-Time Gaze Tracking with Event-Driven Eye Segmentation
+- Exploiting Spatial Sparsity for Event Cameras with Visual Transformers
+- Understanding Human Reactions Looking at Facial Microexpressions With an Event Camera
+- Bridging the Gap Between Events and Frames Through Unsupervised Domain Adaptation
 
 #### 2021
 - DSEC: A Stereo Event Camera Dataset for Driving Scenarios <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9387069" target="_blank">[Paper] </a>
@@ -510,7 +528,6 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - TUM-VIE: The TUM Stereo Visual-Inertial Event Dataset
 - Real-time face & eye tracking and blink detection using event cameras
 - Combining Events and Frames Using Recurrent Asynchronous Multimodal Networks for Monocular Depth Prediction
-
 
 
 #### 2020
