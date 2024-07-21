@@ -492,6 +492,22 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - Event-Diffusion: Event-Based Image Reconstruction and Restoration with Diffusion Models <a href="https://dl.acm.org/doi/pdf/10.1145/3581783.3612462" target="_blank">[Paper] </a>
 - V2CE: Video to Continuous Events Simulator <a href="https://arxiv.org/pdf/2309.08891" target="_blank">[Paper] </a>
 - E-nerf: Neural radiance fields from a moving event camera
+- An Artificial Neural SLAM Framework for Event-Based Vision
+- A 2.97μm-Pitch Event-Based Vision Sensor with Shared Pixel Front-End Circuitry and Low-Noise Intensity Readout Mode
+- .22μm 35.6Mpixel RGB Hybrid Event-Based Vision Sensor with 4.88μm-Pitch Event Pixels and up to 10K Event Frame Rate by Adaptive Control on Event Sparsity
+- Intelligent Machinery Fault Diagnosis With Event-Based Camera
+- Spiking neural networks for frame-based and event-based single object localization
+- Event-Based Semantic Segmentation With Posterior Attention
+- ESVIO: Event-Based Stereo Visual Inertial Odometry
+- Event-Based Low-Illumination Image Enhancement
+- Optical flow estimation from event-based cameras and spiking neural networks
+- VisEvent: Reliable Object Tracking via Collaboration of Frame and Event Flows
+- EventMix: An efficient data augmentation strategy for event-based learning
+- Computational event-driven vision sensors for in-sensor spiking neural networks
+- PL-EVIO: Robust Monocular Event-Based Visual Inertial Odometry With Point and Line Features
+- Motion Robust High-Speed Light-Weighted Object Detection With Event Camera
+- Real-Time Multi-Task Facial Analytics With Event Cameras
+
 
 #### 2022
 - Fast classification and action recognition with event-based imaging
