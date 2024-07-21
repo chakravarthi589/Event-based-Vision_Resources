@@ -506,6 +506,25 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 #### 2020
 - A Large Scale Event-based Detection Dataset for Automotive <a href="https://arxiv.org/pdf/2001.08499" target="_blank">[Paper] </a>
 - Learning to Detect Objects with a 1 Megapixel Event Camera <a href="https://papers.nips.cc/paper/2020/file/c213877427b46fa96cff6c39e837ccee-Paper.pdf" target="_blank">[Paper] </a>
+- 5.10 A 1280×720 Back-Illuminated Stacked Temporal Contrast Event-Based Vision Sensor with 4.86µm Pixels, 1.066GEPS Readout, Programmable Event-Rate Controller and Compressive Data-Formatting Pipeline
+- EDDD: Event-Based Drowsiness Driving Detection Through Facial Motion Analysis With Neuromorphic Vision Sensor
+- Distance Surface for Event-Based Optical Flow
+- Event-Based Object Detection and Tracking for Space Situational Awareness
+- End-to-End Learning of Object Motion Estimation from Retinal Events for Event-Based Object Tracking
+- Event-Based Visual Place Recognition With Ensembles of Temporal Windows
+- Event Density Based Denoising Method for Dynamic Vision Sensor
+- Unsupervised Learning of Dense Optical Flow, Depth and Egomotion with Event-Based Sensors
+- e-TLD: Event-Based Framework for Dynamic Object Tracking
+- Event-Based Feature Extraction Using Adaptive Selection Thresholds
+- Event Based, Near Eye Gaze Tracking Beyond 10,000Hz
+- Graph-Based Spatio-Temporal Feature Learning for Neuromorphic Vision Sensing
+- Event-Based Angular Velocity Regression with Spiking Networks
+- Event-Based Gesture Recognition With Dynamic Background Suppression Using Smartphone Computational Capabilities
+- Neuromorphic Event-Based Slip Detection and Suppression in Robotic Grasping and Manipulation
+- High Frame Rate Video Reconstruction Based on an Event Camera
+- Real-Time High Speed Motion Prediction Using Fast Aperture-Robust Event-Driven Visual Flow
+- Hand-Gesture Recognition Based on EMG and Event-Based Camera Sensor Fusion: A Benchmark in Neuromorphic Computing
+- Towards Learning to Detect and Predict Contact Events on Vision-based Tactile Sensors
 
 #### 2019
 - Event-Based Vision Enhanced: A Joint Detection Framework in Autonomous Driving
@@ -535,7 +554,6 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - ABMOF: A Novel Optical Flow Algorithm for Dynamic Vision Sensors
 - Unsupervised Learning of Dense Optical Flow, Depth and Egomotion from Sparse Event Data
 - Front and Back Illuminated Dynamic and Active Pixel Vision Sensors Comparison
-
 
 #### 2017
 - DDD17: End-to-end DAVIS driving dataset <a href="https://arxiv.org/pdf/1711.01458" target="_blank">[Paper] </a>
