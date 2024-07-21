@@ -517,9 +517,10 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - DDD17: End-to-end DAVIS driving dataset <a href="https://arxiv.org/pdf/1711.01458" target="_blank">[Paper] </a>
 - CIFAR10-DVS: An Event-Stream Dataset for Object Classification <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2017.00309/full" target="_blank">[Paper] </a>
 - High-speed video generation with an event camera
+- - The event-camera dataset and simulator: Event-based data for pose estimation, visual odometry, and SLAM <a href=" " taget="https://journals.sagepub.com/doi/epub/10.1177/0278364917691115" target="_blank"> [Paper] </a>
 
 #### 2016
-- The event-camera dataset and simulator: Event-based data for pose estimation, visual odometry, and SLAM <a href=" " taget="https://journals.sagepub.com/doi/epub/10.1177/0278364917691115" target="_blank"> [Paper] </a>
+
 
 #### 2015
 - Converting Static Image Datasets to Spiking Neuromorphic Datasets Using Saccades <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2015.00437/full" target="_blank">[Paper] </a>
