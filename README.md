@@ -229,6 +229,10 @@ Perception" accepted by CVPR 2024 Workshop on Synthetic Data for Computer Vision
 - Event-based Visual Inertial Odometry <a href="https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhu_Event-Based_Visual_Inertial_CVPR_2017_paper.pdf" target="_blank">[Paper]</a>
 - A Low Power Fully Event-Based Gesture Recognition System <a href="https://openaccess.thecvf.com/content_cvpr_2017/papers/Amir_A_Low_Power_CVPR_2017_paper.pdf" target="_blank">[Paper]</a>
 
+## CVPR 2016
+- Simultaneous Optical Flow and Intensity Estimation From an Event Camera
+
+
 ---
 
 ## WACV 2023
@@ -302,6 +306,10 @@ Accepted Papers will be updated Soon...
 - Semi-Dense 3D Reconstruction with a Stereo Event Camera <a href="https://openaccess.thecvf.com/content_ECCV_2018/papers/Yi_Zhou_Semi-Dense_3D_Reconstruction_ECCV_2018_paper.pdf" target="_blank">[Paper]</a>
 - Asynchronous, Photometric Feature Tracking using Events and Frames <a href="https://openaccess.thecvf.com/content_ECCV_2018/papers/Daniel_Gehrig_Asynchronous_Photometric_Feature_ECCV_2018_paper.pdf" target="_blank">[Paper]</a>
 - Realtime Time Synchronized Event-based Stereo <a href="https://openaccess.thecvf.com/content_ECCV_2018/papers/Alex_Zhu_Realtime_Time_Synchronized_ECCV_2018_paper.pdf" target="_blank">[Paper]</a>
+
+## ECCV 2016
+- Real-Time 3D Reconstruction and 6-DoF Tracking with an Event Camera
+
 
 ---
 
@@ -615,6 +623,18 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - Accurate Angular Velocity Estimation With an Event Camera
 
 #### 2016
+- Combined frame- and event-based detection and tracking
+- Fast event-based Harris corner detection exploiting the advantages of event-driven cameras
+- Low-latency visual odometry using event-based feature tracks
+- HOTS: A Hierarchy of Event-Based Time-Surfaces for Pattern Recognition
+- Evaluation of Event-Based Algorithms for Optical Flow with Ground-Truth from Inertial Measurement Sensor
+- Asynchronous Event-based Cooperative Stereo Matching Using Neuromorphic Silicon Retinas
+- Feature detection and tracking with the dynamic and active-pixel vision sensor (DAVIS)
+- An Event-Driven Ultra-Low-Power Smart Visual Sensor
+- Steering a predator robot using a mixed frame/event-driven convolutional neural network
+- Event-Based Tone Mapping for Asynchronous Time-Based Image Sensor
+- Neuromorophic vision sensing and processing
+- Event-Based State Estimation
 
 
 #### 2015
