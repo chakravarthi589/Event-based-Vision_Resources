@@ -609,18 +609,18 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 #### 2017
 - DDD17: End-to-end DAVIS driving dataset <a href="https://arxiv.org/pdf/1711.01458" target="_blank">[Paper] </a>
 - CIFAR10-DVS: An Event-Stream Dataset for Object Classification <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2017.00309/full" target="_blank">[Paper] </a>
-- High-speed video generation with an event camera
-- The event-camera dataset and simulator: Event-based data for pose estimation, visual odometry, and SLAM <a href=" " taget="https://journals.sagepub.com/doi/epub/10.1177/0278364917691115" target="_blank"> [Paper] </a>
-- A spiking neural network model of 3D perception for event-based neuromorphic stereo vision systems
-- Event-Based, 6-DOF Camera Tracking from Photometric Depth Maps
-- Event-based feature tracking with probabilistic data association
-- Fast event-based corner detection
-- An Event-Driven Classifier for Spiking Neural Networks Fed with Synthetic or Dynamic Vision Sensor Data
-- Event-Driven Stereo Visual Tracking Algorithm to Solve Object Occlusion
-- Event-Based Stereo Depth Estimation Using Belief Propagation
-- 4.1 A 640×480 dynamic vision sensor with a 9µm pixel and 300Meps address-event representation
-- Real-time Visual-Inertial Odometry for Event Cameras using Keyframe-based Nonlinear Optimization
-- Accurate Angular Velocity Estimation With an Event Camera
+- High-speed video generation with an event camera <a href="https://link.springer.com/article/10.1007/s00371-017-1372-y" target="_blank">[Paper] </a> 
+- The event-camera dataset and simulator: Event-based data for pose estimation, visual odometry, and SLAM <a href="https://journals.sagepub.com/doi/full/10.1177/0278364917691115" " target="_blank"> [Paper] </a>
+- A spiking neural network model of 3D perception for event-based neuromorphic stereo vision systems <a href="https://www.nature.com/articles/srep40703" target="_blank">[Paper] </a> 
+- Event-Based, 6-DOF Camera Tracking from Photometric Depth Maps <a href="https://ieeexplore.ieee.org/abstract/document/8094962?casa_token=x0usf6lYnrkAAAAA:vxr4cbBZfbH9w-i91uPZBNQNDupqGxB-3Un4dOQfdjqUXQlZ8XJlPOglbMcI_z_zSzx0rvoNnA" target="_blank">[Paper] </a> 
+- Event-based feature tracking with probabilistic data association <a href="https://ieeexplore.ieee.org/abstract/document/7989517?casa_token=pYE8ytlFUjMAAAAA:BBnup5Ei-HcXv6fxtMYGgLLr3exVkX0tUOBHHm2EcWKNWo8SPf-4Bo4j2uLRvmrh1YSBe3Rhfg" target="_blank">[Paper] </a> 
+- Fast event-based corner detection <a href="https://www.zora.uzh.ch/id/eprint/138925/" target="_blank">[Paper] </a> 
+- An Event-Driven Classifier for Spiking Neural Networks Fed with Synthetic or Dynamic Vision Sensor Data <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2017.00350/full" target="_blank">[Paper] </a> 
+- Event-Driven Stereo Visual Tracking Algorithm to Solve Object Occlusion <a href="https://ieeexplore.ieee.org/abstract/document/8088365?casa_token=ls98_TdOo1AAAAAA:yVvDiD9p5X3tqtSinwWUKY7gNUd7l8W_IU7wns1h-LW3xtF1KhoaP11vdiPhqr4ZmqzCvtSluQ" target="_blank">[Paper] </a> 
+- Event-Based Stereo Depth Estimation Using Belief Propagation <a href="https://ieeexplore.ieee.org/abstract/document/7870263?casa_token=dtQfR2E5id8AAAAA:XOj1FOnup53WKoBfM3Hc62_4jUnP_HKEliK5TSWcQHj3ZUyDV6hhyOrKcRX_tAHYj-Yd2JyE1Q" target="_blank">[Paper] </a> 
+- 4.1 A 640×480 dynamic vision sensor with a 9µm pixel and 300Meps address-event representation <a href=" " target="_blank">[Paper] </a> 
+- Real-time Visual-Inertial Odometry for Event Cameras using Keyframe-based Nonlinear Optimization <a href="https://www.zora.uzh.ch/id/eprint/139471/1/BMVC17_Rebecq.pdf" target="_blank">[Paper] </a> 
+- Accurate Angular Velocity Estimation With an Event Camera <a href="https://ieeexplore.ieee.org/abstract/document/7805257?casa_token=wahRKh0C1PUAAAAA:WN0sDAkdJjhsJBxDZ6wqKHuBse-AHoQwHAJh798uxYg4WmCcc2BEri-yF9BD07WkKnu_nDu6Tw" target="_blank">[Paper] </a> 
 
 #### 2016
 - Combined frame- and event-based detection and tracking <a href="https://ieeexplore.ieee.org/abstract/document/7539103?casa_token=JyxMuJ4BNtoAAAAA:S-4_NmYOyJkL99am51qdFYmNZ05nzt_jxqvvZ9zvmKkFOakc_Apgh-9ywCJQJ5G5OTc7veUBxg" target="_blank">[Paper] </a> 
