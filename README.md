@@ -542,20 +542,20 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 #### 2021
 - DSEC: A Stereo Event Camera Dataset for Driving Scenarios <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9387069" target="_blank">[Paper] </a>
 - Event Camera Simulator Improvements via Characterized Parameters <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.702765/full" target="_blank">[Paper] </a>
-- Event-based stereo visual odometry <a href=" " target="_blank">[Paper] </a>
-- Event-driven Vision and Control for UAVs on a Neuromorphic Chip <a href=" " target="_blank">[Paper] </a>
-- Self-Supervised Learning of Event-Based Optical Flow with Spiking Neural Networks <a href=" " target="_blank">[Paper] </a>
-- Event-Based Motion Segmentation With Spatio-Temporal Graph Cuts <a href=" " target="_blank">[Paper] </a>
-- Temporal Binary Representation for Event-Based Action Recognition <a href=" " target="_blank">[Paper] </a>
-- E-RAFT: Dense Optical Flow from Event Cameras <a href=" " target="_blank">[Paper] </a>
-- High-speed structured light based 3D scanning using an event camera <a href=" " target="_blank">[Paper] </a>
-- TUM-VIE: The TUM Stereo Visual-Inertial Event Dataset <a href=" " target="_blank">[Paper] </a>
-- Real-time face & eye tracking and blink detection using event cameras <a href=" " target="_blank">[Paper] </a>
-- Combining Events and Frames Using Recurrent Asynchronous Multimodal Networks for Monocular Depth Prediction <a href=" " target="_blank">[Paper] </a>
+- Event-based stereo visual odometry <a href="https://ieeexplore.ieee.org/abstract/document/9386209?casa_token=Ct6Niv_0f_4AAAAA:7hzueBdowERWRMWJSWxysP_X7vxkT9tOBgp_bX5fbMegVA0OITzcK3NSSrD9CgbAWBOm4TY7HQ" target="_blank">[Paper] </a>
+- Event-driven Vision and Control for UAVs on a Neuromorphic Chip <a href="https://ieeexplore.ieee.org/abstract/document/9560881?casa_token=dQ1Tt3YX-fgAAAAA:IGq-J8vicsMeSUu6Whiuin4Xk8CxuXm3EAAj9h6Icf9ETZsozYSS77rFc0T95d7dFuUMu-VRzg" target="_blank">[Paper] </a>
+- Self-Supervised Learning of Event-Based Optical Flow with Spiking Neural Networks <a href="https://proceedings.neurips.cc/paper/2021/hash/39d4b545fb02556829aab1db805021c3-Abstract.html?ref=https://githubhelp.com" target="_blank">[Paper] </a>
+- Event-Based Motion Segmentation With Spatio-Temporal Graph Cuts <a href="https://ieeexplore.ieee.org/abstract/document/9613780?casa_token=beVS7bITdX0AAAAA:lRZJ0Iylue9QGxMqEwrWQJQIHoRBQ5Oi0r1-QLzFq9bHn8frhs1eHzd1vBBibL59AFtGOHLCSQ" target="_blank">[Paper] </a>
+- Temporal Binary Representation for Event-Based Action Recognition <a href="https://ieeexplore.ieee.org/abstract/document/9412991?casa_token=sK_1WCoPmzwAAAAA:Z5fQMxQZEaSZ-f4Mexmzh5S0aUxw23hQyHY-JCFbpK4Gktx7ZROoPn9Ammebb74XUt-eU5mAnA" target="_blank">[Paper] </a>
+- E-RAFT: Dense Optical Flow from Event Cameras <a href="https://ieeexplore.ieee.org/abstract/document/9665931?casa_token=-iswHALwywcAAAAA:o4JKUH-VV2dDpr9U2WZ19pQ9EXIcuDmL2DrHbZKZJggCCAp1QUKtbr13WQfrntD-Yi16o99Y2Q" target="_blank">[Paper] </a>
+- High-speed structured light based 3D scanning using an event camera <a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-29-22-35864&id=460651" target="_blank">[Paper] </a>
+- TUM-VIE: The TUM Stereo Visual-Inertial Event Dataset <a href="https://ieeexplore.ieee.org/abstract/document/9636728?casa_token=zU1LVlXL6VgAAAAA:eDqikpaqg_bgHAPJ6jN0-WBEGx-gw5DqSAfMpKJoDkzX81Umc7GRmHupWUQKegMxVBJ3E3HmdQ" target="_blank">[Paper] </a>
+- Real-time face & eye tracking and blink detection using event cameras <a href="https://www.sciencedirect.com/science/article/pii/S0893608021001076?casa_token=-YupOO8LtHgAAAAA:YdhENUKcJaW8f1Nwdd8uJxxmpgYJZOseGJGOmU11EpgULMIE0lpdIp7Fg2VW-Oa75Ri4sHDY05s" target="_blank">[Paper] </a>
+- Combining Events and Frames Using Recurrent Asynchronous Multimodal Networks for Monocular Depth Prediction <a href="https://ieeexplore.ieee.org/abstract/document/9359329?casa_token=itRrLB2i2nIAAAAA:zDu08senIniW-elYg0qKhdDZaMP1aMljr-kZLGiTdTrLL9gMzZPyAySl7dA6XK7VdbpdEn44Hg" target="_blank">[Paper] </a>
 
 
 #### 2020
-- A Large Scale Event-based Detection Dataset for Automotive <a href="https://arxiv.org/pdf/2001.08499" target="_blank">[Paper] </a>/
+- A Large Scale Event-based Detection Dataset for Automotive <a href="https://arxiv.org/pdf/2001.08499" target="_blank">[Paper] </a>
 - Learning to Detect Objects with a 1 Megapixel Event Camera <a href="https://papers.nips.cc/paper/2020/file/c213877427b46fa96cff6c39e837ccee-Paper.pdf" target="_blank">[Paper] </a>
 - 5.10 A 1280×720 Back-Illuminated Stacked Temporal Contrast Event-Based Vision Sensor with 4.86µm Pixels, 1.066GEPS Readout, Programmable Event-Rate Controller and Compressive Data-Formatting Pipeline <a href="https://ieeexplore.ieee.org/abstract/document/9063149?casa_token=hv7m1oYfFK8AAAAA:-loxyjHXRKaBmMMurfsiEf0LptPgVMmfwOm2rVLJwoAQLDiHsWuZUSHyYqqvXzs2pJwJgqkv8A" target="_blank"> [Paper]
 - EDDD: Event-Based Drowsiness Driving Detection Through Facial Motion Analysis With Neuromorphic Vision Sensor <a href="https://ieeexplore.ieee.org/abstract/document/8990081?casa_token=FP1EOPmLqzMAAAAA:OoPQz6vERdoSMDh5u-N3x9Tn1UXN9goEvf0Cg9lKkhpjB3sEYLhxYeFgt4kCCL5E5sS1TjEr2w" target="_blank">[Paper] </a>
