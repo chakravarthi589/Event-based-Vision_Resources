@@ -555,27 +555,27 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 
 
 #### 2020
-- A Large Scale Event-based Detection Dataset for Automotive <a href="https://arxiv.org/pdf/2001.08499" target="_blank">[Paper] </a>
+- A Large Scale Event-based Detection Dataset for Automotive <a href="https://arxiv.org/pdf/2001.08499" target="_blank">[Paper] </a>/
 - Learning to Detect Objects with a 1 Megapixel Event Camera <a href="https://papers.nips.cc/paper/2020/file/c213877427b46fa96cff6c39e837ccee-Paper.pdf" target="_blank">[Paper] </a>
-- 5.10 A 1280×720 Back-Illuminated Stacked Temporal Contrast Event-Based Vision Sensor with 4.86µm Pixels, 1.066GEPS Readout, Programmable Event-Rate Controller and Compressive Data-Formatting Pipeline
-- EDDD: Event-Based Drowsiness Driving Detection Through Facial Motion Analysis With Neuromorphic Vision Sensor <a href=" " target="_blank">[Paper] </a>
-- Distance Surface for Event-Based Optical Flow <a href=" " target="_blank">[Paper] </a>
-- Event-Based Object Detection and Tracking for Space Situational Awareness <a href=" " target="_blank">[Paper] </a>
-- End-to-End Learning of Object Motion Estimation from Retinal Events for Event-Based Object Tracking <a href=" " target="_blank">[Paper] </a>
-- Event-Based Visual Place Recognition With Ensembles of Temporal Windows <a href=" " target="_blank">[Paper] </a>
-- Event Density Based Denoising Method for Dynamic Vision Sensor <a href=" " target="_blank">[Paper] </a>
-- Unsupervised Learning of Dense Optical Flow, Depth and Egomotion with Event-Based Sensors <a href=" " target="_blank">[Paper] </a>
-- e-TLD: Event-Based Framework for Dynamic Object Tracking <a href=" " target="_blank">[Paper] </a>
-- Event-Based Feature Extraction Using Adaptive Selection Thresholds <a href=" " target="_blank">[Paper] </a>
-- Event Based, Near Eye Gaze Tracking Beyond 10,000Hz <a href=" " target="_blank">[Paper] </a>
-- Graph-Based Spatio-Temporal Feature Learning for Neuromorphic Vision Sensing <a href=" " target="_blank">[Paper] </a>
-- Event-Based Angular Velocity Regression with Spiking Networks <a href=" " target="_blank">[Paper] </a>
-- Event-Based Gesture Recognition With Dynamic Background Suppression Using Smartphone Computational Capabilities <a href=" " target="_blank">[Paper] </a>
-- Neuromorphic Event-Based Slip Detection and Suppression in Robotic Grasping and Manipulation <a href=" " target="_blank">[Paper] </a>
-- High Frame Rate Video Reconstruction Based on an Event Camera <a href=" " target="_blank">[Paper] </a> 
-- Real-Time High Speed Motion Prediction Using Fast Aperture-Robust Event-Driven Visual Flow <a href=" " target="_blank">[Paper] </a>
-- Hand-Gesture Recognition Based on EMG and Event-Based Camera Sensor Fusion: A Benchmark in Neuromorphic Computing <a href=" " target="_blank">[Paper] </a>
-- Towards Learning to Detect and Predict Contact Events on Vision-based Tactile Sensors <a href=" " target="_blank">[Paper] </a>
+- 5.10 A 1280×720 Back-Illuminated Stacked Temporal Contrast Event-Based Vision Sensor with 4.86µm Pixels, 1.066GEPS Readout, Programmable Event-Rate Controller and Compressive Data-Formatting Pipeline <a href="https://ieeexplore.ieee.org/abstract/document/9063149?casa_token=hv7m1oYfFK8AAAAA:-loxyjHXRKaBmMMurfsiEf0LptPgVMmfwOm2rVLJwoAQLDiHsWuZUSHyYqqvXzs2pJwJgqkv8A" target="_blank"> [Paper]
+- EDDD: Event-Based Drowsiness Driving Detection Through Facial Motion Analysis With Neuromorphic Vision Sensor <a href="https://ieeexplore.ieee.org/abstract/document/8990081?casa_token=FP1EOPmLqzMAAAAA:OoPQz6vERdoSMDh5u-N3x9Tn1UXN9goEvf0Cg9lKkhpjB3sEYLhxYeFgt4kCCL5E5sS1TjEr2w" target="_blank">[Paper] </a>
+- Distance Surface for Event-Based Optical Flow <a href="https://ieeexplore.ieee.org/abstract/document/9064948?casa_token=v3VIQ633YAQAAAAA:xZiOkhOxBF_tCFsr5xr5k6AzOhLNhiZuV5PrwVjjr2JvJfhu_UX5VjOg2ZdcqwiaxtZ5FiNiQQ" target="_blank">[Paper] </a>
+- Event-Based Object Detection and Tracking for Space Situational Awareness <a href="https://ieeexplore.ieee.org/abstract/document/9142352" target="_blank">[Paper] </a>
+- End-to-End Learning of Object Motion Estimation from Retinal Events for Event-Based Object Tracking <a href="https://ojs.aaai.org/index.php/AAAI/article/view/6625" target="_blank">[Paper] </a>
+- Event-Based Visual Place Recognition With Ensembles of Temporal Windows <a href="https://ieeexplore.ieee.org/abstract/document/9201344?casa_token=R171OMnasG0AAAAA:_aGZ7qXckxwK6wK7rqwMmQnL5H4iBCT18h52ZMoYpV3kLxY_2zfpmtUmG7-aFubB_zuZChwTcQ" target="_blank">[Paper] </a>
+- Event Density Based Denoising Method for Dynamic Vision Sensor <a href="https://www.mdpi.com/2076-3417/10/6/2024" target="_blank">[Paper] </a>
+- Unsupervised Learning of Dense Optical Flow, Depth and Egomotion with Event-Based Sensors <a href="https://ieeexplore.ieee.org/abstract/document/9341224?casa_token=ATBUGs2NRLIAAAAA:BNCl4H_7WR3BZDDKJzNQRXecggfSeKLCGV6RYGfU-XeB-aX5_TO3rCkRCAW-NIY4_lfaVHTfqA" target="_blank">[Paper] </a>
+- e-TLD: Event-Based Framework for Dynamic Object Tracking <a href="https://ieeexplore.ieee.org/abstract/document/9292994" target="_blank">[Paper] </a>
+- Event-Based Feature Extraction Using Adaptive Selection Thresholds <a href="https://www.mdpi.com/1424-8220/20/6/1600" target="_blank">[Paper] </a>
+- Event Based, Near Eye Gaze Tracking Beyond 10,000Hz <a href="https://arxiv.org/pdf/2004.03577" target="_blank">[Paper] </a>
+- Graph-Based Spatio-Temporal Feature Learning for Neuromorphic Vision Sensing <a href="https://ieeexplore.ieee.org/abstract/document/9199543?casa_token=aby4Ay4CeTgAAAAA:z1Z3ShuC49NsAA6hBzR7GeXjYAbpB_jnEc7zWyReuJuAOHe7ohbwUtQkv8YzEIDZIcRkNku2LA" target="_blank">[Paper] </a>
+- Event-Based Angular Velocity Regression with Spiking Networks <a href="https://ieeexplore.ieee.org/abstract/document/9197133?casa_token=6eaE6wKJ5R8AAAAA:pJNfgvt_YnXb_lIAeIZSYDbLYjjIc-PdW-PKhkoIEdWYT4U7Pu3wXPZ7kxbjukYSUAvTEfESEw" target="_blank">[Paper] </a>
+- Event-Based Gesture Recognition With Dynamic Background Suppression Using Smartphone Computational Capabilities <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2020.00275/full" target="_blank">[Paper] </a>
+- Neuromorphic Event-Based Slip Detection and Suppression in Robotic Grasping and Manipulation <a href="https://ieeexplore.ieee.org/abstract/document/9171323" target="_blank">[Paper] </a>
+- High Frame Rate Video Reconstruction Based on an Event Camera <a href="https://ieeexplore.ieee.org/abstract/document/9252186?casa_token=asxcobzRmAEAAAAA:xioryFmtf4uULlV3DZpIscHfk3sEc6SKCNdbnzzNI7eLfmObRCoryq-smv1gzrNMu_eWgNr_Pg" target="_blank">[Paper] </a> 
+- Real-Time High Speed Motion Prediction Using Fast Aperture-Robust Event-Driven Visual Flow <a href="https://ieeexplore.ieee.org/abstract/document/9144436" target="_blank">[Paper] </a>
+- Hand-Gesture Recognition Based on EMG and Event-Based Camera Sensor Fusion: A Benchmark in Neuromorphic Computing <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2020.00637/full" target="_blank">[Paper] </a>
+- Towards Learning to Detect and Predict Contact Events on Vision-based Tactile Sensors <a href="https://proceedings.mlr.press/v100/zhang20b.html" target="_blank">[Paper] </a>
 
 #### 2019
 - Event-Based Vision Enhanced: A Joint Detection Framework in Autonomous Driving <a href="https://ieeexplore.ieee.org/abstract/document/8784777?casa_token=cFlvRYfP3PkAAAAA:6KVgZQwYGiNG1WlhwW6BfdDY40RF2USeFUwRpaVu5aKG9aGfX7MpF2E-WrXxfffonJAOklRa4Q" target="_blank">[Paper] </a>
