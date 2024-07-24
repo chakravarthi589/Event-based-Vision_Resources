@@ -640,24 +640,24 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 #### 2015
 - Converting Static Image Datasets to Spiking Neuromorphic Datasets Using Saccades <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2015.00437/full" target="_blank">[Paper] </a>
 - Poker-DVS and MNIST-DVS. Their History, How They Were Made, and Other Details <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2015.00481/full" target="_blank">[Paper] </a>
-- Continuous-Time Trajectory Estimation for Event-based Vision Sensors
-- On-board real-time optic-flow for miniature event-based vision sensors
-- Spatiotemporal features for asynchronous event-based data
-- Event-based Camera Pose Tracking using a Generative Event Model
-- A USB3.0 FPGA event-based filtering and tracking framework for dynamic vision sensors
-- On event-based optical flow detection
-- Asynchronous event-based corner detection and matching
-- Visual Tracking Using Neuromorphic Asynchronous Event-Based Cameras
-- Lifetime estimation of events from Dynamic Vision Sensors
-- Design of a spatiotemporal correlation filter for event-based sensors
-- An Asynchronous Neuromorphic Event-Driven Visual Part-Based Shape Tracking
-- Fast Pipeline 128×128 pixel spiking convolution core for event-driven vision processing in FPGAs
-- A Dynamic Vision Sensor With 1% Temporal Contrast Sensitivity and In-Pixel Asynchronous Delta Modulator for Event Encoding
-- Bio-inspired Motion Estimation with Event-Driven Sensors
+- Continuous-Time Trajectory Estimation for Event-based Vision Sensors <a href=" " target="_blank"> [Paper] </a>
+- On-board real-time optic-flow for miniature event-based vision sensors <a href=" " target="_blank"> [Paper] </a>
+- Spatiotemporal features for asynchronous event-based data <a href=" " target="_blank"> [Paper] </a>
+- Event-based Camera Pose Tracking using a Generative Event Mode <a href=" " target="_blank"> [Paper] </a>
+- A USB3.0 FPGA event-based filtering and tracking framework for dynamic vision sensors <a href=" " target="_blank"> [Paper] </a>
+- On event-based optical flow detection <a href=" " target="_blank"> [Paper] </a> 
+- Asynchronous event-based corner detection and matching <a href=" " target="_blank"> [Paper] </a>
+- Visual Tracking Using Neuromorphic Asynchronous Event-Based Cameras <a href=" " target="_blank"> [Paper] </a>
+- Lifetime estimation of events from Dynamic Vision Sensors <a href=" " target="_blank"> [Paper] </a>
+- Design of a spatiotemporal correlation filter for event-based sensors <a href=" " target="_blank"> [Paper] </a>
+- An Asynchronous Neuromorphic Event-Driven Visual Part-Based Shape Tracking <a href=" " target="_blank"> [Paper] </a>
+- Fast Pipeline 128×128 pixel spiking convolution core for event-driven vision processing in FPGAs <a href=" " target="_blank"> [Paper] </a>
+- A Dynamic Vision Sensor With 1% Temporal Contrast Sensitivity and In-Pixel Asynchronous Delta Modulator for Event Encoding <a href=" " target="_blank"> [Paper] </a>
+- Bio-inspired Motion Estimation with Event-Driven Sensors <a href=" " target="_blank"> [Paper] </a>
 
 #### 2014
-- Event-based, 6-DOF pose tracking for high-speed maneuvers
-- Low-latency event-based visual odometry
+- Event-based, 6-DOF pose tracking for high-speed maneuvers <a href="https://ieeexplore.ieee.org/abstract/document/6942940?casa_token=aWSWxpz7Fc8AAAAA:y9_cMjEzCaQ4vZiXy-GoHgXZ9POxITG0ZIm3C2k3kzWueUjpdnIdQyUkVnAYdNYuHi3UYBkMxQ" target="_blank"> [Paper] </a>
+- Low-latency event-based visual odometry <a href="https://ieeexplore.ieee.org/abstract/document/6906931?casa_token=uvSnVZZtPPAAAAAA:pAo32lkSKUI7hqBaMjyF_r_1l9PXWQpve38Hj3ILzLx0GramNTeGfskInnZalXTWmJ0NXXHZAw" target="_blank"> [Paper] </a>
 
 #### 2013
-- Event-based visual flow
+- Event-based visual flow <a href="https://ieeexplore.ieee.org/abstract/document/6589170?casa_token=aYKfXeE86PIAAAAA:yzgdLabTgHhlkrkyLglhMni-xTPc_n0K85LZW9lMolVOOLUZyOMDAMCrmSFTdOvqp-QZPA8q7w" target="_blank"> [Paper] </a>
