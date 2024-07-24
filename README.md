@@ -590,21 +590,21 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 
 #### 2018
 - The Multivehicle Stereo Event Camera Dataset: An Event Camera Dataset for 3D Perception <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8288670" target="_blank">[Paper] </a>
-- Event-based moving object detection and tracking
-- Long-term object tracking with a moving event camera
-- EV-FlowNet: Self-Supervised Optical Flow Estimation for Event-based Cameras
-- ESIM: an Open Event Camera Simulator
-- EMVS: Event-Based Multi-View Stereo—3D Reconstruction with an Event Camera in Real-Time
-- A Novel Event-Based Incipient Slip Detection Using Dynamic Active-Pixel Vision Sensor (DAVIS)
-- Real-Time Clustering and Multi-Target Tracking Using Event-Based Sensors
-- ACE: An Efficient Asynchronous Corner Tracker for Event Cameras
-- Pseudo-Labels for Supervised Learning on Dynamic Vision Sensor Data, Applied to Object Detection Under Ego-Motion
-- Asynchronous Corner Detection and Tracking for Event Cameras in Real Time
-- Continuous-Time Visual-Inertial Odometry for Event Cameras
-- Continuous-Time Intensity Estimation Using Event Cameras
-- ABMOF: A Novel Optical Flow Algorithm for Dynamic Vision Sensors
-- Unsupervised Learning of Dense Optical Flow, Depth and Egomotion from Sparse Event Data
-- Front and Back Illuminated Dynamic and Active Pixel Vision Sensors Comparison
+- Event-based moving object detection and tracking <a href="https://ieeexplore.ieee.org/abstract/document/8593805?casa_token=bKeuwkxfvvwAAAAA:qJFIH7cegqDqHPcs_pYgZ2PE_1hyQAmW-Whj-QpPKPogwBpsh3-VMLz8KdFqNOeXCmvoGkFduw" target="_blank">[Paper] </a>
+- Long-term object tracking with a moving event camera <a href="https://d1wqtxts1xzle7.cloudfront.net/83737138/0814-libre.pdf?1649646127=&response-content-disposition=inline%3B+filename%3DLong_term_object_tracking_with_a_moving.pdf&Expires=1721849734&Signature=N5d07nXKW3E4Vzp6vqFEN-M2NTAZ749~OQc8ST-SKCQnmOhmNiNpM-spadurIY~xEJlFVZVxiIr74n31oMK7H9uINu5fsTP7vBfMi2-pOtlk8Gq2zjFr7lWErPU3pg2cCOnCRQgc0-x2ONgKLi1YpZ5pY2q4jEXOfF442cQ~tQ~edssxgGgbdr-PPCb58Ot9q5MmvkkntdWX3n7komVSUHpgzRj96~SAfkeDZeX0-HBiltkfxbT1-5xhfsDuxeJZIJXuMGTZFDo~FlAKtCbUqz3drbymQx1G8kChLvvkz6DDAw7BOJryW7zbhKXY5i2W2HAZzDZJY3~IDoEQbCXz3A__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA" target="_blank">[Paper] </a>
+- EV-FlowNet: Self-Supervised Optical Flow Estimation for Event-based Cameras <a href="https://arxiv.org/pdf/1802.06898" target="_blank">[Paper] </a>
+- ESIM: an Open Event Camera Simulator <a href="https://proceedings.mlr.press/v87/rebecq18a.html" target="_blank">[Paper] </a>
+- EMVS: Event-Based Multi-View Stereo—3D Reconstruction with an Event Camera in Real-Time <a href="https://link.springer.com/article/10.1007/s11263-017-1050-6" target="_blank">[Paper] </a>
+- A Novel Event-Based Incipient Slip Detection Using Dynamic Active-Pixel Vision Sensor (DAVIS) <a href="https://www.mdpi.com/1424-8220/18/2/333" target="_blank">[Paper] </a>
+- Real-Time Clustering and Multi-Target Tracking Using Event-Based Sensors <a href="https://ieeexplore.ieee.org/abstract/document/8593380?casa_token=xbO7B_XKyCwAAAAA:-bSGICfee_DWZ2Pmvn2JUKJ79qXs_mxpOZYttFD7P1pSOAqUSplndk5VgIY58mkML6wmUrp03Q" target="_blank">[Paper] </a>
+- ACE: An Efficient Asynchronous Corner Tracker for Event Cameras <a href="https://ieeexplore.ieee.org/abstract/document/8491018?casa_token=fyMZfsMyrtcAAAAA:wfhHXMWH3aJWD7aPkL9_J0n95ayyR5PCz08SZHVU0SgDJ8mgIQhWII6EWDRn4JkwAQiYTEIjtA" target="_blank">[Paper] </a>
+- Pseudo-Labels for Supervised Learning on Dynamic Vision Sensor Data, Applied to Object Detection Under Ego-Motion <a href="https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w12/Chen_Pseudo-Labels_for_Supervised_CVPR_2018_paper.pdf" target="_blank">[Paper] </a>
+- Asynchronous Corner Detection and Tracking for Event Cameras in Real Time <a href="https://ieeexplore.ieee.org/abstract/document/8392795?casa_token=aYyEf3APzIAAAAAA:mvCoupDJplAfAUcWtnkV84ry7dlUyHSPe-RNY31e04nom0SOoNtEwkEfBNrAkD2H5MJ7HO_vkA" target="_blank">[Paper] </a>
+- Continuous-Time Visual-Inertial Odometry for Event Cameras <a href="https://ieeexplore.ieee.org/abstract/document/8432102?casa_token=gCESv22uZLwAAAAA:1nUP1-9je7goDYxDbtSptTyMmce98z-jjtfenuioZp82W19g6_TFX4Ig-grMmt692lIqgXtxCg" target="_blank">[Paper] </a>
+- Continuous-Time Intensity Estimation Using Event Cameras <a href="https://link.springer.com/chapter/10.1007/978-3-030-20873-8_20" target="_blank">[Paper] </a>
+- ABMOF: A Novel Optical Flow Algorithm for Dynamic Vision Sensors <a href="https://arxiv.org/pdf/1805.03988" target="_blank">[Paper] </a>
+- Unsupervised Learning of Dense Optical Flow, Depth and Egomotion from Sparse Event Data <a href="https://arxiv.org/pdf/1809.08625" target="_blank">[Paper] </a>
+- Front and Back Illuminated Dynamic and Active Pixel Vision Sensors Comparison <a href="https://ieeexplore.ieee.org/abstract/document/8334288?casa_token=O2m8iZMvQkEAAAAA:rYLL1vrKoEHRdi4YiW_CVDo3H_Cxnto8KhjvnZX0ob4g_ud2LW5WivYJZTqD5ngFAbqX7RCEkw" target="_blank">[Paper] </a>
 
 #### 2017
 - DDD17: End-to-end DAVIS driving dataset <a href="https://arxiv.org/pdf/1711.01458" target="_blank">[Paper] </a>
