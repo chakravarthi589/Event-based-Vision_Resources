@@ -578,14 +578,14 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - Towards Learning to Detect and Predict Contact Events on Vision-based Tactile Sensors <a href=" " target="_blank">[Paper] </a>
 
 #### 2019
-- Event-Based Vision Enhanced: A Joint Detection Framework in Autonomous Driving <a href=" " target="_blank">[Paper] </a>
-- Event-based Sensing for Space Situational Awareness <a href=" " target="_blank">[Paper] </a>
-- DART: Distribution Aware Retinal Transform for Event-Based Cameras <a href=" " target="_blank">[Paper] </a>
-- A Spiking Neural Network Model of Depth from Defocus for Event-based Neuromorphic Vision <a href=" " target="_blank">[Paper] </a>
-- A Novel Dynamic-Vision-Based Approach for Tactile Sensing Applications <a href=" " target="_blank">[Paper] </a>
-- Event-based, Direct Camera Tracking from a Photometric 3D Map using Nonlinear Optimization <a href=" " target="_blank">[Paper] </a>
-- High Speed and High Dynamic Range Video with an Event Camera <a href=" " target="_blank">[Paper] </a>
-- Mixed Frame-/Event-Driven Fast Pedestrian Detection <a href=" " target="_blank">[Paper] </a>
+- Event-Based Vision Enhanced: A Joint Detection Framework in Autonomous Driving <a href="https://ieeexplore.ieee.org/abstract/document/8784777?casa_token=cFlvRYfP3PkAAAAA:6KVgZQwYGiNG1WlhwW6BfdDY40RF2USeFUwRpaVu5aKG9aGfX7MpF2E-WrXxfffonJAOklRa4Q" target="_blank">[Paper] </a>
+- Event-based Sensing for Space Situational Awareness <a href="https://link.springer.com/article/10.1007/s40295-018-00140-5" target="_blank">[Paper] </a>
+- DART: Distribution Aware Retinal Transform for Event-Based Cameras <a href="https://ieeexplore.ieee.org/abstract/document/8723171?casa_token=nLzUVn1XSAoAAAAA:VqldoOqKglWp38jNAmkfhTF-iU85JRNpz2TeBUAR2SOTi0GzPj9Q15WEIqZ0t-a4CXkoxO6bfQ" target="_blank">[Paper] </a>
+- A Spiking Neural Network Model of Depth from Defocus for Event-based Neuromorphic Vision <a href="https://www.nature.com/articles/s41598-019-40064-0" target="_blank">[Paper] </a>
+- A Novel Dynamic-Vision-Based Approach for Tactile Sensing Applications <a href="https://ieeexplore.ieee.org/abstract/document/8723387?casa_token=3KwruNJKpakAAAAA:Xusv2HnFlAM0QQCkUnyVFk7mw6VETssLTASOaTQYU6xIXYzNx_ttdXrXjjAcYhxpUYNhfiW48w" target="_blank">[Paper] </a>
+- Event-based, Direct Camera Tracking from a Photometric 3D Map using Nonlinear Optimization <a href="https://ieeexplore.ieee.org/abstract/document/8794255?casa_token=tiapK-W4dOoAAAAA:bsC7apDuz0WhKXrrzriVFuHoieTXU0mOJiSltTZQcQlgNwWxsvGh4PDjTpkZSuoFp3sa1hZP7w" target="_blank">[Paper] </a>
+- High Speed and High Dynamic Range Video with an Event Camera <a href="https://ieeexplore.ieee.org/abstract/document/8946715?casa_token=k-wwraqP5c0AAAAA:5zG3dJV4lmAKabbHOS43g3aT3-N8Rau_4irE6yax2Oc_iEMYtNmGuzHgo79_IxVqSC3B9xxcoQ" target="_blank">[Paper] </a>
+- Mixed Frame-/Event-Driven Fast Pedestrian Detection <a href="https://ieeexplore.ieee.org/abstract/document/8793924?casa_token=AF0PcUZO8GUAAAAA:o-3nnuxx1-RRks6HHHnYxMJsvgCExUZaAcvysnuTDQkN9moen5BI21lESmFoUD5rK1qfRMNSpw" target="_blank">[Paper] </a>
 
 
 #### 2018
