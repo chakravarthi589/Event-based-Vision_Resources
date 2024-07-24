@@ -610,7 +610,7 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - DDD17: End-to-end DAVIS driving dataset <a href="https://arxiv.org/pdf/1711.01458" target="_blank">[Paper] </a>
 - CIFAR10-DVS: An Event-Stream Dataset for Object Classification <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2017.00309/full" target="_blank">[Paper] </a>
 - High-speed video generation with an event camera <a href="https://link.springer.com/article/10.1007/s00371-017-1372-y" target="_blank">[Paper] </a> 
-- The event-camera dataset and simulator: Event-based data for pose estimation, visual odometry, and SLAM <a href="https://journals.sagepub.com/doi/full/10.1177/0278364917691115" " target="_blank"> [Paper] </a>
+- The event-camera dataset and simulator: Event-based data for pose estimation, visual odometry, and SLAM <a href="https://journals.sagepub.com/doi/full/10.1177/0278364917691115" target="_blank"> [Paper] </a>
 - A spiking neural network model of 3D perception for event-based neuromorphic stereo vision systems <a href="https://www.nature.com/articles/srep40703" target="_blank">[Paper] </a> 
 - Event-Based, 6-DOF Camera Tracking from Photometric Depth Maps <a href="https://ieeexplore.ieee.org/abstract/document/8094962?casa_token=x0usf6lYnrkAAAAA:vxr4cbBZfbH9w-i91uPZBNQNDupqGxB-3Un4dOQfdjqUXQlZ8XJlPOglbMcI_z_zSzx0rvoNnA" target="_blank">[Paper] </a> 
 - Event-based feature tracking with probabilistic data association <a href="https://ieeexplore.ieee.org/abstract/document/7989517?casa_token=pYE8ytlFUjMAAAAA:BBnup5Ei-HcXv6fxtMYGgLLr3exVkX0tUOBHHm2EcWKNWo8SPf-4Bo4j2uLRvmrh1YSBe3Rhfg" target="_blank">[Paper] </a> 
