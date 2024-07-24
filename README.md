@@ -542,50 +542,50 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 #### 2021
 - DSEC: A Stereo Event Camera Dataset for Driving Scenarios <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9387069" target="_blank">[Paper] </a>
 - Event Camera Simulator Improvements via Characterized Parameters <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.702765/full" target="_blank">[Paper] </a>
-- Event-based stereo visual odometry
-- Event-driven Vision and Control for UAVs on a Neuromorphic Chip
-- Self-Supervised Learning of Event-Based Optical Flow with Spiking Neural Networks
-- Event-Based Motion Segmentation With Spatio-Temporal Graph Cuts
-- Temporal Binary Representation for Event-Based Action Recognition
-- E-RAFT: Dense Optical Flow from Event Cameras
-- High-speed structured light based 3D scanning using an event camera
-- TUM-VIE: The TUM Stereo Visual-Inertial Event Dataset
-- Real-time face & eye tracking and blink detection using event cameras
-- Combining Events and Frames Using Recurrent Asynchronous Multimodal Networks for Monocular Depth Prediction
+- Event-based stereo visual odometry <a href=" " target="_blank">[Paper] </a>
+- Event-driven Vision and Control for UAVs on a Neuromorphic Chip <a href=" " target="_blank">[Paper] </a>
+- Self-Supervised Learning of Event-Based Optical Flow with Spiking Neural Networks <a href=" " target="_blank">[Paper] </a>
+- Event-Based Motion Segmentation With Spatio-Temporal Graph Cuts <a href=" " target="_blank">[Paper] </a>
+- Temporal Binary Representation for Event-Based Action Recognition <a href=" " target="_blank">[Paper] </a>
+- E-RAFT: Dense Optical Flow from Event Cameras <a href=" " target="_blank">[Paper] </a>
+- High-speed structured light based 3D scanning using an event camera <a href=" " target="_blank">[Paper] </a>
+- TUM-VIE: The TUM Stereo Visual-Inertial Event Dataset <a href=" " target="_blank">[Paper] </a>
+- Real-time face & eye tracking and blink detection using event cameras <a href=" " target="_blank">[Paper] </a>
+- Combining Events and Frames Using Recurrent Asynchronous Multimodal Networks for Monocular Depth Prediction <a href=" " target="_blank">[Paper] </a>
 
 
 #### 2020
 - A Large Scale Event-based Detection Dataset for Automotive <a href="https://arxiv.org/pdf/2001.08499" target="_blank">[Paper] </a>
 - Learning to Detect Objects with a 1 Megapixel Event Camera <a href="https://papers.nips.cc/paper/2020/file/c213877427b46fa96cff6c39e837ccee-Paper.pdf" target="_blank">[Paper] </a>
 - 5.10 A 1280×720 Back-Illuminated Stacked Temporal Contrast Event-Based Vision Sensor with 4.86µm Pixels, 1.066GEPS Readout, Programmable Event-Rate Controller and Compressive Data-Formatting Pipeline
-- EDDD: Event-Based Drowsiness Driving Detection Through Facial Motion Analysis With Neuromorphic Vision Sensor
-- Distance Surface for Event-Based Optical Flow
-- Event-Based Object Detection and Tracking for Space Situational Awareness
-- End-to-End Learning of Object Motion Estimation from Retinal Events for Event-Based Object Tracking
-- Event-Based Visual Place Recognition With Ensembles of Temporal Windows
-- Event Density Based Denoising Method for Dynamic Vision Sensor
-- Unsupervised Learning of Dense Optical Flow, Depth and Egomotion with Event-Based Sensors
-- e-TLD: Event-Based Framework for Dynamic Object Tracking
-- Event-Based Feature Extraction Using Adaptive Selection Thresholds
-- Event Based, Near Eye Gaze Tracking Beyond 10,000Hz
-- Graph-Based Spatio-Temporal Feature Learning for Neuromorphic Vision Sensing
-- Event-Based Angular Velocity Regression with Spiking Networks
-- Event-Based Gesture Recognition With Dynamic Background Suppression Using Smartphone Computational Capabilities
-- Neuromorphic Event-Based Slip Detection and Suppression in Robotic Grasping and Manipulation
-- High Frame Rate Video Reconstruction Based on an Event Camera
-- Real-Time High Speed Motion Prediction Using Fast Aperture-Robust Event-Driven Visual Flow
-- Hand-Gesture Recognition Based on EMG and Event-Based Camera Sensor Fusion: A Benchmark in Neuromorphic Computing
-- Towards Learning to Detect and Predict Contact Events on Vision-based Tactile Sensors
+- EDDD: Event-Based Drowsiness Driving Detection Through Facial Motion Analysis With Neuromorphic Vision Sensor <a href=" " target="_blank">[Paper] </a>
+- Distance Surface for Event-Based Optical Flow <a href=" " target="_blank">[Paper] </a>
+- Event-Based Object Detection and Tracking for Space Situational Awareness <a href=" " target="_blank">[Paper] </a>
+- End-to-End Learning of Object Motion Estimation from Retinal Events for Event-Based Object Tracking <a href=" " target="_blank">[Paper] </a>
+- Event-Based Visual Place Recognition With Ensembles of Temporal Windows <a href=" " target="_blank">[Paper] </a>
+- Event Density Based Denoising Method for Dynamic Vision Sensor <a href=" " target="_blank">[Paper] </a>
+- Unsupervised Learning of Dense Optical Flow, Depth and Egomotion with Event-Based Sensors <a href=" " target="_blank">[Paper] </a>
+- e-TLD: Event-Based Framework for Dynamic Object Tracking <a href=" " target="_blank">[Paper] </a>
+- Event-Based Feature Extraction Using Adaptive Selection Thresholds <a href=" " target="_blank">[Paper] </a>
+- Event Based, Near Eye Gaze Tracking Beyond 10,000Hz <a href=" " target="_blank">[Paper] </a>
+- Graph-Based Spatio-Temporal Feature Learning for Neuromorphic Vision Sensing <a href=" " target="_blank">[Paper] </a>
+- Event-Based Angular Velocity Regression with Spiking Networks <a href=" " target="_blank">[Paper] </a>
+- Event-Based Gesture Recognition With Dynamic Background Suppression Using Smartphone Computational Capabilities <a href=" " target="_blank">[Paper] </a>
+- Neuromorphic Event-Based Slip Detection and Suppression in Robotic Grasping and Manipulation <a href=" " target="_blank">[Paper] </a>
+- High Frame Rate Video Reconstruction Based on an Event Camera <a href=" " target="_blank">[Paper] </a> 
+- Real-Time High Speed Motion Prediction Using Fast Aperture-Robust Event-Driven Visual Flow <a href=" " target="_blank">[Paper] </a>
+- Hand-Gesture Recognition Based on EMG and Event-Based Camera Sensor Fusion: A Benchmark in Neuromorphic Computing <a href=" " target="_blank">[Paper] </a>
+- Towards Learning to Detect and Predict Contact Events on Vision-based Tactile Sensors <a href=" " target="_blank">[Paper] </a>
 
 #### 2019
-- Event-Based Vision Enhanced: A Joint Detection Framework in Autonomous Driving
-- Event-based Sensing for Space Situational Awareness
-- DART: Distribution Aware Retinal Transform for Event-Based Cameras
-- A Spiking Neural Network Model of Depth from Defocus for Event-based Neuromorphic Vision
-- A Novel Dynamic-Vision-Based Approach for Tactile Sensing Applications
-- Event-based, Direct Camera Tracking from a Photometric 3D Map using Nonlinear Optimization
-- High Speed and High Dynamic Range Video with an Event Camera
-- Mixed Frame-/Event-Driven Fast Pedestrian Detection
+- Event-Based Vision Enhanced: A Joint Detection Framework in Autonomous Driving <a href=" " target="_blank">[Paper] </a>
+- Event-based Sensing for Space Situational Awareness <a href=" " target="_blank">[Paper] </a>
+- DART: Distribution Aware Retinal Transform for Event-Based Cameras <a href=" " target="_blank">[Paper] </a>
+- A Spiking Neural Network Model of Depth from Defocus for Event-based Neuromorphic Vision <a href=" " target="_blank">[Paper] </a>
+- A Novel Dynamic-Vision-Based Approach for Tactile Sensing Applications <a href=" " target="_blank">[Paper] </a>
+- Event-based, Direct Camera Tracking from a Photometric 3D Map using Nonlinear Optimization <a href=" " target="_blank">[Paper] </a>
+- High Speed and High Dynamic Range Video with an Event Camera <a href=" " target="_blank">[Paper] </a>
+- Mixed Frame-/Event-Driven Fast Pedestrian Detection <a href=" " target="_blank">[Paper] </a>
 
 
 #### 2018
