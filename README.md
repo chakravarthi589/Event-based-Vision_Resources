@@ -519,6 +519,7 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 
 
 #### 2022
+- EVIMO2: An Event Camera Dataset for Motion Segmentation, Optical Flow, Structure from Motion, and Visual Inertial Odometry in Indoor Scenes with Monocular or Stereo Algorithms
 - Fast classification and action recognition with event-based imaging
 - Event-based motion capture system for online multi-quadrotor localization and tracking
 - Fusing Event-based and RGB camera for Robust Object Detection in Adverse Conditions
