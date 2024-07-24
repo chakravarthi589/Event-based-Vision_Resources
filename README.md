@@ -623,18 +623,18 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - Accurate Angular Velocity Estimation With an Event Camera
 
 #### 2016
-- Combined frame- and event-based detection and tracking
-- Fast event-based Harris corner detection exploiting the advantages of event-driven cameras
-- Low-latency visual odometry using event-based feature tracks
-- HOTS: A Hierarchy of Event-Based Time-Surfaces for Pattern Recognition
-- Evaluation of Event-Based Algorithms for Optical Flow with Ground-Truth from Inertial Measurement Sensor
-- Asynchronous Event-based Cooperative Stereo Matching Using Neuromorphic Silicon Retinas
-- Feature detection and tracking with the dynamic and active-pixel vision sensor (DAVIS)
-- An Event-Driven Ultra-Low-Power Smart Visual Sensor
-- Steering a predator robot using a mixed frame/event-driven convolutional neural network
-- Event-Based Tone Mapping for Asynchronous Time-Based Image Sensor
-- Neuromorophic vision sensing and processing
-- Event-Based State Estimation
+- Combined frame- and event-based detection and tracking <a href="https://ieeexplore.ieee.org/abstract/document/7539103?casa_token=JyxMuJ4BNtoAAAAA:S-4_NmYOyJkL99am51qdFYmNZ05nzt_jxqvvZ9zvmKkFOakc_Apgh-9ywCJQJ5G5OTc7veUBxg" target="_blank">[Paper] </a> 
+- Fast event-based Harris corner detection exploiting the advantages of event-driven cameras <a href="https://ieeexplore.ieee.org/abstract/document/7759610?casa_token=LDHOiTLhz2IAAAAA:8vMFwrWk1GkoIT713LgFGzdCJz-fusRdmZJvkD-uN2u9Ie0wbv3UQhWXLR4Gj14mvBjPwC4ZrA" target="_blank">[Paper] </a>
+- Low-latency visual odometry using event-based feature tracks <a href="https://ieeexplore.ieee.org/abstract/document/7758089?casa_token=TZx07dYzuGQAAAAA:g-hbOvR2W7gezUnvaF720xKvzjMkyiaD8mePtae-Ulwi--5i93R5zMhWoyRGqm0itetVUrspKA" target="_blank">[Paper] </a>
+- HOTS: A Hierarchy of Event-Based Time-Surfaces for Pattern Recognition <a href="https://ieeexplore.ieee.org/abstract/document/7508476" target="_blank">[Paper] </a>
+- Evaluation of Event-Based Algorithms for Optical Flow with Ground-Truth from Inertial Measurement Sensor <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2016.00176/full" target="_blank">[Paper] </a>
+- Asynchronous Event-based Cooperative Stereo Matching Using Neuromorphic Silicon Retinas <a href="https://link.springer.com/article/10.1007/s11063-015-9434-5" target="_blank">[Paper] </a>
+- Feature detection and tracking with the dynamic and active-pixel vision sensor (DAVIS) <a href="https://ieeexplore.ieee.org/abstract/document/7605086?casa_token=RvrR7DTmnSEAAAAA:X1Wa-yYr0InLghuKij74KzE9feYwNjKCzcSwUsEA_X9bgzXGFkJLbMvdcaH9ESbYY4NyfE1oCg" target="_blank">[Paper] </a>
+- An Event-Driven Ultra-Low-Power Smart Visual Sensor <a href="https://ieeexplore.ieee.org/abstract/document/7456200?casa_token=lu1YM48YLQIAAAAA:O_J1Mr589ZEarBnXabqzyJf4Dh3GSPFWL4Pw-BOVKzfhQt6jLrZLvoxSduELqAsC5ME7-tJUhQ" target="_blank">[Paper] </a>
+- Steering a predator robot using a mixed frame/event-driven convolutional neural network <a href="https://ieeexplore.ieee.org/abstract/document/7605233?casa_token=45yDHRRxFW0AAAAA:jcYvJcPS4Zo15FushbAOFTW8prNh7ot6h_yFc6CmXlAkF7r4xGX7ebd0aHe_PN6-ABRV-BJb-w" target="_blank">[Paper] </a>
+- Event-Based Tone Mapping for Asynchronous Time-Based Image Sensor <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2016.00391/full" target="_blank">[Paper] </a>
+- Neuromorophic vision sensing and processing <a href="https://ieeexplore.ieee.org/abstract/document/7599576?casa_token=nygoaGNKgkIAAAAA:eLOW8SUL33GMhsMK3GbPSB7aIOlmZeSfwj9H5QaC2IrcEMUQnEa0hUpQHUrUm9sY-MB-1pMjuQ" target="_blank">[Paper] </a>
+- Event-Based State Estimation <a href="https://link.springer.com/book/10.1007/978-3-319-26606-0" target="_blank">[Paper] </a>
 
 
 #### 2015
