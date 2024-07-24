@@ -464,6 +464,9 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 | 2017 | <a href=" " target="_blank">    DDDD17    </a>                             | DAVIS346B                   | Yes                         | Vehicle speed, driver steering etc.,                | Steering wheel angle prediction       | Annotated real-world driving recordings in highways, city during day, evening, night, dry, and wet weather conditions |
 | 2017 | <a href=" " target="_blank">    DvsGesture    </a>                           | DVS128                      | Yes                         | 11 Hand and arm gestures                            | Gesture Recognition (Hand and arm)    | Gesture dataset comprising 11 hand gesture categories from 29 subjects under 3 illumination conditions             |
 | 2017 | <a href=" " target="_blank">    Event Camera Dataset     </a>             | DAVIS 240C                  | Yes                         | Objects rotation, translation, person walking and running, etc., | Pose estimation, visual odometry, SLAM | The dataset consists of object's motion captured in outdoor and indoor scenarios with varying speed and DoFs       |
+| 2019 | <a href=" " target="_blank"> EVIMO </a>                           | DAVIS346                    | Yes, Automatic labeling     | Moving objects                                     | Motion segmentation, structure from motion, visual odometry, optical flow, stereo | Indoor dataset with moving objects, 3D motion of the sensor, 3D motion of all objects, object structure, and object masks |
+
+
 
 ## Synthetic Event-based Datasets
 
