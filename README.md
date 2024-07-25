@@ -507,6 +507,7 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - V2CE: Video to Continuous Events Simulator <a href="https://arxiv.org/pdf/2309.08891" target="_blank">[Paper] </a>
 - E-nerf: Neural radiance fields from a moving event camera
 - An Artificial Neural SLAM Framework for Event-Based Vision
+- When do neuromorphic sensors outperform cameras? Learning from dynamic features <a href="https://ieeexplore.ieee.org/abstract/document/10089678?casa_token=6q_QZYNjcGUAAAAA:9HA-5SH6c0Wo-GJfKCO-_ItpYNobt4q3LScQVD6UDFYzX_gNDL5CKVzCwGUHqn2gVZDhsf0P6A" target="_blank">[Paper] </a>
 - A 2.97μm-Pitch Event-Based Vision Sensor with Shared Pixel Front-End Circuitry and Low-Noise Intensity Readout Mode
 - .22μm 35.6Mpixel RGB Hybrid Event-Based Vision Sensor with 4.88μm-Pitch Event Pixels and up to 10K Event Frame Rate by Adaptive Control on Event Sparsity
 - Intelligent Machinery Fault Diagnosis With Event-Based Camera
