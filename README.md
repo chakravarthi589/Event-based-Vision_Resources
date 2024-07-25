@@ -8,7 +8,7 @@ This repository is dedicated to categorizing articles on event-based vision. Whi
 Event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic sensor, event camera
 
 #### Github Page Curator: 
-<a href="https://chakravarthi589.github.io/" target="_blank"> Bharatesh Chakravarthi, Ph.D
+<a href="https://chakravarthi589.github.io/" target="_blank"> Bharatesh Chakravarthi, Ph.D<br>
 <a href="https://aayush-v.github.io/" target="_blank"> Aayush Atul Verma
 
 #### Our Publications:
