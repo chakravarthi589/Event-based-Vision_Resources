@@ -669,10 +669,12 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - A Dynamic Vision Sensor With 1% Temporal Contrast Sensitivity and In-Pixel Asynchronous Delta Modulator for Event Encoding <a href=" " target="_blank"> [Paper] </a>
 - Bio-inspired Motion Estimation with Event-Driven Sensors <a href="https://link.springer.com/chapter/10.1007/978-3-319-19258-1_27" target="_blank"> [Paper] </a>
 
-#### 2014
+#### 2014 
 - Event-based, 6-DOF pose tracking for high-speed maneuvers <a href="https://ieeexplore.ieee.org/abstract/document/6942940?casa_token=aWSWxpz7Fc8AAAAA:y9_cMjEzCaQ4vZiXy-GoHgXZ9POxITG0ZIm3C2k3kzWueUjpdnIdQyUkVnAYdNYuHi3UYBkMxQ" target="_blank"> [Paper] </a>
 - Low-latency event-based visual odometry <a href="https://ieeexplore.ieee.org/abstract/document/6906931?casa_token=uvSnVZZtPPAAAAAA:pAo32lkSKUI7hqBaMjyF_r_1l9PXWQpve38Hj3ILzLx0GramNTeGfskInnZalXTWmJ0NXXHZAw" target="_blank"> [Paper] </a>
 
-#### 2013
+#### 2013 <a href="#top" style="position: fixed; top: 10px; right: 10px; background: #007bff; color: white; padding: 10px; border-radius: 50%; text-decoration: none; box-shadow: 0 2px 4px rgba(0,0,0,0.2); font-size: 24px; display: flex; align-items: center; justify-content: center;">
+  <i class="fas fa-chevron-up"></i>
+</a>
 
 - Event-based visual flow <a href="https://ieeexplore.ieee.org/abstract/document/6589170?casa_token=aYKfXeE86PIAAAAA:yzgdLabTgHhlkrkyLglhMni-xTPc_n0K85LZW9lMolVOOLUZyOMDAMCrmSFTdOvqp-QZPA8q7w" target="_blank"> [Paper] </a>
