@@ -328,6 +328,7 @@ Accepted Papers will be updated Soon...
 - Learning Optical Flow from Event Camera with Rendered Dataset <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Luo_Learning_Optical_Flow_from_Event_Camera_with_Rendered_Dataset_ICCV_2023_paper.pdf" target="_blank">[Paper]</a>
 - Event-based Temporally Dense Optical Flow Estimation with Sequential Learning <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Ponghiran_Event-based_Temporally_Dense_Optical_Flow_Estimation_with_Sequential_Learning_ICCV_2023_paper.pdf" target="_blank">[Paper]</a>
 - Non-Coaxial Event-Guided Motion Deblurring with Spatial Alignment <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Cho_Non-Coaxial_Event-Guided_Motion_Deblurring_with_Spatial_Alignment_ICCV_2023_paper.pdf" target="_blank">[Paper]</a>
+- A 5-Point Minimal Solver for Event Camera Relative Motion Estimation <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Gao_A_5-Point_Minimal_Solver_for_Event_Camera_Relative_Motion_Estimation_ICCV_2023_paper.html" target="_blank">[Paper]</a>
 - Unsupervised Video Deraining with An Event Camera <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Unsupervised_Video_Deraining_with_An_Event_Camera_ICCV_2023_paper.pdf" target="_blank">[Paper]</a>
 - Event Camera Data Pre-training <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Event_Camera_Data_Pre-training_ICCV_2023_paper.pdf" target="_blank">[Paper]</a>
 - TMA: Temporal Motion Aggregation for Event-based Optical Flow <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_TMA_Temporal_Motion_Aggregation_for_Event-based_Optical_Flow_ICCV_2023_paper.pdf" target="_blank">[Paper]</a>
@@ -546,6 +547,7 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 #### 2023
 - Event-Diffusion: Event-Based Image Reconstruction and Restoration with Diffusion Models <a href="https://dl.acm.org/doi/pdf/10.1145/3581783.3612462" target="_blank">[Paper] </a>
 - V2CE: Video to Continuous Events Simulator <a href="https://arxiv.org/pdf/2309.08891" target="_blank">[Paper] </a>
+- Seeing Behind Dynamic Occlusions with Event Cameras <a href="https://arxiv.org/pdf/2307.15829" target="_blank">[Paper] </a>
 - E-nerf: Neural radiance fields from a moving event camera
 - An Artificial Neural SLAM Framework for Event-Based Vision
 - When do neuromorphic sensors outperform cameras? Learning from dynamic features <a href="https://ieeexplore.ieee.org/abstract/document/10089678?casa_token=6q_QZYNjcGUAAAAA:9HA-5SH6c0Wo-GJfKCO-_ItpYNobt4q3LScQVD6UDFYzX_gNDL5CKVzCwGUHqn2gVZDhsf0P6A" target="_blank">[Paper] </a>
@@ -566,6 +568,8 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 
 
 #### 2022
+- Are High-Resolution Event Cameras Really Needed? <a href="https://arxiv.org/pdf/2203.14672" target="_blank">[Paper] </a>
+- Exploring Event Camera-Based Odometry for Planetary Robots <a href="https://ieeexplore.ieee.org/abstract/document/9813406" target="_blank">[Paper] </a>
 - EVIMO2: An Event Camera Dataset for Motion Segmentation, Optical Flow, Structure from Motion, and Visual Inertial Odometry in Indoor Scenes with Monocular or Stereo Algorithms  <a href="https://arxiv.org/pdf/2205.03467" target="_blank"> [Paper]
 - Fast classification and action recognition with event-based imaging
 - Event-based motion capture system for online multi-quadrotor localization and tracking
@@ -589,7 +593,10 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - Bridging the Gap Between Events and Frames Through Unsupervised Domain Adaptation
 
 #### 2021
+- ESL: Event-based Structured Light <a href="https://ieeexplore.ieee.org/abstract/document/9665929" target="_blank">[Paper] </a>
 - DSEC: A Stereo Event Camera Dataset for Driving Scenarios <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9387069" target="_blank">[Paper] </a>
+- Event Guided Depth Sensing <a href="https://ieeexplore.ieee.org/abstract/document/9665844" target="_blank">[Paper] </a>
+- Powerline Tracking with Event Cameras <a href="https://ieeexplore.ieee.org/abstract/document/9636824" target="_blank">[Paper] </a>
 - Event Camera Simulator Improvements via Characterized Parameters <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.702765/full" target="_blank">[Paper] </a>
 - Event-based stereo visual odometry <a href="https://ieeexplore.ieee.org/abstract/document/9386209?casa_token=Ct6Niv_0f_4AAAAA:7hzueBdowERWRMWJSWxysP_X7vxkT9tOBgp_bX5fbMegVA0OITzcK3NSSrD9CgbAWBOm4TY7HQ" target="_blank">[Paper] </a>
 - Event-driven Vision and Control for UAVs on a Neuromorphic Chip <a href="https://ieeexplore.ieee.org/abstract/document/9560881?casa_token=dQ1Tt3YX-fgAAAAA:IGq-J8vicsMeSUu6Whiuin4Xk8CxuXm3EAAj9h6Icf9ETZsozYSS77rFc0T95d7dFuUMu-VRzg" target="_blank">[Paper] </a>
