@@ -2,7 +2,7 @@
 
 This repository is dedicated to categorizing articles on event-based vision. While many papers are directly linked to PDFs hosted on platforms like arXiv or OpenAccess, certain articles may necessitate access through an academic license. These include publications from IEEE, Springer, Elsevier journals, and others. (Last Update on 7/25/2024)
 
-## Stylesheet
+
 
 #### Search Keywords: 
 Event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic sensor, event camera
@@ -703,6 +703,10 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - Low-latency event-based visual odometry <a href="https://ieeexplore.ieee.org/abstract/document/6906931?casa_token=uvSnVZZtPPAAAAAA:pAo32lkSKUI7hqBaMjyF_r_1l9PXWQpve38Hj3ILzLx0GramNTeGfskInnZalXTWmJ0NXXHZAw" target="_blank"> [Paper] </a>
 
 #### 2013 
+## Stylesheet
+
+You can view the [CSS stylesheet](https://github.com/chakravarthi589/event-based-vision/raw/main/style.css) here.
+
 <a class="top-link hide" href="#top">↑</a>
 <a name="top"></a>
 - Event-based visual flow <a href="https://ieeexplore.ieee.org/abstract/document/6589170?casa_token=aYKfXeE86PIAAAAA:yzgdLabTgHhlkrkyLglhMni-xTPc_n0K85LZW9lMolVOOLUZyOMDAMCrmSFTdOvqp-QZPA8q7w" target="_blank"> [Paper] </a>
