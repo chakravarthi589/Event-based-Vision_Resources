@@ -1,5 +1,5 @@
-<h1 align="center">
-  Event-based Vision / Dynamic Vision Sensors / Neuromorphic Vision / Event Camera - Recources
+<h1 align="center" style="color: #ff5722;>
+  Event-based Vision / Dynamic Vision Sensors / Neuromorphic Vision / Event Camera - Resources
 </h1>
 
 
