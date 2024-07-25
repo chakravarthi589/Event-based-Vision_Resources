@@ -1,4 +1,4 @@
-<h1 style="color: #333333; text-align: center;">
+<h1>
   Event-based Vision / Dynamic Vision Sensors / Neuromorphic Vision / Event Camera
 </h1>
 
