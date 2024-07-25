@@ -2,6 +2,14 @@
 
 This repository is dedicated to categorizing articles on event-based vision. While many papers are directly linked to PDFs hosted on platforms like arXiv or OpenAccess, certain articles may necessitate access through an academic license. These include publications from IEEE, Springer, Elsevier journals, and others. (Last Update on 7/24/2024)
 
+<a id="top"></a>
+
+Some content here...
+
+[Back to Top](#top)
+
+More content here...
+
 #### Search Keywords: 
 Event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic sensor, event camera
 
