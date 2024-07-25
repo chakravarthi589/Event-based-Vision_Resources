@@ -4,7 +4,8 @@ This repository is dedicated to categorizing articles on event-based vision. Whi
 
 ## Stylesheet
 You can view the [CSS stylesheet](https://github.com/chakravarthi589/event-based-vision/raw/main/style.css) here.
-
+<a class="top-link hide" href="#top">↑</a>
+<a name="top"></a>
 
 #### Search Keywords: 
 Event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic sensor, event camera
