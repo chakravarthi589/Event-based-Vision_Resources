@@ -1,5 +1,5 @@
 <p align="center">
-  <strong style="font-size: 48px; color: #ff5722;">
+  <strong style="font-size: 100px; color: #ff5722;">
     Event-based Vision / Dynamic Vision Sensors / Neuromorphic Vision / Event Camera
   </strong>
   <br>
