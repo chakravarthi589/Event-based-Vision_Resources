@@ -4,12 +4,6 @@ This repository is dedicated to categorizing articles on event-based vision. Whi
 
 <a id="top"></a>
 
-Some content here...
-
-[Back to Top](#top)
-
-More content here...
-
 #### Search Keywords: 
 Event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic sensor, event camera
 
