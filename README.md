@@ -524,6 +524,7 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 ## Other Papers
 
 #### 2024
+- Low-latency automotive vision with event cameras <a href="https://www.nature.com/articles/s41586-024-07409-w" target="_blank">[Paper] </a>
 - TimeRewind: Rewinding Time with Image-and-Events Video Diffusion <a href="https://arxiv.org/pdf/2403.13800" target="_blank">[Paper] </a>
 - A Composable Dynamic Sparse Dataflow Architecture for Efficient Event-based Vision Processing on FPGA <a href="https://dl.acm.org/doi/pdf/10.1145/3626202.3637558" target="_blank">[Paper] </a>
 - Optimising Graph Representation for Hardware Implementation of Graph Convolutional Networks for Event-Based Vision <a href="https://link.springer.com/chapter/10.1007/978-3-031-62874-0_9" target="_blank">[Paper] </a>
