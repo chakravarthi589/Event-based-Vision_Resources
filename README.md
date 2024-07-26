@@ -21,6 +21,7 @@ Perception" accepted by CVPR 2024 Workshop on Synthetic Data for Computer Vision
 
 
 ---
+<a id="event-based-cameras"></a>
 ## :high_brightness: Event-based Cameras
 <p align="center">
   <img src="eventCameras.png" alt="Event Cameras" width="500px">
