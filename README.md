@@ -720,5 +720,11 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - Event-based, 6-DOF pose tracking for high-speed maneuvers <a href="https://ieeexplore.ieee.org/abstract/document/6942940?casa_token=aWSWxpz7Fc8AAAAA:y9_cMjEzCaQ4vZiXy-GoHgXZ9POxITG0ZIm3C2k3kzWueUjpdnIdQyUkVnAYdNYuHi3UYBkMxQ" target="_blank"> [Paper] </a>
 - Low-latency event-based visual odometry <a href="https://ieeexplore.ieee.org/abstract/document/6906931?casa_token=uvSnVZZtPPAAAAAA:pAo32lkSKUI7hqBaMjyF_r_1l9PXWQpve38Hj3ILzLx0GramNTeGfskInnZalXTWmJ0NXXHZAw" target="_blank"> [Paper] </a>
 
-#### 2013 [(⤴](#event-based-cameras)
+#### 2013 [⤴](#event-based-cameras)
 - Event-based visual flow <a href="https://ieeexplore.ieee.org/abstract/document/6589170?casa_token=aYKfXeE86PIAAAAA:yzgdLabTgHhlkrkyLglhMni-xTPc_n0K85LZW9lMolVOOLUZyOMDAMCrmSFTdOvqp-QZPA8q7w" target="_blank"> [Paper] </a>
+<div style="text-align: right;">
+  <a href="#event-based-cameras" style="text-decoration: none; font-size: 24px; color: #007bff;">
+    ⤴
+  </a>
+</div>
+
