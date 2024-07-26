@@ -411,7 +411,7 @@ Image Reconstruction from Events <a href="https://openaccess.thecvf.com/content/
 ## #ECCVW-2024-NeVi
 It will be updated soon... 
 
-##ECCVW-2024-Neural-Fields-Beyond-Cams
+## #ECCVW-2024-Neural-Fields-Beyond-Cams
 It will be updated soon... 
 
 
