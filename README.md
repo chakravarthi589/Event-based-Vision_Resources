@@ -59,7 +59,8 @@ Perception" accepted by CVPR 2024 Workshop on Synthetic Data for Computer Vision
 ---
 
 ## :high_brightness: Event-based Vision Workshop Papers
-- [ECCV 2024 Workshop on Neuromorphic Vision: Advantages and Applications of Event Camera](#ECCVW-2024)
+- [ECCV 2024-NeVI Workshop on Neuromorphic Vision: Advantages and Applications of Event Camera](#ECCVW-2024)
+- [ECCV 2024 Workshop on Neuromorphic Vision: Neural Fields Beyond Conventional Cameras](#ECCVW-2024)
 - [CVPR 2023 Workshop on Event-based Vision](#CVPRW-2023) 
 - [CVPR 2021 Workshop on Event-based Vision](#CVPRW-2021) 
 - [CVPR 2019 Workshop on Event-based Vision and Smart Cameras](#CVPRW-2019) 
