@@ -698,7 +698,7 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - Event-Based State Estimation <a href="https://link.springer.com/book/10.1007/978-3-319-26606-0" target="_blank">[Paper] </a>
 
 
-#### 2015
+#### 2015 [⤴](#event-based-cameras)
 - Converting Static Image Datasets to Spiking Neuromorphic Datasets Using Saccades <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2015.00437/full" target="_blank">[Paper] </a>
 - Poker-DVS and MNIST-DVS. Their History, How They Were Made, and Other Details <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2015.00481/full" target="_blank">[Paper] </a>
 - Continuous-Time Trajectory Estimation for Event-based Vision Sensors <a href="https://infoscience.epfl.ch/entities/publication/fb26e858-f8b5-4d8d-957c-fb8e91b5a751" target="_blank"> [Paper] </a>
@@ -716,15 +716,11 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - A Dynamic Vision Sensor With 1% Temporal Contrast Sensitivity and In-Pixel Asynchronous Delta Modulator for Event Encoding <a href=" " target="_blank"> [Paper] </a>
 - Bio-inspired Motion Estimation with Event-Driven Sensors <a href="https://link.springer.com/chapter/10.1007/978-3-319-19258-1_27" target="_blank"> [Paper] </a>
 
-#### 2014 
+#### 2014 [⤴](#event-based-cameras)
 - Event-based, 6-DOF pose tracking for high-speed maneuvers <a href="https://ieeexplore.ieee.org/abstract/document/6942940?casa_token=aWSWxpz7Fc8AAAAA:y9_cMjEzCaQ4vZiXy-GoHgXZ9POxITG0ZIm3C2k3kzWueUjpdnIdQyUkVnAYdNYuHi3UYBkMxQ" target="_blank"> [Paper] </a>
 - Low-latency event-based visual odometry <a href="https://ieeexplore.ieee.org/abstract/document/6906931?casa_token=uvSnVZZtPPAAAAAA:pAo32lkSKUI7hqBaMjyF_r_1l9PXWQpve38Hj3ILzLx0GramNTeGfskInnZalXTWmJ0NXXHZAw" target="_blank"> [Paper] </a>
 
 #### 2013 [⤴](#event-based-cameras)
 - Event-based visual flow <a href="https://ieeexplore.ieee.org/abstract/document/6589170?casa_token=aYKfXeE86PIAAAAA:yzgdLabTgHhlkrkyLglhMni-xTPc_n0K85LZW9lMolVOOLUZyOMDAMCrmSFTdOvqp-QZPA8q7w" target="_blank"> [Paper] </a>
-<div style="text-align: left;">
-  <a href="#event-based-cameras" style="text-decoration: none; font-size: 24px; color: #007bff;">
-    ⤴
-  </a>
-</div>
+
 
