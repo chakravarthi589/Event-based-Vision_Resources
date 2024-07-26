@@ -404,10 +404,10 @@ Image Reconstruction from Events <a href="https://openaccess.thecvf.com/content/
 
 ---
 
-## #ECCVW-2024-NeVi
+## #ECCV Wokshop on Neuromorphic Vision (NeVi) - 2024 
 It will be updated soon... 
 
-## #ECCVW-2024-Neural-Fields-Beyond-Cams
+## #ECCV Wokshop on Neural-Fields-Beyond-Cams - 2024
 It will be updated soon... 
 
 ---
