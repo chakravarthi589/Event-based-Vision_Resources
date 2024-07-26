@@ -722,7 +722,7 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 
 #### 2013 [⤴](#event-based-cameras)
 - Event-based visual flow <a href="https://ieeexplore.ieee.org/abstract/document/6589170?casa_token=aYKfXeE86PIAAAAA:yzgdLabTgHhlkrkyLglhMni-xTPc_n0K85LZW9lMolVOOLUZyOMDAMCrmSFTdOvqp-QZPA8q7w" target="_blank"> [Paper] </a>
-<div style="text-align: right;">
+<div style="text-align: left;">
   <a href="#event-based-cameras" style="text-decoration: none; font-size: 24px; color: #007bff;">
     ⤴
   </a>
