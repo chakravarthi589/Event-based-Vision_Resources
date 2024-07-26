@@ -574,16 +574,15 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - Are High-Resolution Event Cameras Really Needed? <a href="https://arxiv.org/pdf/2203.14672" target="_blank">[Paper] </a>
 - Exploring Event Camera-Based Odometry for Planetary Robots <a href="https://ieeexplore.ieee.org/abstract/document/9813406" target="_blank">[Paper] </a>
 - EVIMO2: An Event Camera Dataset for Motion Segmentation, Optical Flow, Structure from Motion, and Visual Inertial Odometry in Indoor Scenes with Monocular or Stereo Algorithms  <a href="https://arxiv.org/pdf/2205.03467" target="_blank"> [Paper]
-- Fast classification and action recognition with event-based imaging <a href=" " target="_blank">[Paper] </a>
-- Event-based motion capture system for online multi-quadrotor localization and tracking <a href=" " target="_blank">[Paper] </a>
-- Fusing Event-based and RGB camera for Robust Object Detection in Adverse Conditions <a href=" " target="_blank">[Paper] </a>
-- Event-Based Line SLAM in Real-Time <a href=" " target="_blank">[Paper] </a>
-- Neuromorphic Vision-Based Fall Localization in Event Streams With Temporal–Spatial Attention Weighted Network <a href=" " target="_blank">[Paper] </a>
-- Asynchronous Spatio-Temporal Memory Network for Continuous Event-Based Object Detection <a href=" " target="_blank">[Paper] </a>
-- Spatio-Temporal Recurrent Networks for Event-Based Optical Flow Estimation <a href=" " target="_blank">[Paper] </a>
-- Event-LSTM: An Unsupervised and Asynchronous Learning-Based Representation for Event-Based Data <a href=" " target="_blank">[Paper] </a>
-- EDFLOW: Event Driven Optical Flow Camera With Keypoint Detection and Adaptive Block Matching <a href=" " target="_blank">[Paper] </a>
-- A Sparse-Aware Solution for Efficient Event Data Processing <a href=" " target="_blank">[Paper] </a>
+- Fast classification and action recognition with event-based imaging <a href="https://ieeexplore.ieee.org/abstract/document/9781403" target="_blank">[Paper] </a>
+- Event-based motion capture system for online multi-quadrotor localization and tracking <a href="https://www.mdpi.com/1424-8220/22/9/3240" target="_blank">[Paper] </a>
+- Fusing Event-based and RGB camera for Robust Object Detection in Adverse Conditions <a href="https://ieeexplore.ieee.org/abstract/document/9812059?casa_token=UdxrTNsdit4AAAAA:smQcKDsfzlX94nklLcbDisGoH5wpPzcRpoRxgD8IvfBWhOQd8-gTJBW23y6FTDwNNWM6DOnV1w" target="_blank">[Paper] </a>
+- Event-Based Line SLAM in Real-Time <a href="https://ieeexplore.ieee.org/abstract/document/9810191?casa_token=Lcuq7w52F4MAAAAA:NM0HPD0a6SV2OwjSs0gQ_6Tunn4k8vrk65kR6-sDxWDcLHyW_JI_neMaYRZZt1SZxh2swOPRRQ" target="_blank">[Paper] </a>
+- Neuromorphic Vision-Based Fall Localization in Event Streams With Temporal–Spatial Attention Weighted Network <a href="https://ieeexplore.ieee.org/abstract/document/9771080?casa_token=wxJbsrnhbcAAAAAA:NZ4OW5JESSSePTIFq0DmNVLqOFoHxoA42Q8-yq6kgPaWoZilQSKj2ptgkKNwFTOyQ7HUGrCNQw" target="_blank">[Paper] </a>
+- Asynchronous Spatio-Temporal Memory Network for Continuous Event-Based Object Detection <a href="https://ieeexplore.ieee.org/abstract/document/9749022?casa_token=keZzCH6yTn0AAAAA:6yy0DTDwL-Ay289JA6wgcCtQ7VqiOWKJ9RAW3ksdL0iRJ6GG0-i734YDUOUfhbmbiRFn9ub15A" target="_blank">[Paper] </a>
+- Spatio-Temporal Recurrent Networks for Event-Based Optical Flow Estimation <a href="https://ojs.aaai.org/index.php/AAAI/article/view/19931" target="_blank">[Paper] </a>
+- Event-LSTM: An Unsupervised and Asynchronous Learning-Based Representation for Event-Based Data <a href="https://ieeexplore.ieee.org/abstract/document/9713987?casa_token=qqX0PHtiFAUAAAAA:blevX4jzRkdVGR7eiqD2dgbX7qrzeEOESgjvVO7WLA7Tmduyf9ClKOHR17GlFTTL2Kr0i3Y1kg" target="_blank">[Paper] </a>
+- EDFLOW: Event Driven Optical Flow Camera With Keypoint Detection and Adaptive Block Matching <a href="https://ieeexplore.ieee.org/abstract/document/9727106?casa_token=k12SNf7eoAQAAAAA:NA3ZSNabrRcdgrZJpOVM0xfyccAhmtukXSSf4oqGG03U6I7K66k3xFln5ahGp2FTmKuLNqvPrQ" target="_blank">[Paper] </a>
 - Learning Dense and Continuous Optical Flow From an Event Camera <a href="https://ieeexplore.ieee.org/abstract/document/9950520?casa_token=DKXS3ZayIpAAAAAA:7oHNwEfwTdw7AieDmtDLgLPgJSNWhlrHUL2MtcSp3hDE4_uG_hyjqMKJz0DmxTbWDs9MPfX_uA" target="_blank">[Paper] </a>
 - ECSNet: Spatio-Temporal Feature Learning for Event Camera <a href="https://ieeexplore.ieee.org/abstract/document/9869656?casa_token=byLMU6ENGxcAAAAA:CacgmeDwGEVCBn58w4QLG4TkX0kxi3HEwoedHFH0mB0rM7wTPz7HNknIYCDT0oZZ8DpLJHJifw" target="_blank">[Paper] </a>
 - Visual Odometry with an Event Camera Using Continuous Ray Warping and Volumetric Contrast Maximization <a href="https://www.mdpi.com/1424-8220/22/15/5687" target="_blank">[Paper] </a>
