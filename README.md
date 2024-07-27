@@ -376,10 +376,10 @@ Image Reconstruction from Events <a href="https://openaccess.thecvf.com/content/
 
 ---
 
-## #ECCV Wokshop on Neuromorphic Vision (NeVi) - 2024 [⤴](#event-based-cameras)
+## #ECCV Wokshop on Neuromorphic Vision (NeVi) - 2024 
 It will be updated soon... 
 
-## #ECCV Wokshop on Neural-Fields-Beyond-Cams - 2024 [⤴](#event-based-cameras)
+## #ECCV Wokshop on Neural-Fields-Beyond-Cams - 2024 
 It will be updated soon... 
 
 ---
