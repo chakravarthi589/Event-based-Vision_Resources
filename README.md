@@ -373,33 +373,6 @@ Image Reconstruction from Events <a href="https://openaccess.thecvf.com/content/
 
 ## ICCV 2017 [⤴](#event-based-cameras)
 - No Papers on event-based vision / event-based camera / neuromorphic sensors
----
-
-## ICRA 2023 [⤴](#event-based-cameras)
-- Event-based Real-time Moving Object Detection Based On IMU Ego-motion Compensation <a href="https://ieeexplore.ieee.org/document/10160472">[Paper]</a>
-- Continuous-Time Gaussian Process Motion-Compensation for Event-Vision Pattern Tracking with Distance Fields  <a href="https://ieeexplore.ieee.org/document/10160768">[Paper]</a>
-- Fusion of Events and Frames using 8-DOF Warping Model for Robust Feature Tracking <a href="https://ieeexplore.ieee.org/document/10161098">[Paper]</a>
-- Direct Angular Rate Estimation Without Event Motion-Compensation At High Angular Rates <a href="https://ieeexplore.ieee.org/document/10160967">[Paper]</a>
-- Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning <a href="https://ieeexplore.ieee.org/document/10160681">[Paper]</a>
-- DOTIE - Detecting Objects through Temporal Isolation of Events using a Spiking Architecture <a href="https://ieeexplore.ieee.org/document/10161164">[Paper]</a>
-- Improved Event-Based Dense Depth Estimation via Optical Flow Compensation <a href="https://ieeexplore.ieee.org/document/10160605">[Paper]</a>
-- Adaptive-SpikeNet: Event-based Optical Flow Estimation using Spiking Neural Networks with Learnable Neuronal Dynamics <a href="https://ieeexplore.ieee.org/document/10160551">[Paper]</a>
-- RGB-Event Fusion for Moving Object Detection in Autonomous Driving <a href="https://ieeexplore.ieee.org/document/10161563">[Paper]</a>
-- E-VFIA: Event-Based Video Frame Interpolation with Attention <a href="https://ieeexplore.ieee.org/document/10160276">[Paper]</a>
-- L2E: Lasers to Events for 6-DoF Extrinsic Calibration of Lidars and Event Cameras <a href="https://ieeexplore.ieee.org/document/10161220">[Paper]</a>
-- Real-time event simulation with frame-based cameras <a href="https://ieeexplore.ieee.org/document/10160654">[Paper]</a>
-- Towards Bridging the Space Domain Gap for Satellite Pose Estimation using Event Sensing <a href="https://ieeexplore.ieee.org/document/10160531">[Paper]</a>
-- Event-based Agile Object Catching with a Quadrupedal Robot <a href="https://ieeexplore.ieee.org/document/10161392">[Paper]</a>
-
-## ICRA 2022 [⤴](#event-based-cameras)
-- A Linear Comb Filter for Event Flicker Removal <a href="https://ieeexplore.ieee.org/document/9812003">[Paper]</a>
-- Learning Local Event-based Descriptor for Patch-based Stereo Matching <a href="https://ieeexplore.ieee.org/document/9811687">[Paper]</a>
-- Kinematic Structure Estimation of Arbitrary Articulated Rigid Objects for Event Cameras <a href="https://ieeexplore.ieee.org/document/9812430">[Paper]</a>
-- Fusing Event-based and RGB camera for Robust Object Detection in Adverse Conditions <a href="https://ieeexplore.ieee.org/document/9812059">[Paper]</a>
-- DEVO: Depth-Event Camera Visual Odometry in Challenging Conditionsm <a href="https://ieeexplore.ieee.org/document/9811805">[Paper]</a>
-- Neural Implicit Event Generator for Motion Tracking <a href="https://ieeexplore.ieee.org/document/9812142">[Paper]</a>
-- VISTA 2.0: An Open, Data-driven Simulator for Multimodal Sensing and Policy Learning for Autonomous Vehicles <a href="https://ieeexplore.ieee.org/document/9812276">[Paper]</a>
-- Asynchronous Optimisation for Event-based Visual Odometry <a href="https://ieeexplore.ieee.org/document/9811943">[Paper]</a>
 
 ---
 
@@ -553,6 +526,20 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - E-nerf: Neural radiance fields from a moving event camera
 - An Artificial Neural SLAM Framework for Event-Based Vision
 - When do neuromorphic sensors outperform cameras? Learning from dynamic features <a href="https://ieeexplore.ieee.org/abstract/document/10089678?casa_token=6q_QZYNjcGUAAAAA:9HA-5SH6c0Wo-GJfKCO-_ItpYNobt4q3LScQVD6UDFYzX_gNDL5CKVzCwGUHqn2gVZDhsf0P6A" target="_blank">[Paper] </a>
+- Event-based Real-time Moving Object Detection Based On IMU Ego-motion Compensation (ICRA) <a href="https://ieeexplore.ieee.org/document/10160472">[Paper]</a>
+- Continuous-Time Gaussian Process Motion-Compensation for Event-Vision Pattern Tracking with Distance Fields  (ICRA) <a href="https://ieeexplore.ieee.org/document/10160768">[Paper]</a>
+- Fusion of Events and Frames using 8-DOF Warping Model for Robust Feature Tracking (ICRA) <a href="https://ieeexplore.ieee.org/document/10161098">[Paper]</a>
+- Direct Angular Rate Estimation Without Event Motion-Compensation At High Angular Rates (ICRA) <a href="https://ieeexplore.ieee.org/document/10160967">[Paper]</a>
+- Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning (ICRA) <a href="https://ieeexplore.ieee.org/document/10160681">[Paper]</a>
+- DOTIE - Detecting Objects through Temporal Isolation of Events using a Spiking Architecture (ICRA) <a href="https://ieeexplore.ieee.org/document/10161164">[Paper]</a>
+- Improved Event-Based Dense Depth Estimation via Optical Flow Compensation (ICRA) <a href="https://ieeexplore.ieee.org/document/10160605">[Paper]</a>
+- Adaptive-SpikeNet: Event-based Optical Flow Estimation using Spiking Neural Networks with Learnable Neuronal Dynamics (ICRA) <a href="https://ieeexplore.ieee.org/document/10160551">[Paper]</a>
+- RGB-Event Fusion for Moving Object Detection in Autonomous Driving (ICRA) <a href="https://ieeexplore.ieee.org/document/10161563">[Paper]</a>
+- E-VFIA: Event-Based Video Frame Interpolation with Attention (ICRA) <a href="https://ieeexplore.ieee.org/document/10160276">[Paper]</a>
+- L2E: Lasers to Events for 6-DoF Extrinsic Calibration of Lidars and Event Cameras (ICRA) <a href="https://ieeexplore.ieee.org/document/10161220">[Paper]</a>
+- Real-time event simulation with frame-based cameras (ICRA) <a href="https://ieeexplore.ieee.org/document/10160654">[Paper]</a>
+- Towards Bridging the Space Domain Gap for Satellite Pose Estimation using Event Sensing (ICRA) <a href="https://ieeexplore.ieee.org/document/10160531">[Paper]</a>
+- Event-based Agile Object Catching with a Quadrupedal Robot (ICRA) <a href="https://ieeexplore.ieee.org/document/10161392">[Paper]</a>
 - A 2.97μm-Pitch Event-Based Vision Sensor with Shared Pixel Front-End Circuitry and Low-Noise Intensity Readout Mode
 - .22μm 35.6Mpixel RGB Hybrid Event-Based Vision Sensor with 4.88μm-Pitch Event Pixels and up to 10K Event Frame Rate by Adaptive Control on Event Sparsity
 - Intelligent Machinery Fault Diagnosis With Event-Based Camera
@@ -567,6 +554,7 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - PL-EVIO: Robust Monocular Event-Based Visual Inertial Odometry With Point and Line Features
 - Motion Robust High-Speed Light-Weighted Object Detection With Event Camera
 - Real-Time Multi-Task Facial Analytics With Event Cameras
+
 
 
 #### 2022 [⤴](#event-based-cameras)
@@ -592,6 +580,15 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - Exploiting Spatial Sparsity for Event Cameras with Visual Transformers <a href="https://ieeexplore.ieee.org/abstract/document/9844855?casa_token=QK3pBqEph-EAAAAA:r5pSs2pu2LIYO5oCjSH8nFRJM1UwUCEgOjScquPd4khYbuXwdyoK4evxFUvaxoO539Sz4iGm5Q" target="_blank">[Paper] </a>
 - Understanding Human Reactions Looking at Facial Microexpressions With an Event Camera <a href="https://ieeexplore.ieee.org/abstract/document/9844855?casa_token=QK3pBqEph-EAAAAA:r5pSs2pu2LIYO5oCjSH8nFRJM1UwUCEgOjScquPd4khYbuXwdyoK4evxFUvaxoO539Sz4iGm5Q" target="_blank">[Paper] </a>
 - Bridging the Gap Between Events and Frames Through Unsupervised Domain Adaptation <a href="https://ieeexplore.ieee.org/abstract/document/9691862?casa_token=820KVWc-9xEAAAAA:X0EN1m_W1-SoWi5VwcK7-2QBm6pkBUX00FBJadsx54TDZfoojDhicLSjLukpQFrnIo1x7Bi4eg" target="_blank">[Paper] </a>
+- A Linear Comb Filter for Event Flicker Removal (ICRA) <a href="https://ieeexplore.ieee.org/document/9812003">[Paper]</a>
+- Learning Local Event-based Descriptor for Patch-based Stereo Matching (ICRA) <a href="https://ieeexplore.ieee.org/document/9811687">[Paper]</a>
+- Kinematic Structure Estimation of Arbitrary Articulated Rigid Objects for Event Cameras (ICRA) <a href="https://ieeexplore.ieee.org/document/9812430">[Paper]</a>
+- Fusing Event-based and RGB camera for Robust Object Detection in Adverse Conditions (ICRA) <a href="https://ieeexplore.ieee.org/document/9812059">[Paper]</a>
+- DEVO: Depth-Event Camera Visual Odometry in Challenging Conditionsm (ICRA) <a href="https://ieeexplore.ieee.org/document/9811805">[Paper]</a>
+- Neural Implicit Event Generator for Motion Tracking (ICRA) <a href="https://ieeexplore.ieee.org/document/9812142">[Paper]</a>
+- VISTA 2.0: An Open, Data-driven Simulator for Multimodal Sensing and Policy Learning for Autonomous Vehicles (ICRA) <a href="https://ieeexplore.ieee.org/document/9812276">[Paper]</a>
+- Asynchronous Optimisation for Event-based Visual Odometry (ICRA) <a href="https://ieeexplore.ieee.org/document/9811943">[Paper]</a>
+
 
 #### 2021 [⤴](#event-based-cameras)
 - ESL: Event-based Structured Light <a href="https://ieeexplore.ieee.org/abstract/document/9665929" target="_blank">[Paper] </a>
