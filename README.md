@@ -232,11 +232,11 @@ Event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic
 - Event-Based Vision Meets Deep Learning on Steering Prediction for Self-Driving Cars <a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Maqueda_Event-Based_Vision_Meets_CVPR_2018_paper.pdf" target="_blank">[Paper]</a>
 - A Low Power, High Throughput, Fully Event-Based Stereo System <a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Andreopoulos_A_Low_Power_CVPR_2018_paper.pdf" target="_blank">[Paper]</a>
 
-## CVPR 2017 [⤴](#event-based-cameras)
+## CVPR 2017 
 - Event-based Visual Inertial Odometry <a href="https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhu_Event-Based_Visual_Inertial_CVPR_2017_paper.pdf" target="_blank">[Paper]</a>
 - A Low Power Fully Event-Based Gesture Recognition System <a href="https://openaccess.thecvf.com/content_cvpr_2017/papers/Amir_A_Low_Power_CVPR_2017_paper.pdf" target="_blank">[Paper]</a>
 
-## CVPR 2016 [⤴](#event-based-cameras)
+## CVPR 2016 
 - Simultaneous Optical Flow and Intensity Estimation From an Event Camera
 
 
@@ -261,17 +261,17 @@ Event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic
 - Event-based Star Tracking via Multiresolution Progressive Hough Transforms <a href="https://openaccess.thecvf.com/content_WACV_2020/papers/Bagchi_Event-based_Star_Tracking_via_Multiresolution_Progressive_Hough_Transforms_WACV_2020_paper.pdf" target="_blank">[Paper]</a>
 
 
-## WACV 2019 [⤴](#event-based-cameras)
+## WACV 2019 
 - Attention Mechanisms for Object Recognition With Event-Based Cameras <a href="https://arxiv.org/pdf/1807.09480" target="_blank">[Paper]</a>
 - Space-Time Event Clouds for Gesture Recognition: From RGB Cameras to Event Cameras <a href="https://ieeexplore.ieee.org/document/8659288" target="_blank">[Paper]</a>
 
 
-## WACV 2018 [⤴](#event-based-cameras)
+## WACV 2018 
 - No Papers on event-based vision / event-based camera / neuromorphic sensors
 
 
 
-## WACV 2017 [⤴](#event-based-cameras)
+## WACV 2017 
 - No Papers on event-based vision / event-based camera / neuromorphic sensors
 
 ---
@@ -309,12 +309,12 @@ Accepted Papers will be updated Soon...
 - Stereo Event-based Particle Tracking Velocimetry for 3D Fluid Flow Reconstruction <a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740035.pdf" target="_blank">[Paper]</a>
 - Spike-FlowNet: Event-based Optical Flow Estimation with Energy-Efficient Hybrid Neural Networks <a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740358.pdf" target="_blank">[Paper]</a>
 
-## ECCV 2018 [⤴](#event-based-cameras)
+## ECCV 2018 
 - Semi-Dense 3D Reconstruction with a Stereo Event Camera <a href="https://openaccess.thecvf.com/content_ECCV_2018/papers/Yi_Zhou_Semi-Dense_3D_Reconstruction_ECCV_2018_paper.pdf" target="_blank">[Paper]</a>
 - Asynchronous, Photometric Feature Tracking using Events and Frames <a href="https://openaccess.thecvf.com/content_ECCV_2018/papers/Daniel_Gehrig_Asynchronous_Photometric_Feature_ECCV_2018_paper.pdf" target="_blank">[Paper]</a>
 - Realtime Time Synchronized Event-based Stereo <a href="https://openaccess.thecvf.com/content_ECCV_2018/papers/Alex_Zhu_Realtime_Time_Synchronized_ECCV_2018_paper.pdf" target="_blank">[Paper]</a>
 
-## ECCV 2016 [⤴](#event-based-cameras)
+## ECCV 2016 
 - Real-Time 3D Reconstruction and 6-DoF Tracking with an Event Camera
 
 
