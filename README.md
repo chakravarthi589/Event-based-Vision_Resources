@@ -55,7 +55,7 @@ Event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic
 ---
 
 ## :high_brightness: Event-based Vision Workshop Papers
-- [ECCV 2024-NeVI Workshop on Neuromorphic Vision: Advantages and Applications of Event Camera](#ECCV-Wokshop-on-Neuromorphic-Vision-(NeVi-2024) | [Wokshop Webpage](https://sites.google.com/view/nevi2024)
+- [ECCV 2024-NeVI Workshop on Neuromorphic Vision: Advantages and Applications of Event Camera](#ECCV-Wokshop-on-Neuromorphic-Vision-(NeVi-2024)) | [Wokshop Webpage](https://sites.google.com/view/nevi2024)
 - [ECCV 2024 Workshop on Neuromorphic Vision: Neural Fields Beyond Conventional Cameras](#ECCVW-2024-neural-fields-beyond-cams) | [Workshop Webpage](https://neural-fields-beyond-cams.github.io/)
 - [CVPR 2023 Workshop on Event-based Vision](#CVPRW-2023) 
 - [CVPR 2021 Workshop on Event-based Vision](#CVPRW-2021) 
