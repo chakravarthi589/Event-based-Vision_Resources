@@ -33,7 +33,7 @@ Event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic
 |  <a href="https://thinklucid.com/triton2-evs/" target="_blank"> Lucid Vision Labs - Triton2 EVS </a>  | [Triton2 EVS 0.9 MP Model (IMX636)](https://thinklucid.com/product/triton2-evs-0-9mp-imx636/), [Triton2 EVS 0.3 MP Model (IMX637)](https://thinklucid.com/product/triton2-evs-0-3mp-imx637/) |  |
 
 ---
-## :high_brightness: Tools / Simulators [⤴](#event-based-cameras)
+## :high_brightness: Tools / Simulators
 
 | Event-Camera Simulators |
 | --------------- | 
@@ -48,14 +48,14 @@ Event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic
 
 ---
 
-## :high_brightness: CV Conference Papers [⤴](#event-based-cameras)
+## :high_brightness: CV Conference Papers
 | CVPR | WACV | ECCV | ICCV |
 | --------------- | --------------- | --------------- | ---------------|
 | [CVPR 2024](#CVPR-2024) <br> [CVPR 2023](#CVPR-2023) <br>[CVPR 2022](#CVPR-2022) <br>[CVPR 2021](#CVPR-2021) <br>[CVPR 2020](#CVPR-2020) <br>[CVPR 2019](#CVPR-2019) <br>[CVPR 2018](#CVPR-2018) <br>[CVPR 2019](#CVPR-2018) <br>[CVPR 2017](#CVPR-2017) <br> [CVPR 2016](#CVPR-2016) | [WACV 2023](#WACV-2023) <br>[WACV 2022](#WACV-2022) <br>[WACV 2021](#WACV-2021) <br>[WACV 2020](#WACV-2020) <br>[WACV 2019](#WACV-2019) <br>[WACV 2018](#WACV-2018) <br>[WACV 2019](#WACV-2018) <br>[WACV 2017](#WACV-2017)    | [ECCV 2024](#ECCV-2024) <br> [ECCV 2022](#ECCV-2022) <br>[ECCV 2020](#ECCV-2020) <br>[ECCV 2018](#ECCV-2018) <br> [ECCV 2016](#ECCV-2016) |[ICCV 2023](#ICCV-2023) <br>[ICCV 2021](#ICCV-2021) <br>[ICCV 2019](#ICCV-2019) <br>[ICCV 2017](#ICCV-2017) |
 ---
 
-## :high_brightness: Event-based Vision Workshop Papers [⤴](#event-based-cameras)
-- [ECCV 2024-NeVI Workshop on Neuromorphic Vision: Advantages and Applications of Event Camera](#ECCVW-2024-NeVi) | [Wokshop Webpage](https://sites.google.com/view/nevi2024)
+## :high_brightness: Event-based Vision Workshop Papers
+- [ECCV 2024-NeVI Workshop on Neuromorphic Vision: Advantages and Applications of Event Camera](#ECCV-Wokshop-on-Neuromorphic-Vision-(NeVi)-2024) | [Wokshop Webpage](https://sites.google.com/view/nevi2024)
 - [ECCV 2024 Workshop on Neuromorphic Vision: Neural Fields Beyond Conventional Cameras](#ECCVW-2024-neural-fields-beyond-cams) | [Workshop Webpage](https://neural-fields-beyond-cams.github.io/)
 - [CVPR 2023 Workshop on Event-based Vision](#CVPRW-2023) 
 - [CVPR 2021 Workshop on Event-based Vision](#CVPRW-2021) 
@@ -64,7 +64,7 @@ Event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic
 
 ---
 
-## :high_brightness: Datasets [⤴](#event-based-cameras)
+## :high_brightness: Datasets
 
 - [Realworld Event-based Datasets](#Realworld-Event-based-Datasets) <br/> 
 - [Synthetic Event-based Datasets](#Synthetic-Event-based-Datasets) <br/>
@@ -79,12 +79,12 @@ Event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic
 -->
 ---
 
-## :high_brightness: Other Papers [⤴](#event-based-cameras)
+## :high_brightness: Other Papers
 [Papers from Google Scholar using the keywords related to event-based vision](#Other-Papers)
 
 ---
 
-## :high_brightness: Survey/Review Papers [⤴](#event-based-cameras)
+## :high_brightness: Survey/Review Papers
 - Neuromorphic Perception and Navigation for Mobile Robots: A Review <a href="//efaidnbmnnnibpcajpcglclefindmkaj/https://www.arxiv.org/pdf/2407.06792" target="_blank">[Paper]
 - Event-Based Vision: A Survey <a href="https://arxiv.org/pdf/1904.08405" target="_blank">[Paper]
 - Deep Learning for Event-based Vision: A Comprehensive Survey and Benchmarks <a href="https://arxiv.org/pdf/2302.08890.pdf" target="_blank">[Paper]
@@ -100,7 +100,7 @@ Event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic
 - Research, Applications and Prospects of Event-Based Pedestrian Detection: A Survey
 
 
-## CVPR 2024 [⤴](#event-based-cameras)
+## CVPR 2024
 - [Our paper] eTraM: Event-based Traffic Monitoring Dataset <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Verma_eTraM_Event-based_Traffic_Monitoring_Dataset_CVPR_2024_paper.pdf" target="_blank">[Paper]</a>
 &nbsp;<a href="https://openaccess.thecvf.com/content/CVPR2024/supplemental/Verma_eTraM_Event-based_Traffic_CVPR_2024_supplemental.pdf" target="_blank">[Supp]</a>
 - EventPS: Real-Time Photometric Stereo Using an Event Camera <b> [CVPR 2024 Honorable Paper] </b> <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_EventPS_Real-Time_Photometric_Stereo_Using_an_Event_Camera_CVPR_2024_paper.pdf" target="_blank">[Paper] </a> 
@@ -143,7 +143,7 @@ Event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic
 
 
 
-## CVPR 2023 [⤴](#event-based-cameras)
+## CVPR 2023
 - EventNeRF: Neural Radiance Fields From a Single Colour Event Camera <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Rudnev_EventNeRF_Neural_Radiance_Fields_From_a_Single_Colour_Event_Camera_CVPR_2023_paper.pdf" target="_blank">[Paper]</a>&nbsp;<a href="https://4dqv.mpi-inf.mpg.de/EventNeRF/" target="_blank">[Webpage]</a>&nbsp;<a href="https://github.com/r00tman/EventNeRF" target="_blank">[Github]</a>&nbsp;<a href="https://nextcloud.mpi-klsb.mpg.de/index.php/s/xDqwRHiWKeSRyes" target="_blank">[Data]
 - Progressive Spatio-Temporal Alignment for Efficient Event-Based Motion Estimation <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Progressive_Spatio-Temporal_Alignment_for_Efficient_Event-Based_Motion_Estimation_CVPR_2023_paper.pdf" target="_blank">[Paper]</a>
 - Event-Based Shape From Polarization <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Muglikar_Event-Based_Shape_From_Polarization_CVPR_2023_paper.pdf" target="_blank">[Paper]</a>&nbsp;<a href="https://rpg.ifi.uzh.ch/esfp.html" target="_blank">[Webpage]</a>&nbsp;<a href="https://github.com/uzh-rpg/ESfP" target="_blank">[Github]</a>&nbsp;<a href="https://www.youtube.com/watch?v=sF3Ue2Zkpec&ab_channel=UZHRoboticsandPerceptionGroup" target="_blank">[Video]</a>&nbsp;
@@ -168,7 +168,7 @@ Event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic
  <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Lou_All-in-Focus_Imaging_From_Event_Focal_Stack_CVPR_2023_paper.pdf" target="_blank">[Paper]</a>
 
 
-## CVPR 2022 [⤴](#event-based-cameras)
+## CVPR 2022
 - A Voxel Graph CNN for Object Classification With Event Cameras <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Deng_A_Voxel_Graph_CNN_for_Object_Classification_With_Event_Cameras_CVPR_2022_paper.pdf" target="_blank">[Paper]</a>
 - Event-Based Video Reconstruction via Potential-Assisted Spiking Neural Network <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Event-Based_Video_Reconstruction_via_Potential-Assisted_Spiking_Neural_Network_CVPR_2022_paper.pdf" target="_blank">[Paper]</a>
 - Spiking Transformers for Event-Based Single Object Tracking <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Spiking_Transformers_for_Event-Based_Single_Object_Tracking_CVPR_2022_paper.pdf" target="_blank">[Paper]</a>
@@ -187,7 +187,7 @@ Event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic
 - Synthetic Aperture Imaging With Events and Frames <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Liao_Synthetic_Aperture_Imaging_With_Events_and_Frames_CVPR_2022_paper.pdf" target="_blank">[Paper]</a>
 
 
-## CVPR 2021 [⤴](#event-based-cameras)
+## CVPR 2021
 - Learning To Reconstruct High Speed and High Dynamic Range Videos From Events <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Zou_Learning_To_Reconstruct_High_Speed_and_High_Dynamic_Range_Videos_CVPR_2021_paper.pdf" target="_blank">[Paper]</a>
 - EvDistill: Asynchronous Events To End-Task Learning via Bidirectional Reconstruction-Guided Cross-Modal Knowledge Distillation <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_EvDistill_Asynchronous_Events_To_End-Task_Learning_via_Bidirectional_Reconstruction-Guided_Cross-Modal_CVPR_2021_paper.pdf" target="_blank">[Paper]</a>
 - Back to Event Basics: Self-Supervised Learning of Image Reconstruction for Event Cameras via Photometric Constancy <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Paredes-Valles_Back_to_Event_Basics_Self-Supervised_Learning_of_Image_Reconstruction_for_CVPR_2021_paper.pdf" target="_blank">[Paper]</a>
@@ -200,7 +200,7 @@ Event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic
 - Time Lens: Event-Based Video Frame Interpolation <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Tulyakov_Time_Lens_Event-Based_Video_Frame_Interpolation_CVPR_2021_paper.pdf" target="_blank">[Paper]</a>
 
 
-## CVPR 2020 [⤴](#event-based-cameras)
+## CVPR 2020
 - Learning to Super Resolve Intensity Images From Events <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/I._Learning_to_Super_Resolve_Intensity_Images_From_Events_CVPR_2020_paper.pdf" target="_blank">[Paper]</a>
 - Single Image Optical Flow Estimation With an Event Camera <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Pan_Single_Image_Optical_Flow_Estimation_With_an_Event_Camera_CVPR_2020_paper.pdf" target="_blank">[Paper]</a>
 - Joint Filtering of Intensity Images and Neuromorphic Events for High-Resolution Noise-Robust Imaging <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Joint_Filtering_of_Intensity_Images_and_Neuromorphic_Events_for_High-Resolution_CVPR_2020_paper.pdf" target="_blank">[Paper]</a>
@@ -214,7 +214,7 @@ Event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic
 
 
 
-## CVPR 2019 [⤴](#event-based-cameras)
+## CVPR 2019
 - Unsupervised Event-Based Learning of Optical Flow, Depth, and Egomotion <a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Unsupervised_Event-Based_Learning_of_Optical_Flow_Depth_and_Egomotion_CVPR_2019_paper.pdf" target="_blank">[Paper]</a>
 - Events-To-Video: Bringing Modern Computer Vision to Event Cameras <a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Rebecq_Events-To-Video_Bringing_Modern_Computer_Vision_to_Event_Cameras_CVPR_2019_paper.pdf" target="_blank">[Paper]</a>
 - EventNet: Asynchronous Recursive Event Processing <a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Sekikawa_EventNet_Asynchronous_Recursive_Event_Processing_CVPR_2019_paper.pdf" target="_blank">[Paper]</a>
@@ -226,7 +226,7 @@ Event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic
 - Event Cameras, Contrast Maximization and Reward Functions: An Analysis <a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Stoffregen_Event_Cameras_Contrast_Maximization_and_Reward_Functions_An_Analysis_CVPR_2019_paper.pdf" target="_blank">[Paper]</a>
   
 
-## CVPR 2018 [⤴](#event-based-cameras)
+## CVPR 2018
 - HATS: Histograms of Averaged Time Surfaces for Robust Event-Based Object Classification <a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Sironi_HATS_Histograms_of_CVPR_2018_paper.pdf" target="_blank">[Paper]</a>
 - A Unifying Contrast Maximization Framework for Event Cameras, With Applications to Motion, Depth, and Optical Flow Estimation <a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Gallego_A_Unifying_Contrast_CVPR_2018_paper.pdf" target="_blank">[Paper]</a>
 - Event-Based Vision Meets Deep Learning on Steering Prediction for Self-Driving Cars <a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Maqueda_Event-Based_Vision_Meets_CVPR_2018_paper.pdf" target="_blank">[Paper]</a>
@@ -242,19 +242,19 @@ Event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic
 
 ---
 
-## WACV 2023 [⤴](#event-based-cameras)
+## WACV 2023 
 - Ev-NeRF: Event Based Neural Radiance Field <a href="https://openaccess.thecvf.com/content/WACV2023/papers/Hwang_Ev-NeRF_Event_Based_Neural_Radiance_Field_WACV_2023_paper.pdf" target="_blank">[Paper]</a>
 - EventPoint: Self-Supervised Interest Point Detection and Description for Event-Based Camera <a href="https://openaccess.thecvf.com/content/WACV2023/papers/Huang_EventPoint_Self-Supervised_Interest_Point_Detection_and_Description_for_Event-Based_Camera_WACV_2023_paper.pdf" target="_blank">[Paper]</a>
 - Event-Based RGB Sensing With Structured Light <a href="https://openaccess.thecvf.com/content/WACV2023/papers/Bajestani_Event-Based_RGB_Sensing_With_Structured_Light_WACV_2023_paper.pdf" target="_blank">[Paper]</a>
 
-## WACV 2022 [⤴](#event-based-cameras)
+## WACV 2022 
 - Learned Event-Based Visual Perception for Improved Space Object Detection <a href="https://openaccess.thecvf.com/content/WACV2022/papers/Salvatore_Learned_Event-Based_Visual_Perception_for_Improved_Space_Object_Detection_WACV_2022_paper.pdf" target="_blank">[Paper]</a>
 - Event-Based Kilohertz Eye Tracking Using Coded Differential Lighting <a href="https://openaccess.thecvf.com/content/WACV2022/papers/Stoffregen_Event-Based_Kilohertz_Eye_Tracking_Using_Coded_Differential_Lighting_WACV_2022_paper.pdf" target="_blank">[Paper]</a>
 
-## WACV 2021 [⤴](#event-based-cameras)
+## WACV 2021
 - No Papers on event-based vision / event-based camera / neuromorphic sensors
 
-## WACV 2020 [⤴](#event-based-cameras)
+## WACV 2020 
 - Fast Image Reconstruction with an Event Camera <a href="https://openaccess.thecvf.com/content_WACV_2020/papers/Scheerlinck_Fast_Image_Reconstruction_with_an_Event_Camera_WACV_2020_paper.pdf" target="_blank">[Paper]</a>
 - Robust Feature Tracking in DVS Event Stream using Bezier Mapping <a href="https://openaccess.thecvf.com/content_WACV_2020/papers/Seok_Robust_Feature_Tracking_in_DVS_Event_Stream_using_Bezier_Mapping_WACV_2020_paper.pdf" target="_blank">[Paper]</a>
 - QR-code Reconstruction from Event Data via Optimization in Code Subspace <a href="https://openaccess.thecvf.com/content_WACV_2020/papers/Nagata_QR-code_Reconstruction_from_Event_Data_via_Optimization_in_Code_Subspace_WACV_2020_paper.pdf" target="_blank">[Paper]</a>
@@ -276,11 +276,11 @@ Event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic
 
 ---
 
-## ECCV 2024 [⤴](#event-based-cameras)
+## ECCV 2024 
 Accepted Papers will be updated Soon... 
 
 
-## ECCV 2022 [⤴](#event-based-cameras)
+## ECCV 2022 
 - Event-Based Fusion for Motion Deblurring with Cross-modal Attention <a href="https://arxiv.org/pdf/2112.00167" target="_blank">[Paper]</a>
 - Event-guided Deblurring of Unknown Exposure Time Videos <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780510.pdf" target="_blank">[Paper]</a>
 - Secrets of Event-Based Optical Flow <a href="https://arxiv.org/pdf/2207.10022.pdf" target="_blank">[Paper]</a>
@@ -296,7 +296,7 @@ Accepted Papers will be updated Soon...
 - ESS: Learning Event-based Semantic Segmentation from Still Images <a href="https://rpg.ifi.uzh.ch/docs/ECCV22_Sun.pdf" target="_blank">[Paper]</a>
 
 
-## ECCV 2020 [⤴](#event-based-cameras)
+## ECCV 2020 
 - Entropy Minimisation Framework for Event-based Vision Model Estimation <a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500154.pdf" target="_blank">[Paper]</a>
 - Jointly learning visual motion and confidence from local patches in event cameras <a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510494.pdf" target="_blank">[Paper]</a>
 - Event-based Asynchronous Sparse Convolutional Networks <a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530409.pdf" target="_blank">[Paper]</a>
@@ -320,7 +320,7 @@ Accepted Papers will be updated Soon...
 
 ---
 
-## ICCV 2023 [⤴](#event-based-cameras)
+## ICCV 2023
 - GET: Group  for Event-Based Vision <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Peng_GET_Group_Event_Transformer_for_Event-Based_Vision_ICCV_2023_paper.pdf" target="_blank">[Paper]</a>
 - Deformable Neural Radiance Fields using RGB and Event Cameras <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_Deformable_Neural_Radiance_Fields_using_RGB_and_Event_Cameras_ICCV_2023_paper.pdf" target="_blank">[Paper]</a>
 - Learning Optical Flow from Event Camera with Rendered Dataset <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Luo_Learning_Optical_Flow_from_Event_Camera_with_Rendered_Dataset_ICCV_2023_paper.pdf" target="_blank">[Paper]</a>
@@ -345,7 +345,7 @@ Accepted Papers will be updated Soon...
 Image Reconstruction from Events <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Cho_Label-Free_Event-based_Object_Recognition_via_Joint_Learning_with_Image_Reconstruction_ICCV_2023_paper.pdf" target="_blank">[Paper]</a>
 
 
-## ICCV 2021 [⤴](#event-based-cameras)
+## ICCV 2021
 - An Asynchronous Kalman Filter for Hybrid Event Cameras <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_An_Asynchronous_Kalman_Filter_for_Hybrid_Event_Cameras_ICCV_2021_paper.pdf" target="_blank">[Paper]</a>
 - Event Stream Super-Resolution via Spatiotemporal Constraint Learning <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Event_Stream_Super-Resolution_via_Spatiotemporal_Constraint_Learning_ICCV_2021_paper.pdf" target="_blank">[Paper]</a>
 - Graph-Based Asynchronous Event Processing for Rapid Object Recognition <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Graph-Based_Asynchronous_Event_Processing_for_Rapid_Object_Recognition_ICCV_2021_paper.pdf" target="_blank">[Paper]</a>
@@ -364,27 +364,27 @@ Image Reconstruction from Events <a href="https://openaccess.thecvf.com/content/
 
 
 
-## ICCV 2019 [⤴](#event-based-cameras)
+## ICCV 2019
 - Learning an Event Sequence Embedding for Dense Event-Based Deep Stereo <a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Tulyakov_Learning_an_Event_Sequence_Embedding_for_Dense_Event-Based_Deep_Stereo_ICCV_2019_paper.pdf" target="_blank">[Paper]</a>
 - End-to-End Learning of Representations for Asynchronous Event-Based Data <a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Gehrig_End-to-End_Learning_of_Representations_for_Asynchronous_Event-Based_Data_ICCV_2019_paper.pdf" target="_blank">[Paper]</a>
 - Event-Based Motion Segmentation by Motion Compensation <a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Stoffregen_Event-Based_Motion_Segmentation_by_Motion_Compensation_ICCV_2019_paper.pdf" target="_blank">[Paper]</a>
 - Graph-Based Object Classification for Neuromorphic Vision Sensing <a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Bi_Graph-Based_Object_Classification_for_Neuromorphic_Vision_Sensing_ICCV_2019_paper.pdf" target="_blank">[Paper]</a>
 
 
-## ICCV 2017 [⤴](#event-based-cameras)
+## ICCV 2017
 - No Papers on event-based vision / event-based camera / neuromorphic sensors
 
 ---
 
-## #ECCV Wokshop on Neuromorphic Vision (NeVi) - 2024 
+## ECCV Wokshop on Neuromorphic Vision (NeVi) - 2024
 It will be updated soon... 
 
-## #ECCV Wokshop on Neural-Fields-Beyond-Cams - 2024 
+## ECCV Wokshop on Neural-Fields-Beyond-Cams - 2024
 It will be updated soon... 
 
 ---
 
-## CVPRW 2023 [⤴](#event-based-cameras)
+## CVPRW 2023
 - Flow cytometry with event-based vision and spiking neuromorphic hardware <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Abreu_Flow_Cytometry_With_Event-Based_Vision_and_Spiking_Neuromorphic_Hardware_CVPRW_2023_paper.pdf" target="_blank">[Paper] </a>
 - HUGNet: Hemi-Spherical Update Graph Neural Network applied to low-latency event-based optical flow <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Dalgaty_HUGNet_Hemi-Spherical_Update_Graph_Neural_Network_Applied_to_Low-Latency_Event-Based_CVPRW_2023_paper.pdf" target="_blank">[Paper] </a>
 - Event-IMU fusion strategies for faster-than-IMU estimation throughput <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Chamorro_Event-IMU_Fusion_Strategies_for_Faster-Than-IMU_Estimation_Throughput_CVPRW_2023_paper.pdf" target="_blank">[Paper] </a>
@@ -423,7 +423,7 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - End-to-end Neuromorphic Lip Reading <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Bulzomi_End-to-End_Neuromorphic_Lip-Reading_CVPRW_2023_paper.pdf" target="_blank">[Paper] </a>
 
 
-## CVPRW 2021 [⤴](#event-based-cameras)
+## CVPRW 2021
 - Comparing Representations in Tracking for Event Camera-based SLAM  <a href="https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Jiao_Comparing_Representations_in_Tracking_for_Event_Camera-Based_SLAM_CVPRW_2021_paper.pdf" target="_blank">[Paper] </a>
 - v2e: From Video Frames to Realistic DVS Events <a href="https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Hu_v2e_From_Video_Frames_to_Realistic_DVS_Events_CVPRW_2021_paper.pdf" target="_blank">[Paper] </a>
 - Incremental Motion Estimation for Event-based Cameras by Dispersion Minimisation <a href="https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Nunes_Live_Demonstration_Incremental_Motion_Estimation_for_Event-Based_Cameras_by_Dispersion_CVPRW_2021_paper.pdf" target="_blank">[Paper] </a>
@@ -439,7 +439,7 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - Spike timing-based unsupervised learning of orientation, disparity, and motion representations in a spiking neural network <a href="https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Barbier_Spike_Timing-Based_Unsupervised_Learning_of_Orientation_Disparity_and_Motion_Representations_CVPRW_2021_paper.pdf" target="_blank">[Paper] </a>
 - N-ROD: a Neuromorphic Dataset for Synthetic-to-Real Domain Adaptation <a href="https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Cannici_N-ROD_A_Neuromorphic_Dataset_for_Synthetic-to-Real_Domain_Adaptation_CVPRW_2021_paper.pdf" target="_blank">[Paper] </a>
 
-## CVPRW 2019 [⤴](#event-based-cameras)
+## CVPRW 2019
 - EV-SegNet: Semantic Segmentation for Event-based Cameras <a href="https://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Alonso_EV-SegNet_Semantic_Segmentation_for_Event-Based_Cameras_CVPRW_2019_paper.pdf" target="_blank">[Paper] </a>
 - Learning Event-based Height from Plane and Parallax <a href="https://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Chaney_Learning_Event-Based_Height_From_Plane_and_Parallax_CVPRW_2019_paper.pdf" target="_blank">[Paper] </a>
 - Real-Time 6DOF Pose Relocalization for Event Cameras with Stacked Spatial LSTM Networks <a href="https://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Nguyen_Real-Time_6DOF_Pose_Relocalization_for_Event_Cameras_With_Stacked_Spatial_CVPRW_2019_paper.pdf " target="_blank">[Paper] </a>
@@ -457,7 +457,6 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - Event-based attention and tracking on neuromorphic hardware <a href="https://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Renner_Event-Based_Attention_and_Tracking_on_Neuromorphic_Hardware_CVPRW_2019_paper.pdf" target="_blank">[Paper] </a>
 ---
 
-[⤴](#event-based-cameras)
 ## Realworld Event-based Datasets
 
 
@@ -484,7 +483,7 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 
 
 
-## Synthetic Event-based Datasets [⤴](#event-based-cameras)
+## Synthetic Event-based Datasets
 
 | **Year** |   **Dataset**  | **Event Modality Used** |                                 **Subject/Object Classes**                                |                   **Labeling**                  |           **Task**           |                                                          **Description**                                                          |
 |:--------:|:--------------:|:-----------------------:|:-----------------------------------------------------------------------------------------:|:-----------------------------------------------:|:----------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
@@ -501,7 +500,7 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 ---
 ## Other Papers
 
-#### 2024 [⤴](#event-based-cameras)
+#### 2024
 - Low-latency automotive vision with event cameras <a href="https://www.nature.com/articles/s41586-024-07409-w" target="_blank">[Paper] </a>
 - Event Cameras Meet SPADs for High-Speed, Low-Bandwidth Imaging <a href="https://arxiv.org/pdf/2404.11511" target="_blank">[Paper] </a>
 - E-Calib: A Fast, Robust, and Accurate Calibration Toolbox for Event Cameras <a href="https://ieeexplore.ieee.org/abstract/document/10555516" target="_blank">[Paper] </a>
@@ -521,7 +520,7 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - HyperE2VID: Improving Event-Based Video Reconstruction via Hypernetworks <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10462903" target="_blank">[Paper] </a>
 - Event-Based Visual Odometry on Non-Holonomic Ground Vehicles <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10550819" target="_blank">[Paper] </a>
 
-#### 2023 [⤴](#event-based-cameras)
+#### 2023
 - Event-Diffusion: Event-Based Image Reconstruction and Restoration with Diffusion Models <a href="https://dl.acm.org/doi/pdf/10.1145/3581783.3612462" target="_blank">[Paper] </a>
 - V2CE: Video to Continuous Events Simulator <a href="https://arxiv.org/pdf/2309.08891" target="_blank">[Paper] </a>
 - Seeing Behind Dynamic Occlusions with Event Cameras <a href="https://arxiv.org/pdf/2307.15829" target="_blank">[Paper] </a>
@@ -559,7 +558,7 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 
 
 
-#### 2022 [⤴](#event-based-cameras)
+#### 2022
 - Are High-Resolution Event Cameras Really Needed? <a href="https://arxiv.org/pdf/2203.14672" target="_blank">[Paper] </a>
 - Exploring Event Camera-Based Odometry for Planetary Robots <a href="https://ieeexplore.ieee.org/abstract/document/9813406" target="_blank">[Paper] </a>
 - EVIMO2: An Event Camera Dataset for Motion Segmentation, Optical Flow, Structure from Motion, and Visual Inertial Odometry in Indoor Scenes with Monocular or Stereo Algorithms  <a href="https://arxiv.org/pdf/2205.03467" target="_blank"> [Paper]
@@ -592,7 +591,7 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - Asynchronous Optimisation for Event-based Visual Odometry (ICRA) <a href="https://ieeexplore.ieee.org/document/9811943">[Paper]</a>
 
 
-#### 2021 [⤴](#event-based-cameras)
+#### 2021
 - ESL: Event-based Structured Light <a href="https://ieeexplore.ieee.org/abstract/document/9665929" target="_blank">[Paper] </a>
 - DSEC: A Stereo Event Camera Dataset for Driving Scenarios <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9387069" target="_blank">[Paper] </a>
 - Event Guided Depth Sensing <a href="https://ieeexplore.ieee.org/abstract/document/9665844" target="_blank">[Paper] </a>
@@ -611,7 +610,7 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - Combining Events and Frames Using Recurrent Asynchronous Multimodal Networks for Monocular Depth Prediction <a href="https://ieeexplore.ieee.org/abstract/document/9359329?casa_token=itRrLB2i2nIAAAAA:zDu08senIniW-elYg0qKhdDZaMP1aMljr-kZLGiTdTrLL9gMzZPyAySl7dA6XK7VdbpdEn44Hg" target="_blank">[Paper] </a>
 
 
-#### 2020 [⤴](#event-based-cameras)
+#### 2020
 - A Large Scale Event-based Detection Dataset for Automotive <a href="https://arxiv.org/pdf/2001.08499" target="_blank">[Paper] </a>
 - Learning to Detect Objects with a 1 Megapixel Event Camera <a href="https://papers.nips.cc/paper/2020/file/c213877427b46fa96cff6c39e837ccee-Paper.pdf" target="_blank">[Paper] </a>
 - 5.10 A 1280×720 Back-Illuminated Stacked Temporal Contrast Event-Based Vision Sensor with 4.86µm Pixels, 1.066GEPS Readout, Programmable Event-Rate Controller and Compressive Data-Formatting Pipeline <a href="https://ieeexplore.ieee.org/abstract/document/9063149?casa_token=hv7m1oYfFK8AAAAA:-loxyjHXRKaBmMMurfsiEf0LptPgVMmfwOm2rVLJwoAQLDiHsWuZUSHyYqqvXzs2pJwJgqkv8A" target="_blank"> [Paper]
@@ -634,7 +633,7 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - Hand-Gesture Recognition Based on EMG and Event-Based Camera Sensor Fusion: A Benchmark in Neuromorphic Computing <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2020.00637/full" target="_blank">[Paper] </a>
 - Towards Learning to Detect and Predict Contact Events on Vision-based Tactile Sensors <a href="https://proceedings.mlr.press/v100/zhang20b.html" target="_blank">[Paper] </a>
 
-#### 2019 [⤴](#event-based-cameras)
+#### 2019
 - EV-IMO: Motion Segmentation Dataset and Learning Pipeline for Event Cameras <a href="https://ieeexplore.ieee.org/abstract/document/8968520?casa_token=mwQ6CGw4jlEAAAAA:P8aqCODH6fv5DOKCXR9Y2FrRLP9mT15ujTFyqBoGnzGwoO8ggCRhaXgp3sKnx63_QKaK5HnY7w" target="_blank"> [Paper]
 - Event-Based Vision Enhanced: A Joint Detection Framework in Autonomous Driving <a href="https://ieeexplore.ieee.org/abstract/document/8784777?casa_token=cFlvRYfP3PkAAAAA:6KVgZQwYGiNG1WlhwW6BfdDY40RF2USeFUwRpaVu5aKG9aGfX7MpF2E-WrXxfffonJAOklRa4Q" target="_blank">[Paper] </a>
 - Event-based Sensing for Space Situational Awareness <a href="https://link.springer.com/article/10.1007/s40295-018-00140-5" target="_blank">[Paper] </a>
@@ -646,7 +645,7 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - Mixed Frame-/Event-Driven Fast Pedestrian Detection <a href="https://ieeexplore.ieee.org/abstract/document/8793924?casa_token=AF0PcUZO8GUAAAAA:o-3nnuxx1-RRks6HHHnYxMJsvgCExUZaAcvysnuTDQkN9moen5BI21lESmFoUD5rK1qfRMNSpw" target="_blank">[Paper] </a>
 
 
-#### 2018 [⤴](#event-based-cameras)
+#### 2018
 - The Multivehicle Stereo Event Camera Dataset: An Event Camera Dataset for 3D Perception <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8288670" target="_blank">[Paper] </a>
 - Event-based moving object detection and tracking <a href="https://ieeexplore.ieee.org/abstract/document/8593805?casa_token=bKeuwkxfvvwAAAAA:qJFIH7cegqDqHPcs_pYgZ2PE_1hyQAmW-Whj-QpPKPogwBpsh3-VMLz8KdFqNOeXCmvoGkFduw" target="_blank">[Paper] </a>
 - Long-term object tracking with a moving event camera <a href="https://d1wqtxts1xzle7.cloudfront.net/83737138/0814-libre.pdf?1649646127=&response-content-disposition=inline%3B+filename%3DLong_term_object_tracking_with_a_moving.pdf&Expires=1721857243&Signature=YgQimt63s1PFj1ai97F~uLr-fd4Uxr7~u1HIq5AFBBj9FNe~ic~qaI7GMLO-uU8Iz0f-D8BNdTT1nCUtVlrXAWmv3yItwmV1oQ-d87gbUnH7KrM55OmhtWEjpe46~EIYCLNLLRPYo95LlZId-OpSHhFIhwTkWiEmQtuMOR7tHs~o~Pl4-4CtGFV4RyQlMF~UAgUTywEECMCHO5mLxFdJKx9rsSz5hni5KDt5~G6aPMvOVg1mJHWhUcPCPX5J-2dVhKUOnMTWt2wQ-s1NflGpFUdIBmUdLqc~f4XsKUJQTF1pSGrvYeKfE9n6zNQ9eC5IFYlULJvve2VmIqUkDOjoJA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA" target="_blank">[Paper] </a>
@@ -664,7 +663,7 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - Unsupervised Learning of Dense Optical Flow, Depth and Egomotion from Sparse Event Data <a href="https://arxiv.org/pdf/1809.08625" target="_blank">[Paper] </a>
 - Front and Back Illuminated Dynamic and Active Pixel Vision Sensors Comparison <a href="https://ieeexplore.ieee.org/abstract/document/8334288?casa_token=O2m8iZMvQkEAAAAA:rYLL1vrKoEHRdi4YiW_CVDo3H_Cxnto8KhjvnZX0ob4g_ud2LW5WivYJZTqD5ngFAbqX7RCEkw" target="_blank">[Paper] </a>
 
-#### 2017 [⤴](#event-based-cameras)
+#### 2017
 - DDD17: End-to-end DAVIS driving dataset <a href="https://arxiv.org/pdf/1711.01458" target="_blank">[Paper] </a>
 - CIFAR10-DVS: An Event-Stream Dataset for Object Classification <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2017.00309/full" target="_blank">[Paper] </a>
 - High-speed video generation with an event camera <a href="https://link.springer.com/article/10.1007/s00371-017-1372-y" target="_blank">[Paper] </a> 
@@ -680,7 +679,7 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - Real-time Visual-Inertial Odometry for Event Cameras using Keyframe-based Nonlinear Optimization <a href="https://www.zora.uzh.ch/id/eprint/139471/1/BMVC17_Rebecq.pdf" target="_blank">[Paper] </a> 
 - Accurate Angular Velocity Estimation With an Event Camera <a href="https://ieeexplore.ieee.org/abstract/document/7805257?casa_token=wahRKh0C1PUAAAAA:WN0sDAkdJjhsJBxDZ6wqKHuBse-AHoQwHAJh798uxYg4WmCcc2BEri-yF9BD07WkKnu_nDu6Tw" target="_blank">[Paper] </a> 
 
-#### 2016 [⤴](#event-based-cameras)
+#### 2016
 - Combined frame- and event-based detection and tracking <a href="https://ieeexplore.ieee.org/abstract/document/7539103?casa_token=JyxMuJ4BNtoAAAAA:S-4_NmYOyJkL99am51qdFYmNZ05nzt_jxqvvZ9zvmKkFOakc_Apgh-9ywCJQJ5G5OTc7veUBxg" target="_blank">[Paper] </a> 
 - Fast event-based Harris corner detection exploiting the advantages of event-driven cameras <a href="https://ieeexplore.ieee.org/abstract/document/7759610?casa_token=LDHOiTLhz2IAAAAA:8vMFwrWk1GkoIT713LgFGzdCJz-fusRdmZJvkD-uN2u9Ie0wbv3UQhWXLR4Gj14mvBjPwC4ZrA" target="_blank">[Paper] </a>
 - Low-latency visual odometry using event-based feature tracks <a href="https://ieeexplore.ieee.org/abstract/document/7758089?casa_token=TZx07dYzuGQAAAAA:g-hbOvR2W7gezUnvaF720xKvzjMkyiaD8mePtae-Ulwi--5i93R5zMhWoyRGqm0itetVUrspKA" target="_blank">[Paper] </a>
@@ -695,7 +694,7 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - Event-Based State Estimation <a href="https://link.springer.com/book/10.1007/978-3-319-26606-0" target="_blank">[Paper] </a>
 
 
-#### 2015 [⤴](#event-based-cameras)
+#### 2015
 - Converting Static Image Datasets to Spiking Neuromorphic Datasets Using Saccades <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2015.00437/full" target="_blank">[Paper] </a>
 - Poker-DVS and MNIST-DVS. Their History, How They Were Made, and Other Details <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2015.00481/full" target="_blank">[Paper] </a>
 - Continuous-Time Trajectory Estimation for Event-based Vision Sensors <a href="https://infoscience.epfl.ch/entities/publication/fb26e858-f8b5-4d8d-957c-fb8e91b5a751" target="_blank"> [Paper] </a>
@@ -713,11 +712,12 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - A Dynamic Vision Sensor With 1% Temporal Contrast Sensitivity and In-Pixel Asynchronous Delta Modulator for Event Encoding <a href=" " target="_blank"> [Paper] </a>
 - Bio-inspired Motion Estimation with Event-Driven Sensors <a href="https://link.springer.com/chapter/10.1007/978-3-319-19258-1_27" target="_blank"> [Paper] </a>
 
-#### 2014 [⤴](#event-based-cameras)
+#### 2014
 - Event-based, 6-DOF pose tracking for high-speed maneuvers <a href="https://ieeexplore.ieee.org/abstract/document/6942940?casa_token=aWSWxpz7Fc8AAAAA:y9_cMjEzCaQ4vZiXy-GoHgXZ9POxITG0ZIm3C2k3kzWueUjpdnIdQyUkVnAYdNYuHi3UYBkMxQ" target="_blank"> [Paper] </a>
 - Low-latency event-based visual odometry <a href="https://ieeexplore.ieee.org/abstract/document/6906931?casa_token=uvSnVZZtPPAAAAAA:pAo32lkSKUI7hqBaMjyF_r_1l9PXWQpve38Hj3ILzLx0GramNTeGfskInnZalXTWmJ0NXXHZAw" target="_blank"> [Paper] </a>
 
-#### 2013 [⤴](#event-based-cameras)
+#### 2013
 - Event-based visual flow <a href="https://ieeexplore.ieee.org/abstract/document/6589170?casa_token=aYKfXeE86PIAAAAA:yzgdLabTgHhlkrkyLglhMni-xTPc_n0K85LZW9lMolVOOLUZyOMDAMCrmSFTdOvqp-QZPA8q7w" target="_blank"> [Paper] </a>
 
 
+<!-- [⤴](#event-based-cameras) -->
