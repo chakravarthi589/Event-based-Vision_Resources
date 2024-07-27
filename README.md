@@ -540,20 +540,20 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - Real-time event simulation with frame-based cameras (ICRA) <a href="https://ieeexplore.ieee.org/document/10160654">[Paper]</a>
 - Towards Bridging the Space Domain Gap for Satellite Pose Estimation using Event Sensing (ICRA) <a href="https://ieeexplore.ieee.org/document/10160531">[Paper]</a>
 - Event-based Agile Object Catching with a Quadrupedal Robot (ICRA) <a href="https://ieeexplore.ieee.org/document/10161392">[Paper]</a>
-- A 2.97μm-Pitch Event-Based Vision Sensor with Shared Pixel Front-End Circuitry and Low-Noise Intensity Readout Mode
-- .22μm 35.6Mpixel RGB Hybrid Event-Based Vision Sensor with 4.88μm-Pitch Event Pixels and up to 10K Event Frame Rate by Adaptive Control on Event Sparsity
-- Intelligent Machinery Fault Diagnosis With Event-Based Camera
-- Spiking neural networks for frame-based and event-based single object localization
-- Event-Based Semantic Segmentation With Posterior Attention
-- ESVIO: Event-Based Stereo Visual Inertial Odometry
-- Event-Based Low-Illumination Image Enhancement
-- Optical flow estimation from event-based cameras and spiking neural networks
-- VisEvent: Reliable Object Tracking via Collaboration of Frame and Event Flows
-- EventMix: An efficient data augmentation strategy for event-based learning
-- Computational event-driven vision sensors for in-sensor spiking neural networks
-- PL-EVIO: Robust Monocular Event-Based Visual Inertial Odometry With Point and Line Features
-- Motion Robust High-Speed Light-Weighted Object Detection With Event Camera
-- Real-Time Multi-Task Facial Analytics With Event Cameras
+- A 2.97μm-Pitch Event-Based Vision Sensor with Shared Pixel Front-End Circuitry and Low-Noise Intensity Readout Mode <a href="https://ieeexplore.ieee.org/abstract/document/10067566?casa_token=9QN-jrVoMkcAAAAA:jdg71d9oA1SMnnRuYQ4-Kjm-jzRDRKo2e8s040lfgYA6O_JJIDARbhYRvp3vnRudS4ci1__JDw">[Paper]</a>
+- 1.22μm 35.6Mpixel RGB Hybrid Event-Based Vision Sensor with 4.88μm-Pitch Event Pixels and up to 10K Event Frame Rate by Adaptive Control on Event Sparsity <a href="https://ieeexplore.ieee.org/abstract/document/10067520?casa_token=UIhE7kTFIRgAAAAA:MQMByIOqpBce7-knBjNgpPOVykicFvG8LL-gxmni_Z_7dHJqZAovPsNG2suPW9LyHuqmCNxZNg">[Paper]</a>
+- Intelligent Machinery Fault Diagnosis With Event-Based Camera <a href="https://ieeexplore.ieee.org/abstract/document/10086648?casa_token=_HXbItvGHtsAAAAA:rPrpPJmNMwZzcuWQN4QC9Q1MAjyK5At0ZN94FV7f8c_J9uh1kd2WDFDEkGLSOO7PS83JZixiUw">[Paper]</a>
+- Spiking neural networks for frame-based and event-based single object localization <a href="https://www.sciencedirect.com/science/article/pii/S0925231223009281?casa_token=vY1sMtaj8vkAAAAA:G3zk2xhjQT5ii2H8aiKWUs4ic_OMXKtdM_PtrDvSYeH_gLS9nNS1_LGPsv6ipbN1zCVCdRrYf6U">[Paper]</a>
+- Event-Based Semantic Segmentation With Posterior Attention <a href="https://ieeexplore.ieee.org/abstract/document/10058930?casa_token=CCeDMoBkhxIAAAAA:oEMZ9hDefC7OCSFz6txIZKOWqOelxk0wJOSD8HMKaEW3Qu8ece5BUbSSaWPfuyV-ojsu9J7Biw">[Paper]</a>
+- ESVIO: Event-Based Stereo Visual Inertial Odometry <a href="https://ieeexplore.ieee.org/abstract/document/10107754?casa_token=Do1SghkO3ckAAAAA:N7jahuvH1lNIaomfz05umPtlu2Up_EEfomfCMMlvbjVh453lvr-bPrOpsEeRGbYUjU7MEZNVig">[Paper]</a>
+- Event-Based Low-Illumination Image Enhancement <a href="https://ieeexplore.ieee.org/abstract/document/10168206?casa_token=Z3BK6WDiM9sAAAAA:NRdmvvIf6PgiKNK-1S39PzbYW3YTlQ0J9wdYI6wLFlvPeyPUTxZgEjgWaw7UUFarjN8S2vEdZQ">[Paper]</a>
+- Optical flow estimation from event-based cameras and spiking neural networks <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2023.1160034/full">[Paper]</a>
+- VisEvent: Reliable Object Tracking via Collaboration of Frame and Event Flows <a href="https://ieeexplore.ieee.org/abstract/document/10284004?casa_token=SD5bmgH8-LYAAAAA:pneaON-_tdKSWIiA38uXzPOHY1i4E9HIsl460s0rInDOsgYo3ErPzvScC5Fa1KzNm8zp1KckUw">[Paper]</a>
+- EventMix: An efficient data augmentation strategy for event-based learning <a href="https://www.sciencedirect.com/science/article/pii/S0020025523007557">[Paper]</a>
+- Computational event-driven vision sensors for in-sensor spiking neural networks <a href="https://www.nature.com/articles/s41928-023-01055-2">[Paper]</a>
+- PL-EVIO: Robust Monocular Event-Based Visual Inertial Odometry With Point and Line Features <a href="https://ieeexplore.ieee.org/abstract/document/10287884?casa_token=q6n64yZxGUoAAAAA:g_7zj0n70im2c0D4W40fXiRn0yJGsTb4BQZivTbdWiHkz1_XBW_PrQX06DzZ76TqJdNjAVUJBQ">[Paper]</a>
+- Motion Robust High-Speed Light-Weighted Object Detection With Event Camera <a href="https://ieeexplore.ieee.org/abstract/document/10109007?casa_token=TJ6m3jaQcroAAAAA:Hx3uCy6asiiv7lf-oXH1i96MaRGoHV3786AjqBg7SG2soNbUbihaRTHLTjQ7AOdI2GH_hphb6Q">[Paper]</a>
+- Real-Time Multi-Task Facial Analytics With Event Cameras <a href="https://ieeexplore.ieee.org/abstract/document/10188686">[Paper]</a>
 
 
 
