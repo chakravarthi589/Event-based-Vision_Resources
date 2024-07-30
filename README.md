@@ -501,7 +501,7 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 ## Other Papers
 
 #### 2024
-- Low-latency automotive vision with event cameras <a href="https://www.nature.com/articles/s41586-024-07409-w" target="_blank">[Paper] </a>
+- Low-latency automotive vision with event cameras (Nature) <a href="https://www.nature.com/articles/s41586-024-07409-w" target="_blank">[Paper] </a>
 - Event Cameras Meet SPADs for High-Speed, Low-Bandwidth Imaging <a href="https://arxiv.org/pdf/2404.11511" target="_blank">[Paper] </a>
 - E-Calib: A Fast, Robust, and Accurate Calibration Toolbox for Event Cameras <a href="https://ieeexplore.ieee.org/abstract/document/10555516" target="_blank">[Paper] </a>
 - A Hybrid ANN-SNN Architecture for Low-Power and Low-Latency Visual Perception  <a href="https://arxiv.org/pdf/2303.14176" target="_blank">[Paper] </a>
