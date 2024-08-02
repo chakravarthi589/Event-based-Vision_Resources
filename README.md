@@ -83,7 +83,7 @@ Event, event-based, event-based camera, DVS, dynamic vision sensor, neuromorphic
 [Papers from Google Scholar using the keywords related to event-based vision](#Other-Papers)
 
 ## :high_brightness: Other Resources
-- Interested in getting started with Event-based vision? Begin with this <a href="https://sites.google.com/view/guillermogallego/teaching/event-based-robot-vision" target="_blank"> Course </a> by Prof. Dr. Guillermo Gallego. (Thanks to Dr. Gallego for valuable contribution) 
+- Interested in getting started with Event-based vision? Begin with this <a href="https://sites.google.com/view/guillermogallego/teaching/event-based-robot-vision" target="_blank"> Course </a> by Prof. Dr. Guillermo Gallego. (Thanks to Dr. Gallego for the valuable contribution) 
 
 ---
 
