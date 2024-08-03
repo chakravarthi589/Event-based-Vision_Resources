@@ -737,8 +737,10 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - Robotic goalie with 3 ms reaction time at 4% CPU load using event-based dynamic vision sensor <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2013.00223/full" target="_blank"> [Paper] </a>
 - Asynchronous Event Based Vision: Algorithms and Applications to Microrobotics <a href="https://theses.hal.science/tel-00916995/" target="_blank"> [Paper] </a>
 - Event-based 3D reconstruction from neuromorphic retinas <a href="https://www.sciencedirect.com/science/article/pii/S0893608013000725?casa_token=jdq8ZgxSs9wAAAAA:7h3P27ur7lX_m5HWRmNpI248Y8dfuz3eO5eEub3WSr4RnOA_6LmnI6G9CNx3hCNYV7UTFR6rJ5M" target="_blank"> [Paper] </a>
-- 
-
+- Mapping from Frame-Driven to Frame-Free Event-Driven Vision Systems by Low-Rate Rate Coding and Coincidence Processing--Application to Feedforward ConvNets <a href="https://ieeexplore.ieee.org/abstract/document/6497055?casa_token=Sj0GLTd1u5wAAAAA:Q3AYfzCG9mx6xH3Aix-XqBPnf1lX-IcYHbkF5dpj4pKzhPv0kumf0RzV2P9VdMC1MWLUP4nWbw" target="_blank"> [Paper] </a>
+- Bio-Inspired Asynchronous Pixel Event Tricolor Vision Sensor <a href="https://ieeexplore.ieee.org/abstract/document/6575193?casa_token=erorKXQF484AAAAA:kCtvBpeE5NNNg0WjVIdOx2HgAWIaNllZ57SOtbhmSz6IFJj5N5gyII2_5r_W3S_ubkFIhdoISA" target="_blank"> [Paper] </a>
+- A 33 μ W 64× 64 Pixel Vision Sensor Embedding Robust Dynamic Background Subtraction for Event Detection and Scene Interpretation <a href="https://ieeexplore.ieee.org/abstract/document/6466427?casa_token=oZH3-UORUusAAAAA:USvp95-DsE8wF2fMTW3ODC8dTBHNYlSmZyPF1Pyd3wSBwsxNsGCQYyfLRXodXJrrRcRUE0tbCg" target="_blank"> [Paper] </a>
+- A 128× 128 1.5% Contrast Sensitivity 0.9% FPN 3 µs Latency 4 mW Asynchronous Frame-Free Dynamic Vision Sensor Using Transimpedance Preamplifiers  <a href="https://ieeexplore.ieee.org/abstract/document/6407468?casa_token=xPpaVI6HGjoAAAAA:iXmHwRyPig3QXhU6g6ouq-yVaE0Gx0ZrsKRNLKCnJWvAu6hf32Kc6F6XMfpDOhp7V2E6ZOrNFA" target="_blank"> [Paper] </a>
 
 
 <a href=" " target="_blank"> [Paper] </a>
