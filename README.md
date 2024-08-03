@@ -744,6 +744,4 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - A 128× 128 1.5% Contrast Sensitivity 0.9% FPN 3 µs Latency 4 mW Asynchronous Frame-Free Dynamic Vision Sensor Using Transimpedance Preamplifiers  <a href="https://ieeexplore.ieee.org/abstract/document/6407468?casa_token=xPpaVI6HGjoAAAAA:iXmHwRyPig3QXhU6g6ouq-yVaE0Gx0ZrsKRNLKCnJWvAu6hf32Kc6F6XMfpDOhp7V2E6ZOrNFA" target="_blank"> [Paper] </a>
 
 
-<a href=" " target="_blank"> [Paper] </a>
-
 <!-- [⤴](#event-based-cameras) -->
