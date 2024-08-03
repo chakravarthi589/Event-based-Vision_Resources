@@ -731,6 +731,16 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 
 #### 2013
 - Event-based visual flow <a href="https://ieeexplore.ieee.org/abstract/document/6589170?casa_token=aYKfXeE86PIAAAAA:yzgdLabTgHhlkrkyLglhMni-xTPc_n0K85LZW9lMolVOOLUZyOMDAMCrmSFTdOvqp-QZPA8q7w" target="_blank"> [Paper] </a>
+- Event-based features for robotic vision  <a href="https://ieeexplore.ieee.org/abstract/document/6696960?casa_token=I79eOeMEDm0AAAAA:eaHLA6GXyYnzcldtKJzJlcUJODu03XT2GIo8Yh5VE8viMpGM8kC1IrN5XyQRq8LXNo2NtEoxHA" target="_blank"> [Paper] </a>
+- Event-based image processing using a neuromorphic vision sensor <a href="https://ieeexplore.ieee.org/abstract/document/6702715?casa_token=mmXDTe6-0BAAAAAA:frP3dFoRmLViRhabr_XRmPOe2NOaCKTrpQ78i7qAo4pAiw0jCrnUFLMmyVJ89rezm9ULGxbs_Q" target="_blank"> [Paper] </a>
+- Simultaneous Localization and Mapping for Event-Based Vision Systems  <a href="https://link.springer.com/chapter/10.1007/978-3-642-39402-7_14" target="_blank"> [Paper] </a>
+- Robotic goalie with 3 ms reaction time at 4% CPU load using event-based dynamic vision sensor <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2013.00223/full" target="_blank"> [Paper] </a>
+- Asynchronous Event Based Vision: Algorithms and Applications to Microrobotics <a href="https://theses.hal.science/tel-00916995/" target="_blank"> [Paper] </a>
+- Event-based 3D reconstruction from neuromorphic retinas <a href="https://www.sciencedirect.com/science/article/pii/S0893608013000725?casa_token=jdq8ZgxSs9wAAAAA:7h3P27ur7lX_m5HWRmNpI248Y8dfuz3eO5eEub3WSr4RnOA_6LmnI6G9CNx3hCNYV7UTFR6rJ5M" target="_blank"> [Paper] </a>
+- 
 
+
+
+<a href=" " target="_blank"> [Paper] </a>
 
 <!-- [⤴](#event-based-cameras) -->
