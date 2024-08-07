@@ -743,6 +743,12 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - Bio-Inspired Asynchronous Pixel Event Tricolor Vision Sensor <a href="https://ieeexplore.ieee.org/abstract/document/6575193?casa_token=erorKXQF484AAAAA:kCtvBpeE5NNNg0WjVIdOx2HgAWIaNllZ57SOtbhmSz6IFJj5N5gyII2_5r_W3S_ubkFIhdoISA" target="_blank"> [Paper] </a>
 - A 33 μ W 64× 64 Pixel Vision Sensor Embedding Robust Dynamic Background Subtraction for Event Detection and Scene Interpretation <a href="https://ieeexplore.ieee.org/abstract/document/6466427?casa_token=oZH3-UORUusAAAAA:USvp95-DsE8wF2fMTW3ODC8dTBHNYlSmZyPF1Pyd3wSBwsxNsGCQYyfLRXodXJrrRcRUE0tbCg" target="_blank"> [Paper] </a>
 - A 128× 128 1.5% Contrast Sensitivity 0.9% FPN 3 µs Latency 4 mW Asynchronous Frame-Free Dynamic Vision Sensor Using Transimpedance Preamplifiers  <a href="https://ieeexplore.ieee.org/abstract/document/6407468?casa_token=xPpaVI6HGjoAAAAA:iXmHwRyPig3QXhU6g6ouq-yVaE0Gx0ZrsKRNLKCnJWvAu6hf32Kc6F6XMfpDOhp7V2E6ZOrNFA" target="_blank"> [Paper] </a>
+- Asynchronous Event-Based 3D Reconstruction From Neuromorphic Retinas <a href="https://www.sciencedirect.com/science/article/abs/pii/S0893608013000725" target="_blank"> [Paper] </a>
+- Event-driven visual attention for the humanoid robot iCub <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2013.00234/full" target="_blank"> [Paper] </a>
+- A spiking neural network architecture for visual motion estimation <a href="https://ieeexplore.ieee.org/abstract/document/6679698" target="_blank"> [Paper] </a>
+
+
+<a href=" " target="_blank"> [Paper] </a>
 
 
 [⤴](#event-based-cameras)
