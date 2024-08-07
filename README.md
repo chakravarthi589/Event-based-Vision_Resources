@@ -748,7 +748,7 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - A spiking neural network architecture for visual motion estimation <a href="https://ieeexplore.ieee.org/abstract/document/6679698" target="_blank"> [Paper] </a>
 
 
-<a href=" " target="_blank"> [Paper] </a>
+
 
 
 [⤴](#event-based-cameras)
