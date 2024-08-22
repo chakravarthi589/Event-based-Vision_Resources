@@ -524,6 +524,7 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - Spatio-Temporal Fusion Spiking Neural Network for Frame-Based and Event-Based Camera Sensor Fusion <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10444915" target="_blank">[Paper] </a>
 - HyperE2VID: Improving Event-Based Video Reconstruction via Hypernetworks <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10462903" target="_blank">[Paper] </a>
 - Event-Based Visual Odometry on Non-Holonomic Ground Vehicles <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10550819" target="_blank">[Paper] </a>
+- Monte Carlo Path Tracing and Statistical Event Detection for Event Camera Simulation <a href="https://arxiv.org/pdf/2408.07996" target="_blank">[Paper] </a>
 
 #### 2023
 - Event-Diffusion: Event-Based Image Reconstruction and Restoration with Diffusion Models <a href="https://dl.acm.org/doi/pdf/10.1145/3581783.3612462" target="_blank">[Paper] </a>
