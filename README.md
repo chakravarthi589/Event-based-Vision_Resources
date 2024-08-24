@@ -383,7 +383,28 @@ Image Reconstruction from Events <a href="https://openaccess.thecvf.com/content/
 ---
 
 ## ECCV 2024 Wokshop on Neuromorphic Vision 
-It will be updated soon... 
+- [<b>Our Paper</b>] Recent Event Camera Innovations: A Survey
+- CEIA: CLIP-Based Event-Image Alignment for Open-World Event-Based Understanding
+- Event-based Motion Deblurring with Dual Channel Attention
+- Optimal OnTheFly Feedback Control of Event Sensors
+- EventSleep: Sleep Activity Recognition with Event Cameras
+- Stereo Event-based Parallel Tracking and Mapping
+- Lossy Encoding of Time-aggregated Neuromorphic Vision Sensor Data based on Point Cloud  Compression
+- Drone Detection Using a Low-Power Neuromorphic Virtual Tripwire
+- Event-Stream Super Resolution using Sigma Delta Neural Network
+- Tracking-Assisted Object Detection with Event Cameras
+- A Frames-and-Events Dataset for Space-Time Instance Segmentation of Mice
+- HUE Dataset: High-Resolution Event and Frame Sequences for Low-Light Vision
+- Millisecond-latency Visual Fault-buttons using Event-cameras
+- Neuromorphic Facial Analysis with Cross-Modal Supervision
+- Evaluating Image-Based Face and Eye Tracking with Event Cameras
+- Scaling Up Resonate-and-Fire Networks for Fast Deep Learning
+- Neuromorphic Drone Detection: an Event-RGB Multimodal Approach
+- Pushing the boundaries of event subsampling in event-based video classification using CNNs
+- Vibration Vision: Real-Time Machinery Fault Diagnosis with Event Cameras
+- S-ROPE: Spectral Frame Representation of Periodic Events
+- Autobiasing Event Cameras
+- EvDownsampling: A Robust Method For Downsampling Event Camera Data
 
 ## ECCV 2024 Wokshop on Neural Fields Beyond Cams
 It will be updated soon... 
