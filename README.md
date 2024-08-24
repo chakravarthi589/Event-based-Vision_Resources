@@ -12,8 +12,9 @@ Event-based vision, event-based camera, DVS, dynamic vision sensor, neuromorphic
 <a href="https://aayush-v.github.io/" target="_blank"> Aayush Atul Verma
 
 #### Our Publications:
-- Our Paper <a href="https://eventbasedvision.github.io/eTram" target="_blank">eTraM:</a> "Event-based Traffic Monitoring Dataset" accepted by CVPR 2024 <b> (Poster Highlight) </b>
-- Our Paper <a href="https://eventbasedvision.github.io/SEVD/" target="_blank">SEVD:</a> "Synthetic Event-based Vision Dataset for Ego and Fixed Traffic Perception" accepted by CVPR 2024 Workshop on Synthetic Data for Computer Vision
+- <a href="#" target="_blank">Recent Event Camera Innovations - A Survey accepted by ECCV 2024 Workshop on Neuromorphic Vision: Advantages and Applications of Event Cameras
+- <a href="https://eventbasedvision.github.io/eTram" target="_blank">eTraM:</a> "Event-based Traffic Monitoring Dataset" accepted by CVPR 2024 <b> (Poster Highlight) </b>
+- <a href="https://eventbasedvision.github.io/SEVD/" target="_blank">SEVD:</a> "Synthetic Event-based Vision Dataset for Ego and Fixed Traffic Perception" accepted by CVPR 2024 Workshop on Synthetic Data for Computer Vision
 <p align="center">
   <img src="cvpr24_eTram.png" alt="Event Cameras" width="400px">  <img src="cvpr24_SEVD.png" alt="Event Cameras" width="400px">
 </p>
