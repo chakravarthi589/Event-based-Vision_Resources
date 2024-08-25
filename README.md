@@ -529,6 +529,10 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 ## Other Papers
 
 #### 2024
+- Event3DGS: Event-based 3D Gaussian Splatting for Fast Egomotion <a href="https://arxiv.org/pdf/2406.02972" target="_blank">[Paper] </a>
+- Event-based Vision for Early Prediction of Manipulation Actions <a href="https://arxiv.org/pdf/2307.14332" target="_blank">[Paper] </a>
+- Towards an Improved Hyperdimensional Classifier for Event-Based Data <a href="https://ieeexplore.ieee.org/abstract/document/10089705" target="_blank">[Paper] </a>
+- Microsaccade-inspired event camera for robotics <a href="https://www.science.org/doi/abs/10.1126/scirobotics.adj8124" target="_blank">[Paper] </a>
 - Low-latency automotive vision with event cameras (Nature) <a href="https://www.nature.com/articles/s41586-024-07409-w" target="_blank">[Paper] </a>
 - Event Cameras Meet SPADs for High-Speed, Low-Bandwidth Imaging  <a href="https://arxiv.org/pdf/2404.11511" target="_blank">[Paper] </a>
 - E-Calib: A Fast, Robust, and Accurate Calibration Toolbox for Event Cameras <a href="https://ieeexplore.ieee.org/abstract/document/10555516" target="_blank">[Paper] </a>
