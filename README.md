@@ -588,6 +588,7 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - PL-EVIO: Robust Monocular Event-Based Visual Inertial Odometry With Point and Line Features <a href="https://ieeexplore.ieee.org/abstract/document/10287884?casa_token=q6n64yZxGUoAAAAA:g_7zj0n70im2c0D4W40fXiRn0yJGsTb4BQZivTbdWiHkz1_XBW_PrQX06DzZ76TqJdNjAVUJBQ">[Paper]</a>
 - Motion Robust High-Speed Light-Weighted Object Detection With Event Camera <a href="https://ieeexplore.ieee.org/abstract/document/10109007?casa_token=TJ6m3jaQcroAAAAA:Hx3uCy6asiiv7lf-oXH1i96MaRGoHV3786AjqBg7SG2soNbUbihaRTHLTjQ7AOdI2GH_hphb6Q">[Paper]</a>
 - Real-Time Multi-Task Facial Analytics With Event Cameras <a href="https://ieeexplore.ieee.org/abstract/document/10188686">[Paper]</a>
+- EventCLIP: Adapting CLIP for Event-based Object Recognition <a href="https://arxiv.org/abs/2306.06354">[Paper]</a>
 
 
 
