@@ -284,7 +284,17 @@ Event-based vision, event-based camera, DVS, dynamic vision sensor, neuromorphic
 ---
 
 ## ECCV 2024 
-Accepted Papers will be updated Soon... 
+- Temporal Residual Guided Diffusion Framework for Event-Driven Video reconstruction
+- Event-based Head Pose Estimation: Benchmark and Method
+- Deblur e-NerF: NeRF from Motion-Blurred Events under High-speed or Low-light conditions
+- CMTA: Cross-Modal Temporal Alignment for Event-guided Video Deblurring
+- DailyDVS-200: A Comprehensive Benchmark Dataset for Event-based Action Recognition
+- Finding Meaning in Points: Weakly Supervised Semantic Segmentation for Event Cameras
+- BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream
+- 3D Hand Sequence Recovey from Real Blurry Images and Event Streams
+- Towards Real-world Event-guided Low-light Video Enhancement and Deblurring
+- Efficient Learning of Event-based Dense Representation using Hierarchical Memories with Adaptive Update
+- EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent Spiking Neural Networks
 
 
 ## ECCV 2022 
