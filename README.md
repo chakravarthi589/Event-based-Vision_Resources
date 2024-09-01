@@ -653,6 +653,7 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 #### 2021
 - ESL: Event-based Structured Light <a href="https://ieeexplore.ieee.org/abstract/document/9665929" target="_blank">[Paper] </a>
 - DSEC: A Stereo Event Camera Dataset for Driving Scenarios <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9387069" target="_blank">[Paper] </a>
+- Event-Based Pedestrian Detection Using Dynamic Vision Sensors <a href="https://www.mdpi.com/2079-9292/10/8/888" target="_blank">[Paper] </a>
 - Event Guided Depth Sensing <a href="https://ieeexplore.ieee.org/abstract/document/9665844" target="_blank">[Paper] </a>
 - Powerline Tracking with Event Cameras <a href="https://ieeexplore.ieee.org/abstract/document/9636824" target="_blank">[Paper] </a>
 - Event Camera Simulator Improvements via Characterized Parameters <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.702765/full" target="_blank">[Paper] </a>
