@@ -92,7 +92,8 @@ Event-based vision, event-based camera, DVS, dynamic vision sensor, neuromorphic
 ---
 
 ## :high_brightness: Survey/Review Papers
-- Neuromorphic Perception and Navigation for Mobile Robots: A Review <a href="//efaidnbmnnnibpcajpcglclefindmkaj/https://www.arxiv.org/pdf/2407.06792" target="_blank">[Paper]
+- [Our Paper] Recent Event Camera Innovations: A Survey <a href="https://arxiv.org/abs/2408.13627" target="_blank">[Paper]
+- Neuromorphic Perception and Navigation for Mobile Robots: A Review <a href="https://www.arxiv.org/pdf/2407.06792" target="_blank">[Paper]
 - Event-Based Vision: A Survey <a href="https://arxiv.org/pdf/1904.08405" target="_blank">[Paper]
 - Deep Learning for Event-based Vision: A Comprehensive Survey and Benchmarks <a href="https://arxiv.org/pdf/2302.08890.pdf" target="_blank">[Paper]
 - Neuromorphic vision: From sensors to event-based algorithms <a href="https://wires.onlinelibrary.wiley.com/doi/epdf/10.1002/widm.1310" target="_blank">[Paper]
