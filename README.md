@@ -580,6 +580,7 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - HyperE2VID: Improving Event-Based Video Reconstruction via Hypernetworks <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10462903" target="_blank">[Paper] </a>
 - Event-Based Visual Odometry on Non-Holonomic Ground Vehicles <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10550819" target="_blank">[Paper] </a>
 - Monte Carlo Path Tracing and Statistical Event Detection for Event Camera Simulation <a href="https://arxiv.org/pdf/2408.07996" target="_blank">[Paper] </a>
+- On the Benefits of Visual Stabilization for Frame and Event-based Perception <a href="https://ieeexplore.ieee.org/abstract/document/10648753?casa_token=HTIJ5T6UkIoAAAAA:aNSsUBPRTCEkCVsGgc-_VnasnOeSTD1lzjhM8mNDW1HPKasYb7sdxi6T_d2X1ppiXkLwD7M" target="_blank">[Paper] </a>
 
 #### 2023
 - Event-Diffusion: Event-Based Image Reconstruction and Restoration with Diffusion Models <a href="https://dl.acm.org/doi/pdf/10.1145/3581783.3612462" target="_blank">[Paper] </a>
