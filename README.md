@@ -431,6 +431,8 @@ Image Reconstruction from Events <a href="https://openaccess.thecvf.com/content/
 - S-ROPE: Spectral Frame Representation of Periodic Events
 - Autobiasing Event Cameras
 - EvDownsampling: A Robust Method For Downsampling Event Camera Data
+- ES-PTAM: Event-based Stereo Parallel Tracking and Mapping
+
 
 ## ECCV 2024 Wokshop on Neural Fields Beyond Cams
 It will be updated soon... 
