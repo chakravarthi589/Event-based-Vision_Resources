@@ -435,7 +435,7 @@ Image Reconstruction from Events <a href="https://openaccess.thecvf.com/content/
 
 
 ## ECCV 2024 Wokshop on Neural Fields Beyond Cams
-It will be updated soon... 
+- EaDeblur-GS: Event assisted 3D Deblur Reconstruction with Gaussian Splatting <a href="https://neural-fields-beyond-cams.github.io/accepted_papers/15.pdf" target="_blank">[Paper] </a>
 
 ---
 
