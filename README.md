@@ -652,6 +652,7 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - Neural Implicit Event Generator for Motion Tracking (ICRA) <a href="https://ieeexplore.ieee.org/document/9812142">[Paper]</a>
 - VISTA 2.0: An Open, Data-driven Simulator for Multimodal Sensing and Policy Learning for Autonomous Vehicles (ICRA) <a href="https://ieeexplore.ieee.org/document/9812276">[Paper]</a>
 - Asynchronous Optimisation for Event-based Visual Odometry (ICRA) <a href="https://ieeexplore.ieee.org/document/9811943">[Paper]</a>
+- NeuroGrasp: Multimodal Neural Network With Euler Region Regression for Neuromorphic Vision-Based Grasp Pose Estimation <a href="https://ieeexplore.ieee.org/abstract/document/9787342">[Paper]</a>
 
 
 #### 2021
