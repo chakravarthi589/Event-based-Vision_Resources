@@ -286,7 +286,6 @@ Event-based vision, event-based camera, DVS, dynamic vision sensor, neuromorphic
 ---
 
 ## ECCV 2024 
-- Temporal Residual Guided Diffusion Framework for Event-Driven Video reconstruction
 - Event-based Head Pose Estimation: Benchmark and Method
 - Deblur e-NerF: NeRF from Motion-Blurred Events under High-speed or Low-light conditions
 - CMTA: Cross-Modal Temporal Alignment for Event-guided Video Deblurring
@@ -318,7 +317,6 @@ Event-based vision, event-based camera, DVS, dynamic vision sensor, neuromorphic
 - Secrets of Event-Based Optical Flow <a href="https://arxiv.org/pdf/2207.10022.pdf" target="_blank">[Paper]</a>
 - EvAC3D: From Event-based Apparent Contours to 3D Models via Continuous Visual Hulls <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670278.pdf" target="_blank">[Paper]</a>
 - Boosting Event Stream Super-Resolution with A Recurrent Neural Network <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660461.pdf" target="_blank">[Paper]</a>
-- DVS-Voltmeter: Stochastic Process-based Event Simulator for Dynamic Vision Sensors <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670571.pdf" target="_blank">[Paper]</a>
 - S2N: Suppression-Strengthen Network for Event-based Recognition under Variant Illuminations <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630701.pdf" target="_blank">[Paper]</a>
 - MENet: a Memory-Based Network with Dual-Branch for Efficient Event Stream Processing <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840211.pdf" target="_blank">[Paper]</a>
 - NEST: Neural Event Stack for Event-based Image Enhancement <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660649.pdf" target="_blank">[Paper]</a>
@@ -473,14 +471,11 @@ Image Reconstruction from Events <a href="https://openaccess.thecvf.com/content/
 - Integrating Event Based Hand Tracking Into TouchFree Interactions <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Page_Live_Demonstration_Integrating_Event_Based_Hand_Tracking_Into_TouchFree_Interactions_CVPRW_2023_paper.pdf" target="_blank">[Paper] </a>
 - Asynchronous Events-based Panoptic Segmentation using Graph Mixer Neural
 Network <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Kachole_Asynchronous_Events-Based_Panoptic_Segmentation_Using_Graph_Mixer_Neural_Network_CVPRW_2023_paper.pdf" target="_blank">[Paper] </a>
-- Tangentially Elongated Gaussian Belief Propagation
-for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Sekikawa_Live_Demonstration_Tangentially_Elongated_Gaussian_Belief_Propagation_for_Event-Based_Incremental_CVPRW_2023_paper.pdf" target="_blank">[Paper] </a>
 - End-to-end Neuromorphic Lip Reading <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Bulzomi_End-to-End_Neuromorphic_Lip-Reading_CVPRW_2023_paper.pdf" target="_blank">[Paper] </a>
 
 
 ## CVPRW 2021
 - Comparing Representations in Tracking for Event Camera-based SLAM  <a href="https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Jiao_Comparing_Representations_in_Tracking_for_Event_Camera-Based_SLAM_CVPRW_2021_paper.pdf" target="_blank">[Paper] </a>
-- v2e: From Video Frames to Realistic DVS Events <a href="https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Hu_v2e_From_Video_Frames_to_Realistic_DVS_Events_CVPRW_2021_paper.pdf" target="_blank">[Paper] </a>
 - Incremental Motion Estimation for Event-based Cameras by Dispersion Minimisation <a href="https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Nunes_Live_Demonstration_Incremental_Motion_Estimation_for_Event-Based_Cameras_by_Dispersion_CVPRW_2021_paper.pdf" target="_blank">[Paper] </a>
 - Image Reconstruction from Neuromorphic Event Cameras using LaplacianPrediction and Poisson Integration with Spiking and Artificial Neural Networks <a href="https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Duwek_Image_Reconstruction_From_Neuromorphic_Event_Cameras_Using_Laplacian-Prediction_and_Poisson_CVPRW_2021_paper.pdf" target="_blank">[Paper] </a>
 - Feedback control of event cameras <a href="https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Delbruck_Feedback_Control_of_Event_Cameras_CVPRW_2021_paper.pdf" target="_blank">[Paper] </a>
@@ -647,7 +642,6 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - A Linear Comb Filter for Event Flicker Removal (ICRA) <a href="https://ieeexplore.ieee.org/document/9812003">[Paper]</a>
 - Learning Local Event-based Descriptor for Patch-based Stereo Matching (ICRA) <a href="https://ieeexplore.ieee.org/document/9811687">[Paper]</a>
 - Kinematic Structure Estimation of Arbitrary Articulated Rigid Objects for Event Cameras (ICRA) <a href="https://ieeexplore.ieee.org/document/9812430">[Paper]</a>
-- Fusing Event-based and RGB camera for Robust Object Detection in Adverse Conditions (ICRA) <a href="https://ieeexplore.ieee.org/document/9812059">[Paper]</a>
 - DEVO: Depth-Event Camera Visual Odometry in Challenging Conditionsm (ICRA) <a href="https://ieeexplore.ieee.org/document/9811805">[Paper]</a>
 - Neural Implicit Event Generator for Motion Tracking (ICRA) <a href="https://ieeexplore.ieee.org/document/9812142">[Paper]</a>
 - VISTA 2.0: An Open, Data-driven Simulator for Multimodal Sensing and Policy Learning for Autonomous Vehicles (ICRA) <a href="https://ieeexplore.ieee.org/document/9812276">[Paper]</a>
@@ -714,7 +708,6 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - Event-based moving object detection and tracking <a href="https://ieeexplore.ieee.org/abstract/document/8593805?casa_token=bKeuwkxfvvwAAAAA:qJFIH7cegqDqHPcs_pYgZ2PE_1hyQAmW-Whj-QpPKPogwBpsh3-VMLz8KdFqNOeXCmvoGkFduw" target="_blank">[Paper] </a>
 - Long-term object tracking with a moving event camera <a href="https://d1wqtxts1xzle7.cloudfront.net/83737138/0814-libre.pdf?1649646127=&response-content-disposition=inline%3B+filename%3DLong_term_object_tracking_with_a_moving.pdf&Expires=1721857243&Signature=YgQimt63s1PFj1ai97F~uLr-fd4Uxr7~u1HIq5AFBBj9FNe~ic~qaI7GMLO-uU8Iz0f-D8BNdTT1nCUtVlrXAWmv3yItwmV1oQ-d87gbUnH7KrM55OmhtWEjpe46~EIYCLNLLRPYo95LlZId-OpSHhFIhwTkWiEmQtuMOR7tHs~o~Pl4-4CtGFV4RyQlMF~UAgUTywEECMCHO5mLxFdJKx9rsSz5hni5KDt5~G6aPMvOVg1mJHWhUcPCPX5J-2dVhKUOnMTWt2wQ-s1NflGpFUdIBmUdLqc~f4XsKUJQTF1pSGrvYeKfE9n6zNQ9eC5IFYlULJvve2VmIqUkDOjoJA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA" target="_blank">[Paper] </a>
 - EV-FlowNet: Self-Supervised Optical Flow Estimation for Event-based Cameras <a href="https://arxiv.org/pdf/1802.06898" target="_blank">[Paper] </a>
-- ESIM: an Open Event Camera Simulator <a href="https://proceedings.mlr.press/v87/rebecq18a.html" target="_blank">[Paper] </a>
 - EMVS: Event-Based Multi-View Stereo—3D Reconstruction with an Event Camera in Real-Time <a href="https://link.springer.com/article/10.1007/s11263-017-1050-6" target="_blank">[Paper] </a>
 - A Novel Event-Based Incipient Slip Detection Using Dynamic Active-Pixel Vision Sensor (DAVIS) <a href="https://www.mdpi.com/1424-8220/18/2/333" target="_blank">[Paper] </a>
 - Real-Time Clustering and Multi-Target Tracking Using Event-Based Sensors <a href="https://ieeexplore.ieee.org/abstract/document/8593380?casa_token=xbO7B_XKyCwAAAAA:-bSGICfee_DWZ2Pmvn2JUKJ79qXs_mxpOZYttFD7P1pSOAqUSplndk5VgIY58mkML6wmUrp03Q" target="_blank">[Paper] </a>
@@ -780,7 +773,6 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - Event-based, 6-DOF pose tracking for high-speed maneuvers <a href="https://ieeexplore.ieee.org/abstract/document/6942940?casa_token=aWSWxpz7Fc8AAAAA:y9_cMjEzCaQ4vZiXy-GoHgXZ9POxITG0ZIm3C2k3kzWueUjpdnIdQyUkVnAYdNYuHi3UYBkMxQ" target="_blank"> [Paper] </a>
 - Low-latency event-based visual odometry <a href="https://ieeexplore.ieee.org/abstract/document/6906931?casa_token=uvSnVZZtPPAAAAAA:pAo32lkSKUI7hqBaMjyF_r_1l9PXWQpve38Hj3ILzLx0GramNTeGfskInnZalXTWmJ0NXXHZAw" target="_blank"> [Paper] </a>
 - Event-based 3D SLAM with a depth-augmented dynamic vision sensor <a href="https://ieeexplore.ieee.org/abstract/document/6906882?casa_token=pSAhP03KU7oAAAAA:f1qawL4wzU-baDu9S6J5cgUqwaLMuhq_2B5SapZsWcFodJ5GDRg-tHQWkYo3BBnEXsUSUNwhIw" target="_blank"> [Paper] </a>
-- Retinomorphic Event-Based Vision Sensors: Bioinspired Cameras With Spiking Output <a href="https://ieeexplore.ieee.org/abstract/document/6887319?casa_token=nUxeuxwYA9MAAAAA:uupFRskoAhwac8lNyjT1vM-lhM1JML7_ueXo2iNwAseBlZQIZezLpYKk3nABjTjbro8Q5sjIeA" target="_blank"> [Paper] </a>
 - Integration of dynamic vision sensor with inertial measurement unit for electronically stabilized event-based vision <a href="https://ieeexplore.ieee.org/abstract/document/6865714?casa_token=o5ozSBTn4ukAAAAA:DjjfMOwIkvva5EGlC780FEOqOiOrnaPt5AqXHWwTefEsYAgXvfbmcGxaBYNpT0JLPTvolT55vQ" target="_blank"> [Paper] </a>
 - Real-time object recognition and orientation estimation using an event-based camera and CNN <a href="https://ieeexplore.ieee.org/abstract/document/6981783" target="_blank"> [Paper] </a>
 - Asynchronous Event-Based Multikernel Algorithm for High-Speed Visual Features Tracking <a href="https://ieeexplore.ieee.org/abstract/document/6899691?casa_token=17zyH3QoZ04AAAAA:qwuowI1LKJFw6osiEYPLemZ00-oWXbphHeHVyXxeg27qUIh3msIeQ7o_1CPaD2q7CXyY_EdHtA" target="_blank"> [Paper] </a>
