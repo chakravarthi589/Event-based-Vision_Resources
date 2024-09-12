@@ -305,7 +305,6 @@ Event-based vision, event-based camera, DVS, dynamic vision sensor, neuromorphic
 - EventBind: Learning a Unifies Representation to Bind Them All for Event-based Open-World Understanding
 - EDformer: Transformer-based Event Denoising Across Varied Noise Levels 
 - Asynchronous Bioplausible Neuron for Spiking Neural Networks for Event-based Vision
-- Temporal Residual Guided Diffusion Framework for Event-driven Video Reconstruction
 - Event Camera Data Dense Pre-training 
 - Physical-based Event Camera Simulator
 - REDIR: Refocus-free Event-based De-occlusion Image Reconstruction
