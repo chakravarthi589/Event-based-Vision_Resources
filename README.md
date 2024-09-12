@@ -318,7 +318,6 @@ Event-based vision, event-based camera, DVS, dynamic vision sensor, neuromorphic
 - Secrets of Event-Based Optical Flow <a href="https://arxiv.org/pdf/2207.10022.pdf" target="_blank">[Paper]</a>
 - EvAC3D: From Event-based Apparent Contours to 3D Models via Continuous Visual Hulls <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670278.pdf" target="_blank">[Paper]</a>
 - Boosting Event Stream Super-Resolution with A Recurrent Neural Network <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660461.pdf" target="_blank">[Paper]</a>
-- DVS-Voltmeter: Stochastic Process-based Event Simulator for Dynamic Vision Sensors <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670571.pdf" target="_blank">[Paper]</a>
 - S2N: Suppression-Strengthen Network for Event-based Recognition under Variant Illuminations <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630701.pdf" target="_blank">[Paper]</a>
 - MENet: a Memory-Based Network with Dual-Branch for Efficient Event Stream Processing <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840211.pdf" target="_blank">[Paper]</a>
 - NEST: Neural Event Stack for Event-based Image Enhancement <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660649.pdf" target="_blank">[Paper]</a>
