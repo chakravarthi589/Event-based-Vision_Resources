@@ -646,7 +646,6 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 - A Linear Comb Filter for Event Flicker Removal (ICRA) <a href="https://ieeexplore.ieee.org/document/9812003">[Paper]</a>
 - Learning Local Event-based Descriptor for Patch-based Stereo Matching (ICRA) <a href="https://ieeexplore.ieee.org/document/9811687">[Paper]</a>
 - Kinematic Structure Estimation of Arbitrary Articulated Rigid Objects for Event Cameras (ICRA) <a href="https://ieeexplore.ieee.org/document/9812430">[Paper]</a>
-- Fusing Event-based and RGB camera for Robust Object Detection in Adverse Conditions (ICRA) <a href="https://ieeexplore.ieee.org/document/9812059">[Paper]</a>
 - DEVO: Depth-Event Camera Visual Odometry in Challenging Conditionsm (ICRA) <a href="https://ieeexplore.ieee.org/document/9811805">[Paper]</a>
 - Neural Implicit Event Generator for Motion Tracking (ICRA) <a href="https://ieeexplore.ieee.org/document/9812142">[Paper]</a>
 - VISTA 2.0: An Open, Data-driven Simulator for Multimodal Sensing and Policy Learning for Autonomous Vehicles (ICRA) <a href="https://ieeexplore.ieee.org/document/9812276">[Paper]</a>
