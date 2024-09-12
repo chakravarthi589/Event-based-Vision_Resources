@@ -480,7 +480,6 @@ for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.
 
 ## CVPRW 2021
 - Comparing Representations in Tracking for Event Camera-based SLAM  <a href="https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Jiao_Comparing_Representations_in_Tracking_for_Event_Camera-Based_SLAM_CVPRW_2021_paper.pdf" target="_blank">[Paper] </a>
-- v2e: From Video Frames to Realistic DVS Events <a href="https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Hu_v2e_From_Video_Frames_to_Realistic_DVS_Events_CVPRW_2021_paper.pdf" target="_blank">[Paper] </a>
 - Incremental Motion Estimation for Event-based Cameras by Dispersion Minimisation <a href="https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Nunes_Live_Demonstration_Incremental_Motion_Estimation_for_Event-Based_Cameras_by_Dispersion_CVPRW_2021_paper.pdf" target="_blank">[Paper] </a>
 - Image Reconstruction from Neuromorphic Event Cameras using LaplacianPrediction and Poisson Integration with Spiking and Artificial Neural Networks <a href="https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Duwek_Image_Reconstruction_From_Neuromorphic_Event_Cameras_Using_Laplacian-Prediction_and_Poisson_CVPRW_2021_paper.pdf" target="_blank">[Paper] </a>
 - Feedback control of event cameras <a href="https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Delbruck_Feedback_Control_of_Event_Cameras_CVPRW_2021_paper.pdf" target="_blank">[Paper] </a>
