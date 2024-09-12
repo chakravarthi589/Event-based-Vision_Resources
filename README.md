@@ -473,8 +473,6 @@ Image Reconstruction from Events <a href="https://openaccess.thecvf.com/content/
 - Integrating Event Based Hand Tracking Into TouchFree Interactions <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Page_Live_Demonstration_Integrating_Event_Based_Hand_Tracking_Into_TouchFree_Interactions_CVPRW_2023_paper.pdf" target="_blank">[Paper] </a>
 - Asynchronous Events-based Panoptic Segmentation using Graph Mixer Neural
 Network <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Kachole_Asynchronous_Events-Based_Panoptic_Segmentation_Using_Graph_Mixer_Neural_Network_CVPRW_2023_paper.pdf" target="_blank">[Paper] </a>
-- Tangentially Elongated Gaussian Belief Propagation
-for Event-based Incremental Optical Flow Estimation <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Sekikawa_Live_Demonstration_Tangentially_Elongated_Gaussian_Belief_Propagation_for_Event-Based_Incremental_CVPRW_2023_paper.pdf" target="_blank">[Paper] </a>
 - End-to-end Neuromorphic Lip Reading <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Bulzomi_End-to-End_Neuromorphic_Lip-Reading_CVPRW_2023_paper.pdf" target="_blank">[Paper] </a>
 
 
