@@ -392,6 +392,7 @@ Image Reconstruction from Events <a href="https://openaccess.thecvf.com/content/
 - Object Tracking by Jointly Exploiting Frame and Event Domain <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Object_Tracking_by_Jointly_Exploiting_Frame_and_Event_Domain_ICCV_2021_paper.pdf" target="_blank">[Paper]</a>
 - EventHPE: Event-Based 3D Human Pose and Shape Estimation <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zou_EventHPE_Event-Based_3D_Human_Pose_and_Shape_Estimation_ICCV_2021_paper.pdf" target="_blank">[Paper]</a>
 - Temporal-Wise Attention Spiking Neural Networks for Event Streams Classification <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Yao_Temporal-Wise_Attention_Spiking_Neural_Networks_for_Event_Streams_Classification_ICCV_2021_paper.pdf" target="_blank">[Paper]</a>
+- Moving Object Detection for Event-Based Vision Using Graph Spectral Clustering <a href="https://openaccess.thecvf.com/content/ICCV2021W/GSP-CV/papers/Mondal_Moving_Object_Detection_for_Event-Based_Vision_Using_Graph_Spectral_Clustering_ICCVW_2021_paper.pdf" target="_blank">[Paper]</a>
 
 
 
@@ -650,6 +651,7 @@ Network <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/pap
 - Asynchronous Optimisation for Event-based Visual Odometry (ICRA) <a href="https://ieeexplore.ieee.org/document/9811943">[Paper]</a>
 - NeuroGrasp: Multimodal Neural Network With Euler Region Regression for Neuromorphic Vision-Based Grasp Pose Estimation <a href="https://ieeexplore.ieee.org/abstract/document/9787342">[Paper]</a>
 - Global-local Feature Aggregation for Event-based Object Detection on EventKITTI <a href="https://ieeexplore.ieee.org/abstract/document/9913852">[Paper]</a>
+- Event-VPR: End-to-End Weakly Supervised Deep Network Architecture for Visual Place Recognition Using Event-Based Vision Sensor <a href="https://ieeexplore.ieee.org/abstract/document/9760407?casa_token=roYS0KkYFfoAAAAA:5AZWbETqYgEPWRJxTZoGKNYJgdmL0CAgGvrUdCHQgF_oiX14AJrugvDpPIgXPhy7shKZzH6Fog">[Paper]</a>
 
 
 #### 2021
@@ -694,6 +696,8 @@ Network <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/pap
 - Real-Time High Speed Motion Prediction Using Fast Aperture-Robust Event-Driven Visual Flow <a href="https://ieeexplore.ieee.org/abstract/document/9144436" target="_blank">[Paper] </a>
 - Hand-Gesture Recognition Based on EMG and Event-Based Camera Sensor Fusion: A Benchmark in Neuromorphic Computing <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2020.00637/full" target="_blank">[Paper] </a>
 - Towards Learning to Detect and Predict Contact Events on Vision-based Tactile Sensors <a href="https://proceedings.mlr.press/v100/zhang20b.html" target="_blank">[Paper] </a>
+- Event-Based Robotic Grasping Detection With Neuromorphic Vision Sensor and Event-Grasping Dataset <a href="https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2020.00051/full" target="_blank">[Paper] </a>
+- Introduction and Analysis of an Event-Based Sign Language Dataset <a href="https://ieeexplore.ieee.org/abstract/document/9320225?casa_token=IiuJ-ur7DWkAAAAA:vzjkkXBwNmoEGtOD4OkwyyqZzvr_2Z-zdz5my4RBpRfeEFxJXINyPNj1HCblqzNDA44w9q621w" target="_blank">[Paper] </a>
 
 #### 2019
 - EV-IMO: Motion Segmentation Dataset and Learning Pipeline for Event Cameras <a href="https://ieeexplore.ieee.org/abstract/document/8968520?casa_token=mwQ6CGw4jlEAAAAA:P8aqCODH6fv5DOKCXR9Y2FrRLP9mT15ujTFyqBoGnzGwoO8ggCRhaXgp3sKnx63_QKaK5HnY7w" target="_blank"> [Paper]
