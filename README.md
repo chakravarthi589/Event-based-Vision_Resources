@@ -352,7 +352,7 @@ Event-based vision, event-based camera, DVS, dynamic vision sensor, neuromorphic
 ---
 
 ## ICCV 2023
-- GET: Group  for Event-Based Vision <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Peng_GET_Group_Event_Transformer_for_Event-Based_Vision_ICCV_2023_paper.pdf" target="_blank">[Paper]</a>
+- GET: Group Event Transformer for Event-Based Vision <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Peng_GET_Group_Event_Transformer_for_Event-Based_Vision_ICCV_2023_paper.pdf" target="_blank">[Paper]</a>
 - Deformable Neural Radiance Fields using RGB and Event Cameras <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_Deformable_Neural_Radiance_Fields_using_RGB_and_Event_Cameras_ICCV_2023_paper.pdf" target="_blank">[Paper]</a>
 - Learning Optical Flow from Event Camera with Rendered Dataset <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Luo_Learning_Optical_Flow_from_Event_Camera_with_Rendered_Dataset_ICCV_2023_paper.pdf" target="_blank">[Paper]</a>
 - Event-based Temporally Dense Optical Flow Estimation with Sequential Learning <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Ponghiran_Event-based_Temporally_Dense_Optical_Flow_Estimation_with_Sequential_Learning_ICCV_2023_paper.pdf" target="_blank">[Paper]</a>
