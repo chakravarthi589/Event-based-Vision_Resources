@@ -252,6 +252,13 @@ Event-based vision, event-based camera, DVS, dynamic vision sensor, neuromorphic
 ---
 
 ## WACV 2024
+- Real-Time 6-DoF Pose Estimation by an Event-Based Camera Using Active LED Markers
+- Masked Event Modeling: Self-Supervised Pretraining for Event Cameras
+- MS-EVS: Multispectral Event-Based Vision for Deep Learning Based Face Detection
+- Depth From Asymmetric Frame-Event Stereo: A Divide-and-Conquer Approach
+- Unsupervised Event-Based Video Reconstruction
+- HALSIE: Hybrid Approach to Learning Segmentation by Simultaneously Exploiting Image and Event Modalities
+  
 
 ## WACV 2023 
 - Ev-NeRF: Event Based Neural Radiance Field <a href="https://openaccess.thecvf.com/content/WACV2023/papers/Hwang_Ev-NeRF_Event_Based_Neural_Radiance_Field_WACV_2023_paper.pdf" target="_blank">[Paper]</a>
