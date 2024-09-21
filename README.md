@@ -252,12 +252,13 @@ Event-based vision, event-based camera, DVS, dynamic vision sensor, neuromorphic
 ---
 
 ## WACV 2024
-- Real-Time 6-DoF Pose Estimation by an Event-Based Camera Using Active LED Markers
-- Masked Event Modeling: Self-Supervised Pretraining for Event Cameras
-- MS-EVS: Multispectral Event-Based Vision for Deep Learning Based Face Detection
-- Depth From Asymmetric Frame-Event Stereo: A Divide-and-Conquer Approach
-- Unsupervised Event-Based Video Reconstruction
-- HALSIE: Hybrid Approach to Learning Segmentation by Simultaneously Exploiting Image and Event Modalities
+- Real-Time 6-DoF Pose Estimation by an Event-Based Camera Using Active LED Markers <a href="https://openaccess.thecvf.com/content/WACV2024/papers/Ebmer_Real-Time_6-DoF_Pose_Estimation_by_an_Event-Based_Camera_Using_Active_WACV_2024_paper.pdf" target="_blank">[Paper]</a>
+- Masked Event Modeling: Self-Supervised Pretraining for Event Cameras <a href="https://openaccess.thecvf.com/content/WACV2024/papers/Klenk_Masked_Event_Modeling_Self-Supervised_Pretraining_for_Event_Cameras_WACV_2024_paper.pdf" target="_blank">[Paper]</a>
+- EvDNeRF: Reconstructing Event Data with Dynamic Neural Radiance Fields  <a href="https://openaccess.thecvf.com/content/WACV2024/papers/Bhattacharya_EvDNeRF_Reconstructing_Event_Data_With_Dynamic_Neural_Radiance_Fields_WACV_2024_paper.pdf" target="_blank">[Paper]</a>
+- MS-EVS: Multispectral Event-Based Vision for Deep Learning Based Face Detection <a href="https://openaccess.thecvf.com/content/WACV2024/papers/Himmi_MS-EVS_Multispectral_Event-Based_Vision_for_Deep_Learning_Based_Face_Detection_WACV_2024_paper.pdf" target="_blank">[Paper]</a>
+- Depth From Asymmetric Frame-Event Stereo: A Divide-and-Conquer Approach <a href="https://openaccess.thecvf.com/content/WACV2024/papers/Chen_Depth_From_Asymmetric_Frame-Event_Stereo_A_Divide-and-Conquer_Approach_WACV_2024_paper.pdf" target="_blank">[Paper]</a>
+- Unsupervised Event-Based Video Reconstruction <a href="https://openaccess.thecvf.com/content/WACV2024/papers/Fox_Unsupervised_Event-Based_Video_Reconstruction_WACV_2024_paper.pdf" target="_blank">[Paper]</a>
+- HALSIE: Hybrid Approach to Learning Segmentation by Simultaneously Exploiting Image and Event Modalities <a href="https://openaccess.thecvf.com/content/WACV2024/papers/Biswas_HALSIE_Hybrid_Approach_to_Learning_Segmentation_by_Simultaneously_Exploiting_Image_WACV_2024_paper.pdf" target="_blank">[Paper]</a>
   
 
 ## WACV 2023 
