@@ -564,6 +564,11 @@ Network <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/pap
 ## Other Papers
 
 #### 2024
+- EventDance++: Language-guided Unsupervised Source-free Cross-modal Adaptation for Event-based Object Recognition
+- Spatio-temporal Focus and Lightweight Memory Network for Continuous Object Detection with Event Camera
+- Test-Time Certifiable Self-Supervision to Bridge the Sim2Real Gap in Event-Based Satellite Pose Estimation
+- Deep Visual Odometry with Events and Frames
+- Asynchronous Blob Tracker for Event Cameras
 - Event3DGS: Event-based 3D Gaussian Splatting for Fast Egomotion <a href="https://arxiv.org/pdf/2406.02972" target="_blank">[Paper] </a>
 - Event-based Vision for Early Prediction of Manipulation Actions <a href="https://arxiv.org/pdf/2307.14332" target="_blank">[Paper] </a>
 - Towards an Improved Hyperdimensional Classifier for Event-Based Data <a href="https://ieeexplore.ieee.org/abstract/document/10089705" target="_blank">[Paper] </a>
