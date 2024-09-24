@@ -564,11 +564,11 @@ Network <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/pap
 ## Other Papers
 
 #### 2024
-- EventDance++: Language-guided Unsupervised Source-free Cross-modal Adaptation for Event-based Object Recognition
-- Spatio-temporal Focus and Lightweight Memory Network for Continuous Object Detection with Event Camera
-- Test-Time Certifiable Self-Supervision to Bridge the Sim2Real Gap in Event-Based Satellite Pose Estimation
-- Deep Visual Odometry with Events and Frames
-- Asynchronous Blob Tracker for Event Cameras
+- EventDance++: Language-guided Unsupervised Source-free Cross-modal Adaptation for Event-based Object Recognition <a href="https://arxiv.org/abs/2409.12778" target="_blank">[Paper] </a>
+- Spatio-temporal Focus and Lightweight Memory Network for Continuous Object Detection with Event Camera <a href="https://ieeexplore.ieee.org/abstract/document/10684042?casa_token=O6EjzQJmplEAAAAA:1p8elw4YJFFrEm1Fi4mZKRhyG_J-HJw9nFHSqThxQATNC1sujO4wUpJl8oQwzwE6ZbVAZaNRsQ" target="_blank">[Paper] </a>
+- Test-Time Certifiable Self-Supervision to Bridge the Sim2Real Gap in Event-Based Satellite Pose Estimation <a href="https://arxiv.org/abs/2409.06240" target="_blank">[Paper] </a>
+- Deep Visual Odometry with Events and Frames <a href="https://rpg.ifi.uzh.ch/docs/IROS24_Pellerito.pdf" target="_blank">[Paper] </a>
+- Asynchronous Blob Tracker for Event Cameras <a href="https://ieeexplore.ieee.org/abstract/document/10665915?casa_token=xSZ8i8rUTw4AAAAA:NCrLs-OIz21q0057MquV3mh5PlilFO0Izkq6ogWq621y6OtSEC-G16KkrgFDUt2ZmmqYaCv1AQ" target="_blank">[Paper] </a>
 - Event3DGS: Event-based 3D Gaussian Splatting for Fast Egomotion <a href="https://arxiv.org/pdf/2406.02972" target="_blank">[Paper] </a>
 - Event-based Vision for Early Prediction of Manipulation Actions <a href="https://arxiv.org/pdf/2307.14332" target="_blank">[Paper] </a>
 - Towards an Improved Hyperdimensional Classifier for Event-Based Data <a href="https://ieeexplore.ieee.org/abstract/document/10089705" target="_blank">[Paper] </a>
