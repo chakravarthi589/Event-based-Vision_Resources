@@ -419,30 +419,29 @@ Image Reconstruction from Events <a href="https://openaccess.thecvf.com/content/
 ---
 
 ## ECCV 2024 Wokshop on Neuromorphic Vision 
-- [<b>Our Paper</b>] Recent Event Camera Innovations: A Survey
-- CEIA: CLIP-Based Event-Image Alignment for Open-World Event-Based Understanding
-- Event-based Motion Deblurring with Dual Channel Attention
-- Optimal OnTheFly Feedback Control of Event Sensors
-- EventSleep: Sleep Activity Recognition with Event Cameras
-- Stereo Event-based Parallel Tracking and Mapping
-- Lossy Encoding of Time-aggregated Neuromorphic Vision Sensor Data based on Point Cloud  Compression
-- Drone Detection Using a Low-Power Neuromorphic Virtual Tripwire
-- Event-Stream Super Resolution using Sigma Delta Neural Network
-- Tracking-Assisted Object Detection with Event Cameras
-- A Frames-and-Events Dataset for Space-Time Instance Segmentation of Mice
-- HUE Dataset: High-Resolution Event and Frame Sequences for Low-Light Vision
+- [<b>Our Paper</b>] Recent Event Camera Innovations: A Survey <a href="https://arxiv.org/abs/2408.13627" target="_blank">[Paper] </a>
+- CEIA: CLIP-Based Event-Image Alignment for Open-World Event-Based Understanding <a href="https://www.arxiv.org/abs/2407.06611" target="_blank">[Paper] </a>
+- Event-based Motion Deblurring with Dual Channel Attention <a href=" " target="_blank">[Paper] </a>
+- Optimal OnTheFly Feedback Control of Event Sensors <a href="https://arxiv.org/abs/2408.12976" target="_blank">[Paper] </a>
+- EventSleep: Sleep Activity Recognition with Event Cameras <a href="https://arxiv.org/abs/2404.01801" target="_blank">[Paper] </a>
+- Lossy Encoding of Time-aggregated Neuromorphic Vision Sensor Data based on Point Cloud  Compression <a href="https://www.mdpi.com/1424-8220/24/5/1382" target="_blank">[Paper] </a>
+- Drone Detection Using a Low-Power Neuromorphic Virtual Tripwire 
+- Event-Stream Super Resolution using Sigma Delta Neural Network <a href="https://arxiv.org/abs/2408.06968" target="_blank">[Paper] </a>
+- Tracking-Assisted Object Detection with Event Cameras <a href="https://arxiv.org/abs/2403.18330" target="_blank">[Paper] </a>
+- MouseSIS: A Frames-and-Events Dataset for Space-Time Instance Segmentation of Mice <a href="https://www.arxiv.org/abs/2409.03358" target="_blank">[Paper] </a>
+- HUE Dataset: High-Resolution Event and Frame Sequences for Low-Light Vision 
 - Millisecond-latency Visual Fault-buttons using Event-cameras
-- Neuromorphic Facial Analysis with Cross-Modal Supervision
-- Evaluating Image-Based Face and Eye Tracking with Event Cameras
-- Scaling Up Resonate-and-Fire Networks for Fast Deep Learning
-- Neuromorphic Drone Detection: an Event-RGB Multimodal Approach
-- Pushing the boundaries of event subsampling in event-based video classification using CNNs
-- Vibration Vision: Real-Time Machinery Fault Diagnosis with Event Cameras
+- Neuromorphic Facial Analysis with Cross-Modal Supervision <a href="https://arxiv.org/abs/2409.10213v1" target="_blank">[Paper] </a>
+- Evaluating Image-Based Face and Eye Tracking with Event Cameras <a href="https://www.arxiv.org/abs/2408.10395" target="_blank">[Paper] </a>
+- Scaling Up Resonate-and-Fire Networks for Fast Deep Learning 
+- Neuromorphic Drone Detection: an Event-RGB Multimodal Approach <a href="https://arxiv.org/abs/2409.16099" target="_blank">[Paper] </a>
+- Pushing the boundaries of event subsampling in event-based video classification using CNNs <a href="https://arxiv.org/abs/2409.08953" target="_blank">[Paper] </a>
+- Vibration Vision: Real-Time Machinery Fault Diagnosis with Event Cameras 
 - S-ROPE: Spectral Frame Representation of Periodic Events
 - Autobiasing Event Cameras
-- EvDownsampling: A Robust Method For Downsampling Event Camera Data
-- ES-PTAM: Event-based Stereo Parallel Tracking and Mapping
-- Lossless Encoding of Time-Aggregated Neuromorphic Vision Sensor Data Based on Point-Cloud Compression
+- EvDownsampling: A Robust Method For Downsampling Event Camera Data <a href=" " target="_blank">[Paper] </a>
+- ES-PTAM: Event-based Stereo Parallel Tracking and Mapping <a href="https://www.arxiv.org/abs/2408.15605" target="_blank">[Paper] </a>
+
 
 
 ## ECCV 2024 Wokshop on Neural Fields Beyond Cams
