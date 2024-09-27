@@ -564,6 +564,7 @@ Network <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/pap
 ## Other Papers
 
 #### 2024
+- On the Benefits of Visual Stabilization for Frame- and Event-Based Perception <a href="https://ieeexplore.ieee.org/abstract/document/10648753" target="_blank">[Paper]</a> 
 - EventDance++: Language-guided Unsupervised Source-free Cross-modal Adaptation for Event-based Object Recognition <a href="https://arxiv.org/abs/2409.12778" target="_blank">[Paper] </a>
 - Spatio-temporal Focus and Lightweight Memory Network for Continuous Object Detection with Event Camera <a href="https://ieeexplore.ieee.org/abstract/document/10684042?casa_token=O6EjzQJmplEAAAAA:1p8elw4YJFFrEm1Fi4mZKRhyG_J-HJw9nFHSqThxQATNC1sujO4wUpJl8oQwzwE6ZbVAZaNRsQ" target="_blank">[Paper] </a>
 - Test-Time Certifiable Self-Supervision to Bridge the Sim2Real Gap in Event-Based Satellite Pose Estimation <a href="https://arxiv.org/abs/2409.06240" target="_blank">[Paper] </a>
@@ -596,6 +597,7 @@ Network <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/pap
 - On the Benefits of Visual Stabilization for Frame and Event-based Perception <a href="https://ieeexplore.ieee.org/abstract/document/10648753?casa_token=HTIJ5T6UkIoAAAAA:aNSsUBPRTCEkCVsGgc-_VnasnOeSTD1lzjhM8mNDW1HPKasYb7sdxi6T_d2X1ppiXkLwD7M" target="_blank">[Paper] </a>
 
 #### 2023
+- A Comparison Between Framed-Based and Event-Based Cameras for Flapping-Wing Robot Perception <a href="https://ieeexplore.ieee.org/abstract/document/10342500" target="_blank">[Paper]</a> 
 - Event-Diffusion: Event-Based Image Reconstruction and Restoration with Diffusion Models <a href="https://dl.acm.org/doi/pdf/10.1145/3581783.3612462" target="_blank">[Paper] </a>
 - V2CE: Video to Continuous Events Simulator <a href="https://arxiv.org/pdf/2309.08891" target="_blank">[Paper] </a>
 - Seeing Behind Dynamic Occlusions with Event Cameras <a href="https://arxiv.org/pdf/2307.15829" target="_blank">[Paper] </a>
@@ -635,6 +637,7 @@ Network <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/pap
 
 
 #### 2022
+- Free as a Bird: Event-Based Dynamic Sense-and-Avoid for Ornithopter Robot Flight <a href="https://ieeexplore.ieee.org/abstract/document/9720923" target="_blank">[Paper] </a>
 - Are High-Resolution Event Cameras Really Needed? <a href="https://arxiv.org/pdf/2203.14672" target="_blank">[Paper] </a>
 - Exploring Event Camera-Based Odometry for Planetary Robots <a href="https://ieeexplore.ieee.org/abstract/document/9813406" target="_blank">[Paper] </a>
 - EVIMO2: An Event Camera Dataset for Motion Segmentation, Optical Flow, Structure from Motion, and Visual Inertial Odometry in Indoor Scenes with Monocular or Stereo Algorithms  <a href="https://arxiv.org/pdf/2205.03467" target="_blank"> [Paper]
@@ -670,6 +673,7 @@ Network <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/pap
 
 
 #### 2021
+- UAV human teleoperation using event-based and frame-based cameras <a href="https://ieeexplore.ieee.org/abstract/document/9571049" target="_blank">[Paper] </a>
 - ESL: Event-based Structured Light <a href="https://ieeexplore.ieee.org/abstract/document/9665929" target="_blank">[Paper] </a>
 - DSEC: A Stereo Event Camera Dataset for Driving Scenarios <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9387069" target="_blank">[Paper] </a>
 - Event-Based Pedestrian Detection Using Dynamic Vision Sensors <a href="https://www.mdpi.com/2079-9292/10/8/888" target="_blank">[Paper] </a>
@@ -690,6 +694,9 @@ Network <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/pap
 
 
 #### 2020
+- Towards UAS Surveillance using Event Cameras <a href="https://ieeexplore.ieee.org/abstract/document/9292606" target="_blank">[Paper] </a>
+- Asynchronous event-based clustering and tracking for intrusion monitoring in UAS <a href="https://ieeexplore.ieee.org/abstract/document/9197341" target="_blank">[Paper] </a>
+- Asynchronous Event-based Line Tracking for Time-to-Contact Maneuvers in UAS <a href="https://ieeexplore.ieee.org/abstract/document/9341240" target="_blank">[Paper] </a
 - A Large Scale Event-based Detection Dataset for Automotive <a href="https://arxiv.org/pdf/2001.08499" target="_blank">[Paper] </a>
 - Learning to Detect Objects with a 1 Megapixel Event Camera <a href="https://papers.nips.cc/paper/2020/file/c213877427b46fa96cff6c39e837ccee-Paper.pdf" target="_blank">[Paper] </a>
 - 5.10 A 1280×720 Back-Illuminated Stacked Temporal Contrast Event-Based Vision Sensor with 4.86µm Pixels, 1.066GEPS Readout, Programmable Event-Rate Controller and Compressive Data-Formatting Pipeline <a href="https://ieeexplore.ieee.org/abstract/document/9063149?casa_token=hv7m1oYfFK8AAAAA:-loxyjHXRKaBmMMurfsiEf0LptPgVMmfwOm2rVLJwoAQLDiHsWuZUSHyYqqvXzs2pJwJgqkv8A" target="_blank"> [Paper]
