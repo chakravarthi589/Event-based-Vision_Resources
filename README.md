@@ -724,6 +724,7 @@ Network <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/pap
 - Event-based, Direct Camera Tracking from a Photometric 3D Map using Nonlinear Optimization <a href="https://ieeexplore.ieee.org/abstract/document/8794255?casa_token=tiapK-W4dOoAAAAA:bsC7apDuz0WhKXrrzriVFuHoieTXU0mOJiSltTZQcQlgNwWxsvGh4PDjTpkZSuoFp3sa1hZP7w" target="_blank">[Paper] </a>
 - High Speed and High Dynamic Range Video with an Event Camera <a href="https://ieeexplore.ieee.org/abstract/document/8946715?casa_token=k-wwraqP5c0AAAAA:5zG3dJV4lmAKabbHOS43g3aT3-N8Rau_4irE6yax2Oc_iEMYtNmGuzHgo79_IxVqSC3B9xxcoQ" target="_blank">[Paper] </a>
 - Mixed Frame-/Event-Driven Fast Pedestrian Detection <a href="https://ieeexplore.ieee.org/abstract/document/8793924?casa_token=AF0PcUZO8GUAAAAA:o-3nnuxx1-RRks6HHHnYxMJsvgCExUZaAcvysnuTDQkN9moen5BI21lESmFoUD5rK1qfRMNSpw" target="_blank">[Paper] </a>
+- Asynchronous Spatial Image Convolutions for Event Cameras <a href="https://ieeexplore.ieee.org/abstract/document/8613800" target="_blank">[Paper] </a>
 
 
 #### 2018
