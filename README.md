@@ -564,6 +564,8 @@ Network <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/pap
 ## Other Papers
 
 #### 2024
+- EDOPT: Event-camera 6-DoF Dynamic Object Pose Tracking <a href="https://ieeexplore.ieee.org/abstract/document/10611511" target="_blank">[Paper]</a> 
+- Memory Efficient Corner Detection for Event-Driven Dynamic Vision Sensors <a href="https://ieeexplore.ieee.org/abstract/document/10445937" target="_blank">[Paper]</a> 
 - On the Benefits of Visual Stabilization for Frame- and Event-Based Perception <a href="https://ieeexplore.ieee.org/abstract/document/10648753" target="_blank">[Paper]</a> 
 - EventDance++: Language-guided Unsupervised Source-free Cross-modal Adaptation for Event-based Object Recognition <a href="https://arxiv.org/abs/2409.12778" target="_blank">[Paper] </a>
 - Spatio-temporal Focus and Lightweight Memory Network for Continuous Object Detection with Event Camera <a href="https://ieeexplore.ieee.org/abstract/document/10684042?casa_token=O6EjzQJmplEAAAAA:1p8elw4YJFFrEm1Fi4mZKRhyG_J-HJw9nFHSqThxQATNC1sujO4wUpJl8oQwzwE6ZbVAZaNRsQ" target="_blank">[Paper] </a>
@@ -597,6 +599,8 @@ Network <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/pap
 - On the Benefits of Visual Stabilization for Frame and Event-based Perception <a href="https://ieeexplore.ieee.org/abstract/document/10648753?casa_token=HTIJ5T6UkIoAAAAA:aNSsUBPRTCEkCVsGgc-_VnasnOeSTD1lzjhM8mNDW1HPKasYb7sdxi6T_d2X1ppiXkLwD7M" target="_blank">[Paper] </a>
 
 #### 2023
+- Hybrid Object Tracking with Events and Frames <a href="https://ieeexplore.ieee.org/abstract/document/10342300" target="_blank">[Paper]</a>
+- Insights into Batch Selection for Event-Camera Motion Estimation <a href="https://www.mdpi.com/1424-8220/23/7/3699" target="_blank">[Paper]</a>
 - A Comparison Between Framed-Based and Event-Based Cameras for Flapping-Wing Robot Perception <a href="https://ieeexplore.ieee.org/abstract/document/10342500" target="_blank">[Paper]</a> 
 - Event-Diffusion: Event-Based Image Reconstruction and Restoration with Diffusion Models <a href="https://dl.acm.org/doi/pdf/10.1145/3581783.3612462" target="_blank">[Paper] </a>
 - V2CE: Video to Continuous Events Simulator <a href="https://arxiv.org/pdf/2309.08891" target="_blank">[Paper] </a>
@@ -637,10 +641,16 @@ Network <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/pap
 
 
 #### 2022
+- How Late is too Late? A Preliminary Event-based Latency Evaluation <a href="https://ieeexplore.ieee.org/abstract/document/9845622" target="_blank">[Paper] </a>
+- Interactive continual learning for robots: a neuromorphic approach <a href="https://dl.acm.org/doi/abs/10.1145/3546790.3546791" target="_blank">[Paper] </a>
+- Unlocking Static Images for Training Event-driven Neural Networks <a href="https://ieeexplore.ieee.org/abstract/document/9845526" target="_blank">[Paper] </a>
+- High-Throughput Asynchronous Convolutions for High-Resolution Event-Cameras <a href="https://ieeexplore.ieee.org/abstract/document/9845500" target="_blank">[Paper] </a>
 - Free as a Bird: Event-Based Dynamic Sense-and-Avoid for Ornithopter Robot Flight <a href="https://ieeexplore.ieee.org/abstract/document/9720923" target="_blank">[Paper] </a>
+- PUCK: Parallel Surface and Convolution-kernel Tracking for Event-Based Cameras <a href="https://arxiv.org/abs/2205.07657" target="_blank">
 - Are High-Resolution Event Cameras Really Needed? <a href="https://arxiv.org/pdf/2203.14672" target="_blank">[Paper] </a>
 - Exploring Event Camera-Based Odometry for Planetary Robots <a href="https://ieeexplore.ieee.org/abstract/document/9813406" target="_blank">[Paper] </a>
 - EVIMO2: An Event Camera Dataset for Motion Segmentation, Optical Flow, Structure from Motion, and Visual Inertial Odometry in Indoor Scenes with Monocular or Stereo Algorithms  <a href="https://arxiv.org/pdf/2205.03467" target="_blank"> [Paper]
+- Event-driven proto-object based saliency in 3D space to attract a robot’s attention <a href="https://www.nature.com/articles/s41598-022-11723-6" target="_blank"> [Paper]
 - Fast classification and action recognition with event-based imaging <a href="https://ieeexplore.ieee.org/abstract/document/9781403" target="_blank">[Paper] </a>
 - Event-based motion capture system for online multi-quadrotor localization and tracking <a href="https://www.mdpi.com/1424-8220/22/9/3240" target="_blank">[Paper] </a>
 - Fusing Event-based and RGB camera for Robust Object Detection in Adverse Conditions <a href="https://ieeexplore.ieee.org/abstract/document/9812059?casa_token=UdxrTNsdit4AAAAA:smQcKDsfzlX94nklLcbDisGoH5wpPzcRpoRxgD8IvfBWhOQd8-gTJBW23y6FTDwNNWM6DOnV1w" target="_blank">[Paper] </a>
@@ -696,6 +706,7 @@ Network <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/pap
 #### 2020
 - Towards UAS Surveillance using Event Cameras <a href="https://ieeexplore.ieee.org/abstract/document/9292606" target="_blank">[Paper] </a>
 - Asynchronous event-based clustering and tracking for intrusion monitoring in UAS <a href="https://ieeexplore.ieee.org/abstract/document/9197341" target="_blank">[Paper] </a>
+- Exploiting Event Cameras for Spatio-Temporal Prediction of Fast-Changing Trajectories <a href="https://ieeexplore.ieee.org/abstract/document/9073855" target="_blank">[Paper] </a>
 - Asynchronous Event-based Line Tracking for Time-to-Contact Maneuvers in UAS <a href="https://ieeexplore.ieee.org/abstract/document/9341240" target="_blank">[Paper] </a
 - A Large Scale Event-based Detection Dataset for Automotive <a href="https://arxiv.org/pdf/2001.08499" target="_blank">[Paper] </a>
 - Learning to Detect Objects with a 1 Megapixel Event Camera <a href="https://papers.nips.cc/paper/2020/file/c213877427b46fa96cff6c39e837ccee-Paper.pdf" target="_blank">[Paper] </a>
@@ -732,6 +743,8 @@ Network <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/pap
 - High Speed and High Dynamic Range Video with an Event Camera <a href="https://ieeexplore.ieee.org/abstract/document/8946715?casa_token=k-wwraqP5c0AAAAA:5zG3dJV4lmAKabbHOS43g3aT3-N8Rau_4irE6yax2Oc_iEMYtNmGuzHgo79_IxVqSC3B9xxcoQ" target="_blank">[Paper] </a>
 - Mixed Frame-/Event-Driven Fast Pedestrian Detection <a href="https://ieeexplore.ieee.org/abstract/document/8793924?casa_token=AF0PcUZO8GUAAAAA:o-3nnuxx1-RRks6HHHnYxMJsvgCExUZaAcvysnuTDQkN9moen5BI21lESmFoUD5rK1qfRMNSpw" target="_blank">[Paper] </a>
 - Asynchronous Spatial Image Convolutions for Event Cameras <a href="https://ieeexplore.ieee.org/abstract/document/8613800" target="_blank">[Paper] </a>
+- ATIS + SpiNNaker: a Fully Event-based Visual Tracking Demonstration <a href="https://arxiv.org/abs/1912.01320" target="_blank">[Paper] </a>
+
 
 
 #### 2018
