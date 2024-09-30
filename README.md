@@ -14,7 +14,6 @@ Event-based vision, event-based camera, DVS, dynamic vision sensor, neuromorphic
 
 #### Announcement:
 Our <strong> Workshop Proposal</strong> on <strong> Event-based Vision in the Era of Generative AI</strong> has been accepted for <strong>WACV 2025</strong>! Stay tuned for more details!
-<strong><span style="color:blue;">Our Workshop Proposal on Event-based Vision in the Era of Generative AI has been accepted for WACV 2025! Stay tuned for more details!</span></strong>
 
 
 #### Our Publications:
