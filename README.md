@@ -12,6 +12,9 @@ Event-based vision, event-based camera, DVS, dynamic vision sensor, neuromorphic
 <a href="https://chakravarthi589.github.io/" target="_blank"> Bharatesh Chakravarthi, Ph.D<br>
 <a href="https://aayush-v.github.io/" target="_blank"> Aayush Atul Verma
 
+#### Announcement:
+<strong><blink>Our Workshop Proposal on Event-based Vision in the Era of Generative AI has been accepted for WACV 2025! Stay tuned for more details!</blink></strong>
+
 #### Our Publications:
 - <a href="https://arxiv.org/abs/2408.13627" target="_blank">Recent Event Camera Innovations - A Survey </a> accepted by ECCV 2024 Workshop on Neuromorphic Vision: Advantages and Applications of Event Cameras
 - <a href="https://eventbasedvision.github.io/eTraM/" target="_blank">eTraM:</a> "Event-based Traffic Monitoring Dataset" accepted by CVPR 2024 <b> (Poster Highlight) </b>
