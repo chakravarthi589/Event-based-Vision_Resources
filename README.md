@@ -569,6 +569,7 @@ Network <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/pap
 ## Other Papers
 
 #### 2024
+- EventHDR: from Event to High-Speed HDR Videos and Beyond <a href="https://arxiv.org/pdf/2409.17029" target="_blank">[Paper]</a>
 - ECMD: An Event-Centric Multisensory Driving Dataset for SLAM <a href="https://ieeexplore.ieee.org/abstract/document/10342726" target="_blank">[Paper]</a> 
 - EDOPT: Event-camera 6-DoF Dynamic Object Pose Tracking <a href="https://ieeexplore.ieee.org/abstract/document/10611511" target="_blank">[Paper]</a> 
 - Memory Efficient Corner Detection for Event-Driven Dynamic Vision Sensors <a href="https://ieeexplore.ieee.org/abstract/document/10445937" target="_blank">[Paper]</a> 
