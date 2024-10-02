@@ -604,6 +604,7 @@ Network <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/pap
 - Event-Based Visual Odometry on Non-Holonomic Ground Vehicles <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10550819" target="_blank">[Paper] </a>
 - Monte Carlo Path Tracing and Statistical Event Detection for Event Camera Simulation <a href="https://arxiv.org/pdf/2408.07996" target="_blank">[Paper] </a>
 - On the Benefits of Visual Stabilization for Frame and Event-based Perception <a href="https://ieeexplore.ieee.org/abstract/document/10648753?casa_token=HTIJ5T6UkIoAAAAA:aNSsUBPRTCEkCVsGgc-_VnasnOeSTD1lzjhM8mNDW1HPKasYb7sdxi6T_d2X1ppiXkLwD7M" target="_blank">[Paper] </a>
+- Controllable Unsupervised Event-based Video Generation <a href="https://ieeexplore.ieee.org/abstract/document/10647468" target="_blank">[Paper] </a>
 
 #### 2023
 - Hybrid Object Tracking with Events and Frames <a href="https://ieeexplore.ieee.org/abstract/document/10342300" target="_blank">[Paper]</a>
