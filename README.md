@@ -111,7 +111,7 @@ Our <strong> Workshop Proposal</strong> on <strong> Event-based Vision in the Er
 - A Review of Event-Based Indoor Positioning and Navigation <a href="https://ceur-ws.org/Vol-3248/paper12.pdf" target="_blank">[Paper]
 - Retinomorphic Event-Based Vision Sensors: Bioinspired Cameras With Spiking Output <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6887319" target="_blank">[Paper]
 - A Review of Bioinspired Vision Sensors and Their Applications <a href="https://sensors.myu-group.co.jp/sm_pdf/SM1083.pdf" target="_blank">[Paper]
-- Research, Applications and Prospects of Event-Based Pedestrian Detection: A Survey
+- Research, Applications and Prospects of Event-Based Pedestrian Detection: A Survey <a href="https://arxiv.org/pdf/2407.04277" target="_blank">[Paper]
 
 
 ## CVPR 2024
