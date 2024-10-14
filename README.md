@@ -569,15 +569,15 @@ Network <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/pap
 ## Other Papers
 
 #### 2024
-- IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera
-- Fourier-based Action Recognition for Wildlife Behavior Quantification with Event Cameras
-- RGBE-Gaze: A Large-scale Event-based Multimodal Dataset for High Frequency Remote Gaze Tracking
-- Exploring event-based human pose estimation with 3D event representations
-- Accurate Event Camera Calibration with Fourier Transform
-- MMDVS-LF: A Multi-Modal Dynamic-Vision-Sensor Line Following Dataset
-- Neuromorphic Drone Detection: an Event-RGB Multimodal Approach
-- Controllable Unsupervised Event-Based Video Generation
-- PPLNs: Parametric Piecewise Linear Networks for Event-Based Temporal Modeling and Beyond
+- IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera  <a href="https://arxiv.org/abs/2410.08107" target="_blank">[Paper]</a>
+- Fourier-based Action Recognition for Wildlife Behavior Quantification with Event Cameras <a href="https://arxiv.org/abs/2410.06698" target="_blank">[Paper]</a>
+- RGBE-Gaze: A Large-scale Event-based Multimodal Dataset for High Frequency Remote Gaze Tracking <a href="https://ieeexplore.ieee.org/abstract/document/10706089" target="_blank">[Paper]</a>
+- Exploring event-based human pose estimation with 3D event representations <a href="https://www.sciencedirect.com/science/article/pii/S1077314224002704?casa_token=XJzjPzlVWKAAAAAA:h3RWg-RO4zFW8A3OVQEQONAw33AR9ED03pY6PC6suWCZfwlxe_TPAJ3tb4ZXQYekmqeloRsmTzI" target="_blank">[Paper]</a>
+- Accurate Event Camera Calibration with Fourier Transform <a href="https://ieeexplore.ieee.org/abstract/document/10699363?casa_token=t9f7tiPfBnYAAAAA:CMQ_UdRDRkc7NBZDByNngdJlOWp1vYslodJm_nsdr_R_dWIqCVoNJX7vCa2lp-w_Ln2iEt1vdA" target="_blank">[Paper]</a>
+- MMDVS-LF: A Multi-Modal Dynamic-Vision-Sensor Line Following Dataset <a href="https://arxiv.org/abs/2409.18038" target="_blank">[Paper]</a>
+- Neuromorphic Drone Detection: an Event-RGB Multimodal Approach <a href="https://arxiv.org/abs/2409.16099" target="_blank">[Paper]</a>
+- Controllable Unsupervised Event-Based Video Generation <a href="https://ieeexplore.ieee.org/abstract/document/10647468?casa_token=OM2hoDXlAHMAAAAA:FSDMtr2TUwWfDlymwUitpDbdYrSYCVuxBpXI-vzUuUbP9Kk0xEAvGzueOrvJXTSEx5Ye7VDAhQ" target="_blank">[Paper]</a>
+- PPLNs: Parametric Piecewise Linear Networks for Event-Based Temporal Modeling and Beyond <a href="https://arxiv.org/abs/2409.19772" target="_blank">[Paper]</a>
 - EventHDR: from Event to High-Speed HDR Videos and Beyond <a href="https://arxiv.org/pdf/2409.17029" target="_blank">[Paper]</a>
 - ECMD: An Event-Centric Multisensory Driving Dataset for SLAM <a href="https://ieeexplore.ieee.org/abstract/document/10342726" target="_blank">[Paper]</a> 
 - EDOPT: Event-camera 6-DoF Dynamic Object Pose Tracking <a href="https://ieeexplore.ieee.org/abstract/document/10611511" target="_blank">[Paper]</a> 
