@@ -631,7 +631,7 @@ Network <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/pap
 - Event-Diffusion: Event-Based Image Reconstruction and Restoration with Diffusion Models <a href="https://dl.acm.org/doi/pdf/10.1145/3581783.3612462" target="_blank">[Paper] </a>
 - V2CE: Video to Continuous Events Simulator <a href="https://arxiv.org/pdf/2309.08891" target="_blank">[Paper] </a>
 - Seeing Behind Dynamic Occlusions with Event Cameras <a href="https://arxiv.org/pdf/2307.15829" target="_blank">[Paper] </a>
-- - E-nerf: Neural radiance fields from a moving event camera <a href="https://arxiv.org/pdf/2208.11300" target="_blank">[Paper] </a>
+- E-nerf: Neural radiance fields from a moving event camera <a href="https://arxiv.org/pdf/2208.11300" target="_blank">[Paper] </a>
 - ESVIO: Event-Based Stereo Visual Inertial Odometry  <a href="https://ieeexplore.ieee.org/abstract/document/10107754" target="_blank">[Paper] </a>
 - An Artificial Neural SLAM Framework for Event-Based Vision <a href="https://ieeexplore.ieee.org/document/10143632" target="_blank">[Paper] </a>
 - When do neuromorphic sensors outperform cameras? Learning from dynamic features <a href="https://ieeexplore.ieee.org/abstract/document/10089678?casa_token=6q_QZYNjcGUAAAAA:9HA-5SH6c0Wo-GJfKCO-_ItpYNobt4q3LScQVD6UDFYzX_gNDL5CKVzCwGUHqn2gVZDhsf0P6A" target="_blank">[Paper] </a>
