@@ -258,7 +258,7 @@ Our <strong> Workshop Proposal</strong> on <strong> Event-based Vision in the Er
 
 ---
 ## WACV 2025
-- TO be Updated ...
+- To be Updated ...
 
 ## WACV 2024
 - Real-Time 6-DoF Pose Estimation by an Event-Based Camera Using Active LED Markers <a href="https://openaccess.thecvf.com/content/WACV2024/papers/Ebmer_Real-Time_6-DoF_Pose_Estimation_by_an_Event-Based_Camera_Using_Active_WACV_2024_paper.pdf" target="_blank">[Paper]</a>
