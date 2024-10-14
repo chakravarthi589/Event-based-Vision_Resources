@@ -61,6 +61,8 @@ Our <strong> Workshop Proposal</strong> on <strong> Event-based Vision in the Er
 ---
 
 ## :high_brightness: Event-based Vision Workshop Papers
+- [WACV 2025 - Event-based Vision in the Era of Generative AI - Transforming Perception and Visual Innovation](#Event-based-Vision-in-the-Era-of-Generative-AI) | [Workshop Webpage](https://eventbasedvision.github.io/EVGEN2025/)
+- [IROS 2024 - Embodied Neuromorphic AI for Robotic Perception and Control](#IROS-2024-Workshop-on-Embodied-Neuromorphic-AI) | [Workshop Webpage](https://sites.google.com/view/iros-2024-workshop/home)
 - [ECCV 2024-NeVI Workshop on Neuromorphic Vision: Advantages and Applications of Event Camera](#ECCV-2024-Wokshop-on-Neuromorphic-Vision) | [Wokshop Webpage](https://sites.google.com/view/nevi2024)
 - [ECCV 2024 Workshop on Neuromorphic Vision: Neural Fields Beyond Conventional Cameras](#ECCV-2024-Wokshop-on-Neural-Fields-Beyond-Cams) | [Workshop Webpage](https://neural-fields-beyond-cams.github.io/)
 - [CVPR 2023 Workshop on Event-based Vision](#CVPRW-2023) 
@@ -422,6 +424,11 @@ Image Reconstruction from Events <a href="https://openaccess.thecvf.com/content/
 - No Papers on event-based vision / event-based camera / neuromorphic sensors
 
 ---
+## Event-based Vision in the Era of Generative AI
+- To be Updated ...
+
+## IROS 2024 Workshop on Embodied Neuromorphic AI
+- Will be updated soon
 
 ## ECCV 2024 Wokshop on Neuromorphic Vision 
 - [<b>Our Paper</b>] Recent Event Camera Innovations: A Survey <a href="https://arxiv.org/abs/2408.13627" target="_blank">[Paper] </a>
