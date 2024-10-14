@@ -569,6 +569,15 @@ Network <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/pap
 ## Other Papers
 
 #### 2024
+- IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera
+- Fourier-based Action Recognition for Wildlife Behavior Quantification with Event Cameras
+- RGBE-Gaze: A Large-scale Event-based Multimodal Dataset for High Frequency Remote Gaze Tracking
+- Exploring event-based human pose estimation with 3D event representations
+- Accurate Event Camera Calibration with Fourier Transform
+- MMDVS-LF: A Multi-Modal Dynamic-Vision-Sensor Line Following Dataset
+- Neuromorphic Drone Detection: an Event-RGB Multimodal Approach
+- Controllable Unsupervised Event-Based Video Generation
+- PPLNs: Parametric Piecewise Linear Networks for Event-Based Temporal Modeling and Beyond
 - EventHDR: from Event to High-Speed HDR Videos and Beyond <a href="https://arxiv.org/pdf/2409.17029" target="_blank">[Paper]</a>
 - ECMD: An Event-Centric Multisensory Driving Dataset for SLAM <a href="https://ieeexplore.ieee.org/abstract/document/10342726" target="_blank">[Paper]</a> 
 - EDOPT: Event-camera 6-DoF Dynamic Object Pose Tracking <a href="https://ieeexplore.ieee.org/abstract/document/10611511" target="_blank">[Paper]</a> 
