@@ -327,6 +327,9 @@ Our <strong> Workshop Proposal</strong> on <strong> Event-based Vision in the Er
 - Event Camera Data Dense Pre-training 
 - Physical-based Event Camera Simulator
 - REDIR: Refocus-free Event-based De-occlusion Image Reconstruction
+- Event-based Mosaicing Bundle Adjustment <a href="https://arxiv.org/abs/2409.07365" target="_blank">[Paper]</a>
+- Embracing Events and Frames with Hierarchical Feature Refinement Network for Object Detection <a href="https://arxiv.org/abs/2407.12582" target="_blank">[Paper]</a>
+
 
 
 
