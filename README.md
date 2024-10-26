@@ -305,27 +305,27 @@ Our <strong> Workshop Proposal</strong> on <strong> Event-based Vision in the Er
 ---
 
 ## ECCV 2024 
-- Temporal Residual Guided Diffusion Framework for Event-Driven Video reconstruction
-- Event-based Head Pose Estimation: Benchmark and Method
-- Deblur e-NerF: NeRF from Motion-Blurred Events under High-speed or Low-light conditions
-- CMTA: Cross-Modal Temporal Alignment for Event-guided Video Deblurring
-- DailyDVS-200: A Comprehensive Benchmark Dataset for Event-based Action Recognition
-- Finding Meaning in Points: Weakly Supervised Semantic Segmentation for Event Cameras
-- BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream
-- 3D Hand Sequence Recovey from Real Blurry Images and Event Streams
-- Towards Real-world Event-guided Low-light Video Enhancement and Deblurring
-- Efficient Learning of Event-based Dense Representation using Hierarchical Memories with Adaptive Update
-- EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent Spiking Neural Networks
-- LiDAR-Event Stereo Fusion with Hallucinations
-- Temporal-Mapping Photography for Event Cameras
-- Motion Aware Event Representation-driven Image Deblurring 
-- Event-based Motion Magnification 
-- TimeLens-XL: Real-time Event-based Video Frame Interpolation with Large Motion
-- EventBind: Learning a Unifies Representation to Bind Them All for Event-based Open-World Understanding
-- EDformer: Transformer-based Event Denoising Across Varied Noise Levels 
-- Asynchronous Bioplausible Neuron for Spiking Neural Networks for Event-based Vision
-- Event Camera Data Dense Pre-training 
-- Physical-based Event Camera Simulator <a href=" " target="_blank">[Paper]</a>
+- Temporal Residual Guided Diffusion Framework for Event-Driven Video reconstruction <a href="https://arxiv.org/abs/2407.10636" target="_blank">[Paper]</a>
+- Event-based Head Pose Estimation: Benchmark and Method <a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02323.pdf" target="_blank">[Paper]</a>
+- Deblur e-NerF: NeRF from Motion-Blurred Events under High-speed or Low-light conditions <a href="https://arxiv.org/pdf/2409.17988" target="_blank">[Paper]</a>
+- CMTA: Cross-Modal Temporal Alignment for Event-guided Video Deblurring <a href="https://arxiv.org/abs/2408.14930" target="_blank">[Paper]</a>
+- DailyDVS-200: A Comprehensive Benchmark Dataset for Event-based Action Recognition <a href="https://arxiv.org/abs/2407.05106" target="_blank">[Paper]</a>
+- Finding Meaning in Points: Weakly Supervised Semantic Segmentation for Event Cameras <a href="https://arxiv.org/abs/2407.11216" target="_blank">[Paper]</a>
+- BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream <a href="https://arxiv.org/abs/2407.02174" target="_blank">[Paper]</a>
+- 3D Hand Sequence Recovey from Real Blurry Images and Event Streams <a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07674.pdf" target="_blank">[Paper]</a>
+- Towards Real-world Event-guided Low-light Video Enhancement and Deblurring <a href="https://arxiv.org/abs/2408.14916" target="_blank">[Paper]</a>
+- Efficient Learning of Event-based Dense Representation using Hierarchical Memories with Adaptive Update <a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10733.pdf" target="_blank">[Paper]</a>
+- EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent Spiking Neural Networks <a href="https://arxiv.org/abs/2403.12574" target="_blank">[Paper]</a>
+- LiDAR-Event Stereo Fusion with Hallucinations <a href="https://arxiv.org/abs/2408.04633" target="_blank">[Paper]</a>
+- Temporal-Mapping Photography for Event Cameras <a href="https://arxiv.org/abs/2403.06443" target="_blank">[Paper]</a>
+- Motion Aware Event Representation-driven Image Deblurring <a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06299.pdf" target="_blank">[Paper]</a>
+- Event-based Motion Magnification <a href="https://arxiv.org/abs/2402.11957" target="_blank">[Paper]</a>
+- TimeLens-XL: Real-time Event-based Video Frame Interpolation with Large Motion <a href="https://arxiv.org/abs/2308.03135" target="_blank">[Paper]</a>
+- EventBind: Learning a Unifies Representation to Bind Them All for Event-based Open-World Understanding <a href=" " target="_blank">[Paper]</a>
+- EDformer: Transformer-based Event Denoising Across Varied Noise Levels <a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03905.pdf" target="_blank">[Paper]</a>
+- Asynchronous Bioplausible Neuron for Spiking Neural Networks for Event-based Vision <a href="https://arxiv.org/abs/2311.11853" target="_blank">[Paper]</a>
+- Event Camera Data Dense Pre-training <a href="https://arxiv.org/abs/2311.11533" target="_blank">[Paper]</a>
+- Physical-based Event Camera Simulator <a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06110.pdf" target="_blank">[Paper]</a>
 - REDIR: Refocus-free Event-based De-occlusion Image Reconstruction <a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10433.pdf" target="_blank">[Paper]</a>
 - Event-based Mosaicing Bundle Adjustment <a href="https://arxiv.org/abs/2409.07365" target="_blank">[Paper]</a>
 - Embracing Events and Frames with Hierarchical Feature Refinement Network for Object Detection <a href="https://arxiv.org/abs/2407.12582" target="_blank">[Paper]</a>
