@@ -325,8 +325,8 @@ Our <strong> Workshop Proposal</strong> on <strong> Event-based Vision in the Er
 - EDformer: Transformer-based Event Denoising Across Varied Noise Levels 
 - Asynchronous Bioplausible Neuron for Spiking Neural Networks for Event-based Vision
 - Event Camera Data Dense Pre-training 
-- Physical-based Event Camera Simulator
-- REDIR: Refocus-free Event-based De-occlusion Image Reconstruction
+- Physical-based Event Camera Simulator <a href=" " target="_blank">[Paper]</a>
+- REDIR: Refocus-free Event-based De-occlusion Image Reconstruction <a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10433.pdf" target="_blank">[Paper]</a>
 - Event-based Mosaicing Bundle Adjustment <a href="https://arxiv.org/abs/2409.07365" target="_blank">[Paper]</a>
 - Embracing Events and Frames with Hierarchical Feature Refinement Network for Object Detection <a href="https://arxiv.org/abs/2407.12582" target="_blank">[Paper]</a>
 
