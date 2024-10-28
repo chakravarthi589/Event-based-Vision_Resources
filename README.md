@@ -159,7 +159,6 @@ Our <strong> Workshop Proposal</strong> on <strong> Event-based Vision in the Er
 - Time-Efficient Light-Field Acquisition Using Coded Aperture and Events <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Habuchi_Time-Efficient_Light-Field_Acquisition_Using_Coded_Aperture_and_Events_CVPR_2024_paper.pdf" target="_blank">[Paper]</a>
 
 
-
 ## CVPR 2023
 - EventNeRF: Neural Radiance Fields From a Single Colour Event Camera <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Rudnev_EventNeRF_Neural_Radiance_Fields_From_a_Single_Colour_Event_Camera_CVPR_2023_paper.pdf" target="_blank">[Paper]</a>&nbsp;<a href="https://4dqv.mpi-inf.mpg.de/EventNeRF/" target="_blank">[Webpage]</a>&nbsp;<a href="https://github.com/r00tman/EventNeRF" target="_blank">[Github]</a>&nbsp;<a href="https://nextcloud.mpi-klsb.mpg.de/index.php/s/xDqwRHiWKeSRyes" target="_blank">[Data]
 - Progressive Spatio-Temporal Alignment for Efficient Event-Based Motion Estimation <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Progressive_Spatio-Temporal_Alignment_for_Efficient_Event-Based_Motion_Estimation_CVPR_2023_paper.pdf" target="_blank">[Paper]</a>
@@ -718,7 +717,6 @@ Network <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/pap
 - Event-VPR: End-to-End Weakly Supervised Deep Network Architecture for Visual Place Recognition Using Event-Based Vision Sensor <a href="https://ieeexplore.ieee.org/abstract/document/9760407?casa_token=roYS0KkYFfoAAAAA:5AZWbETqYgEPWRJxTZoGKNYJgdmL0CAgGvrUdCHQgF_oiX14AJrugvDpPIgXPhy7shKZzH6Fog">[Paper]</a>
 - Efficient Human Pose Estimation via 3D Event Point Cloud <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10044402"> [Paper] </a>
 - Deep Learning For Pose Estimation From Event Camera <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10034617"> [Paper] <\a>
-- 
 
 #### 2021
 - UAV human teleoperation using event-based and frame-based cameras <a href="https://ieeexplore.ieee.org/abstract/document/9571049" target="_blank">[Paper] </a>
@@ -833,7 +831,6 @@ Network <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/pap
 - Neuromorophic vision sensing and processing <a href="https://ieeexplore.ieee.org/abstract/document/7599576?casa_token=nygoaGNKgkIAAAAA:eLOW8SUL33GMhsMK3GbPSB7aIOlmZeSfwj9H5QaC2IrcEMUQnEa0hUpQHUrUm9sY-MB-1pMjuQ" target="_blank">[Paper] </a>
 - Event-Based State Estimation <a href="https://link.springer.com/book/10.1007/978-3-319-26606-0" target="_blank">[Paper] </a>
 - Neuromorphic Event-Based 3D Pose Estimation <a href="http://journal.frontiersin.org/Article/10.3389/fnins.2015.00522/abstract"> [Paper] <\a>
-- 
 
 #### 2015
 - Converting Static Image Datasets to Spiking Neuromorphic Datasets Using Saccades <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2015.00437/full" target="_blank">[Paper] </a>
