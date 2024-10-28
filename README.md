@@ -543,6 +543,7 @@ Network <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/pap
 
 | Year | Dataset                          | Sensor                      | Annotation Type             | Objects                                             | Task                                  | Description                                                                                                         |
 |------|----------------------------------|-----------------------------|-----------------------------|-----------------------------------------------------|---------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| 2024 | <a href="https://cdehp-dataset.github.io/" target="_blank"> CDEHP </a>  | CelePixel CeleX5 | Manual human pose | Human actions like squats, boxing, throwing, running jumping | Pose Estimation | RGBD + Event pose estimation dataset under uncontrolled indoor and outdoor lighting  
 | 2024 | <a href="https://eventbasedvision.github.io/eTraM/" target="_blank"> eTraM </a>                           | Prophesee EVK4–HD           | Yes, Manual 2D bounding box | Vehicles, Pedestrians, Micro-mobility               | Object Detection                      | High-resolution, large-scale, fixed traffic perception dataset for traffic monitoring                               |
 | 2024 | <a href="https://github.com/Event-AHU/EventVOT_Benchmark?tab=readme-ov-file#dvd-eventvot-dataset" target="_blank"> EventVOT </a>                          | Prophesee EVK4–HD           | Yes, Manual annotations     | UAV’s, Pedestrians, Vehicles, Ball sports           | Object Tracking                       | Large-scale, high-resolution, visual object-tracking dataset                                                       |
 | 2024 | <a href="https://vlislab22.github.io/ExACT/" target="_blank"> SeAct </a>                               | DAVIS346                    | Yes                         | Human actions like sit, catch, throw, vomit, handshake | Action Recognition                    | Event-text action recognition dataset                                                                              |
@@ -570,6 +571,7 @@ Network <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/pap
 |:--------:|:--------------:|:-----------------------:|:-----------------------------------------------------------------------------------------:|:-----------------------------------------------:|:----------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 | 2024     | <a href="https://eventbasedvision.github.io/SEVD/" target="_blank">  SEVD   </a>            | CARLA DVS               | Car, truck, van, bicycle, motorcycle,  pedestrian                                         | Yes, Automatic labeling,  2D and 3D BB          | Object detection,  tracking  | Multi-view ego and fixed perception dataset for traffic monitoring                                                                |
 | 2024     | Event-KITTI    | V2E                     | Vehicles, pedestrians, cyclists, etc.,                                                    | Yes                                             | Object Detection,  tracking  | An event-based version of KITTI using the V2E for daytime images  and a noise model for nighttime images of corresponding daytime |
+| 2023 | <a href="https://github.com/miracleyoo/yelan-dynamic-dvs-hpe?tab=readme-ov-file" target="_blank"> Yelan-Syn-Dataset | V2E | Human Pose Estimation | Joint Keypoints from Blender | Pose Estimation | 3D HPE for dynamic dancing motions 
 | 2023     | <a href="https://rpg.ifi.uzh.ch/esfp.html" target="_blank">  ESfP-Synthetic | ESIM                    | Scenes consisting of a textured mesh  illuminated with a point light source               | Yes, ground-truth surface  normal from renderer |     Object reconstruction    | Dataset for Surface normal estimation using event-based shape from  polarization                                                  |
 | 2022     | N-EPIC-Kitchen | ESIM                    | 8 action classes (Put, take, open, close,  wash, cut, mix, pour)                          | Yes                                             | Action Recognition           | Event-based camera extension of the large-scale EPIC-Kitchens  dataset                                                            |
 | 2021     | <a href="https://github.com/82magnolia/n_imagenet" target="_blank"> N-ImageNet     | Samsung DVS  Gen3       | 1000 Object Classes (same as ImageNet)                                                    | Yes                                             | Object Recognition           | Event-based version of the original ImageNet dataset.                                                                             |
@@ -627,6 +629,8 @@ Network <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/pap
 - Monte Carlo Path Tracing and Statistical Event Detection for Event Camera Simulation <a href="https://arxiv.org/pdf/2408.07996" target="_blank">[Paper] </a>
 - On the Benefits of Visual Stabilization for Frame and Event-based Perception <a href="https://ieeexplore.ieee.org/abstract/document/10648753?casa_token=HTIJ5T6UkIoAAAAA:aNSsUBPRTCEkCVsGgc-_VnasnOeSTD1lzjhM8mNDW1HPKasYb7sdxi6T_d2X1ppiXkLwD7M" target="_blank">[Paper] </a>
 - Controllable Unsupervised Event-based Video Generation <a href="https://ieeexplore.ieee.org/abstract/document/10647468" target="_blank">[Paper] </a>
+- A temporal densely connected recurrent network for event-based human pose estimation <a href="https://www.sciencedirect.com/science/article/pii/S0031320323007458?via%3Dihub"> [Paper] </a>
+
 
 #### 2023
 - Hybrid Object Tracking with Events and Frames <a href="https://ieeexplore.ieee.org/abstract/document/10342300" target="_blank">[Paper]</a>
@@ -668,6 +672,7 @@ Network <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/pap
 - Motion Robust High-Speed Light-Weighted Object Detection With Event Camera <a href="https://ieeexplore.ieee.org/abstract/document/10109007?casa_token=TJ6m3jaQcroAAAAA:Hx3uCy6asiiv7lf-oXH1i96MaRGoHV3786AjqBg7SG2soNbUbihaRTHLTjQ7AOdI2GH_hphb6Q">[Paper]</a>
 - Real-Time Multi-Task Facial Analytics With Event Cameras <a href="https://ieeexplore.ieee.org/abstract/document/10188686">[Paper]</a>
 - EventCLIP: Adapting CLIP for Event-based Object Recognition <a href="https://arxiv.org/abs/2306.06354">[Paper]</a>
+- Neuromorphic high-frequency 3D dancing pose estimation in dynamic environment <a href="https://www.sciencedirect.com/science/article/pii/S0925231223005118?via%3Dihub"> [Paper] </a>
 
 
 
@@ -711,7 +716,9 @@ Network <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/pap
 - NeuroGrasp: Multimodal Neural Network With Euler Region Regression for Neuromorphic Vision-Based Grasp Pose Estimation <a href="https://ieeexplore.ieee.org/abstract/document/9787342">[Paper]</a>
 - Global-local Feature Aggregation for Event-based Object Detection on EventKITTI <a href="https://ieeexplore.ieee.org/abstract/document/9913852">[Paper]</a>
 - Event-VPR: End-to-End Weakly Supervised Deep Network Architecture for Visual Place Recognition Using Event-Based Vision Sensor <a href="https://ieeexplore.ieee.org/abstract/document/9760407?casa_token=roYS0KkYFfoAAAAA:5AZWbETqYgEPWRJxTZoGKNYJgdmL0CAgGvrUdCHQgF_oiX14AJrugvDpPIgXPhy7shKZzH6Fog">[Paper]</a>
-
+- Efficient Human Pose Estimation via 3D Event Point Cloud <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10044402"> [Paper] </a>
+- Deep Learning For Pose Estimation From Event Camera <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10034617"> [Paper] <\a>
+- 
 
 #### 2021
 - UAV human teleoperation using event-based and frame-based cameras <a href="https://ieeexplore.ieee.org/abstract/document/9571049" target="_blank">[Paper] </a>
@@ -825,7 +832,8 @@ Network <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/pap
 - Event-Based Tone Mapping for Asynchronous Time-Based Image Sensor <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2016.00391/full" target="_blank">[Paper] </a>
 - Neuromorophic vision sensing and processing <a href="https://ieeexplore.ieee.org/abstract/document/7599576?casa_token=nygoaGNKgkIAAAAA:eLOW8SUL33GMhsMK3GbPSB7aIOlmZeSfwj9H5QaC2IrcEMUQnEa0hUpQHUrUm9sY-MB-1pMjuQ" target="_blank">[Paper] </a>
 - Event-Based State Estimation <a href="https://link.springer.com/book/10.1007/978-3-319-26606-0" target="_blank">[Paper] </a>
-
+- Neuromorphic Event-Based 3D Pose Estimation <a href="http://journal.frontiersin.org/Article/10.3389/fnins.2015.00522/abstract"> [Paper] <\a>
+- 
 
 #### 2015
 - Converting Static Image Datasets to Spiking Neuromorphic Datasets Using Saccades <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2015.00437/full" target="_blank">[Paper] </a>
