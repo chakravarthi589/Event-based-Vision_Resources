@@ -286,7 +286,16 @@ Our <strong> Workshop Proposal</strong> on <strong> Event-based Vision in the Er
 
 ---
 ## WACV 2025
-- To be Updated ...
+- Active Event Alignment for Monocular Distance Estimation
+- Secrets of Edge-Informed Contrast Maximization for Event-Based Vision
+- NeuroViG - Integrating Event Cameras for Resource-Efficient Video Grounding
+- Event-Guided Fusion-Mamba for Context-Aware 3D Human Pose Estimation
+- Event-Guided Video Transformer for End-to-End 3D Human Pose Estimation
+- Dense Depth from Event Focal Stack
+- Event-Guided Low-Light Video Semantic Segmentation
+- EI-Nexus: Towards Unmediated and Flexible Inter-Modality Local Feature Extraction and Matching for Event-Image Data
+- Unifying Low-Resolution and High-Resolution Alignment by Event Cameras for Space-Time Video Super-Resolution
+- AnonyNoise: Anonymizing Event Data with Smart Noise to Outsmart Re-Identification and Preserve Privacy
 
 ## WACV 2024
 - Real-Time 6-DoF Pose Estimation by an Event-Based Camera Using Active LED Markers <a href="https://openaccess.thecvf.com/content/WACV2024/papers/Ebmer_Real-Time_6-DoF_Pose_Estimation_by_an_Event-Based_Camera_Using_Active_WACV_2024_paper.pdf" target="_blank">[Paper]</a>
