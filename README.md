@@ -58,7 +58,7 @@ Our <strong> Workshop Proposal</strong> on <strong> Event-based Vision in the Er
 ## :high_brightness: CV Conference Papers
 | CVPR | WACV | ECCV | ICCV |
 | --------------- | --------------- | --------------- | ---------------|
-| [CVPR 2024](#CVPR-2024) <br> [CVPR 2023](#CVPR-2023) <br>[CVPR 2022](#CVPR-2022) <br>[CVPR 2021](#CVPR-2021) <br>[CVPR 2020](#CVPR-2020) <br>[CVPR 2019](#CVPR-2019) <br>[CVPR 2018](#CVPR-2018) <br>[CVPR 2019](#CVPR-2018) <br>[CVPR 2017](#CVPR-2017) <br> [CVPR 2016](#CVPR-2016) | [WACV 2025](#WACV-2025) <br> [WACV 2024](#WACV-2024) <br> [WACV 2023](#WACV-2023) <br>[WACV 2022](#WACV-2022) <br>[WACV 2021](#WACV-2021) <br>[WACV 2020](#WACV-2020) <br>[WACV 2019](#WACV-2019) <br>[WACV 2018](#WACV-2018) <br>[WACV 2019](#WACV-2018) <br>[WACV 2017](#WACV-2017)    | [ECCV 2024](#ECCV-2024) <br> [ECCV 2022](#ECCV-2022) <br>[ECCV 2020](#ECCV-2020) <br>[ECCV 2018](#ECCV-2018) <br> [ECCV 2016](#ECCV-2016) |[ICCV 2023](#ICCV-2023) <br>[ICCV 2021](#ICCV-2021) <br>[ICCV 2019](#ICCV-2019) <br>[ICCV 2017](#ICCV-2017) |
+| [CVPR 2025](#CVPR-2025) <br> [CVPR 2024](#CVPR-2024) <br> [CVPR 2023](#CVPR-2023) <br>[CVPR 2022](#CVPR-2022) <br>[CVPR 2021](#CVPR-2021) <br>[CVPR 2020](#CVPR-2020) <br>[CVPR 2019](#CVPR-2019) <br>[CVPR 2018](#CVPR-2018) <br>[CVPR 2019](#CVPR-2018) <br>[CVPR 2017](#CVPR-2017) <br> [CVPR 2016](#CVPR-2016) | [WACV 2025](#WACV-2025) <br> [WACV 2024](#WACV-2024) <br> [WACV 2023](#WACV-2023) <br>[WACV 2022](#WACV-2022) <br>[WACV 2021](#WACV-2021) <br>[WACV 2020](#WACV-2020) <br>[WACV 2019](#WACV-2019) <br>[WACV 2018](#WACV-2018) <br>[WACV 2019](#WACV-2018) <br>[WACV 2017](#WACV-2017)    | [ECCV 2024](#ECCV-2024) <br> [ECCV 2022](#ECCV-2022) <br>[ECCV 2020](#ECCV-2020) <br>[ECCV 2018](#ECCV-2018) <br> [ECCV 2016](#ECCV-2016) |[ICCV 2023](#ICCV-2023) <br>[ICCV 2021](#ICCV-2021) <br>[ICCV 2019](#ICCV-2019) <br>[ICCV 2017](#ICCV-2017) |
 ---
 
 ## :high_brightness: Event-based Vision Workshop Papers
@@ -116,6 +116,34 @@ Our <strong> Workshop Proposal</strong> on <strong> Event-based Vision in the Er
 - A Review of Bioinspired Vision Sensors and Their Applications <a href="https://sensors.myu-group.co.jp/sm_pdf/SM1083.pdf" target="_blank">[Paper]
 - Research, Applications and Prospects of Event-Based Pedestrian Detection: A Survey <a href="https://arxiv.org/pdf/2407.04277" target="_blank">[Paper]
 
+## CVPR 2025
+- EventGPT: Event Stream Understanding with Multimodal Large Language Models
+- Ev-3DOD: Pushing the Temporal Boundaries of 3D Object Detection with Event Cameras
+- EBS-EKF: Accurate and High Frequency Event-based Star Tracking
+- EZSR: Event-based Zero-Shot Recognition
+- Graph Neural Network Combining Event Stream and Periodic Aggregation for Low-Latency Event-based Vision
+- Event-based Video Super-Resolution via State Space Models
+- EDCFlow: Exploring Temporally Dense Difference Maps for Event-based Optical Flow Estimation
+- Repurposing Pre-trained Video Diffusion Models for Event-based Video Interpolation
+- EventPSR: Surface Normal and Reflectance Estimation from Photometric Stereo Using an Event Camera
+- Event fields: Capturing light fields at high speed, resolution, and dynamic range
+- Active Hyperspectral Imaging Using an Event Camera
+- Bridge Frame and Event: Common Spatiotemporal Fusion for High-Dynamic Scene Optical Flow
+- EventFly: Event Camera Perception from Ground to the Sky
+- One-Step Event-Driven High-Speed Autofocus
+- Event-based Tracking of Any Point with Motion-Robust Correlation Features
+- Efficient Event-Based Object Detection: A Hybrid Neural Network with Spatial and Temporal Attention
+- IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera
+- EventSplat: 3D Gaussian Splatting from Moving Event Cameras for Real-time Rendering
+- Asynchronous Collaborative Graph Representation for Frames and Events
+- Event Ellipsometer: Event-based Mueller-Matrix Video Imaging
+- Full-DoF Egomotion Estimation for Event Cameras Using Geometric Solvers
+- TimeTracker: Event-based Continuous Point Tracking for Video Frame Interpolation with Non-linear Motion
+- DiET-GS: Diffusion Prior and Event Stream-Assisted Motion Deblurring 3D Gaussian Splatting
+- EvEnhancer: Empowering Effectiveness, Efficiency and Generalizability for Continuous Space-Time Video Super-Resolution with Events
+- PS-EIP: Robust Photometric Stereo Based on Event Interval Profile
+- Object Detection using Event Camera: A MoE Heat Conduction based Detector and A New Benchmark Dataset
+- Active Event-based Stereo Vision
 
 ## CVPR 2024
 - [Our paper] eTraM: Event-based Traffic Monitoring Dataset <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Verma_eTraM_Event-based_Traffic_Monitoring_Dataset_CVPR_2024_paper.pdf" target="_blank">[Paper]</a>
