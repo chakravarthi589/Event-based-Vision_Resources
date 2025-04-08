@@ -17,7 +17,8 @@ Our <strong> Workshop Proposal</strong> on <strong> Event-based Vision in the Er
 
 
 #### Our Publications:
-- <a href="https://arxiv.org/abs/2408.13627" target="_blank">Recent Event Camera Innovations - A Survey </a> accepted by ECCV 2024 Workshop on Neuromorphic Vision: Advantages and Applications of Event Cameras
+-  <a href="#" target="_blank"> Event Quality Score (EQS): Assessing the Realism of Simulated Event Camera Streams via Distance in Latent Space </a> accepted by CVPR 2025 Workshop on Event-based Vision
+- <a href="https://arxiv.org/abs/2408.13627" target="_blank"> Recent Event Camera Innovations - A Survey </a> accepted by ECCV 2024 Workshop on Neuromorphic Vision: Advantages and Applications of Event Cameras
 - <a href="https://eventbasedvision.github.io/eTraM/" target="_blank">eTraM:</a> "Event-based Traffic Monitoring Dataset" accepted by CVPR 2024 <b> (Poster Highlight) </b>
 - <a href="https://eventbasedvision.github.io/SEVD/" target="_blank">SEVD:</a> "Synthetic Event-based Vision Dataset for Ego and Fixed Traffic Perception" accepted by CVPR 2024 Workshop on Synthetic Data for Computer Vision
 <p align="center">
@@ -63,14 +64,15 @@ Our <strong> Workshop Proposal</strong> on <strong> Event-based Vision in the Er
 ---
 
 ## :high_brightness: Event-based Vision Workshop Papers
-- [WACV 2025 - Event-based Vision in the Era of Generative AI - Transforming Perception and Visual Innovation](#WACV-2025-Workshop-on-Event-based-Vision-in-the-Era-of-Generative-AI) | [Workshop Webpage](https://eventbasedvision.github.io/EVGEN2025/)
-- [IROS 2024 - Embodied Neuromorphic AI for Robotic Perception and Control](#IROS-2024-Workshop-on-Embodied-Neuromorphic-AI) | [Workshop Webpage](https://sites.google.com/view/iros-2024-workshop/home)
-- [ECCV 2024-NeVI Workshop on Neuromorphic Vision: Advantages and Applications of Event Camera](#ECCV-2024-Wokshop-on-Neuromorphic-Vision) | [Wokshop Webpage](https://sites.google.com/view/nevi2024)
-- [ECCV 2024 Workshop on Neuromorphic Vision: Neural Fields Beyond Conventional Cameras](#ECCV-2024-Wokshop-on-Neural-Fields-Beyond-Cams) | [Workshop Webpage](https://neural-fields-beyond-cams.github.io/)
-- [CVPR 2023 Workshop on Event-based Vision](#CVPRW-2023) 
-- [CVPR 2021 Workshop on Event-based Vision](#CVPRW-2021) 
-- [CVPR 2019 Workshop on Event-based Vision and Smart Cameras](#CVPRW-2019) 
-- [ICRA 2017 Workshop on Event-based Vision](https://rpg.ifi.uzh.ch/ICRA17_event_vision_workshop.html)
+- [CVPR 2025 - Workshop on Event-Based Vision](#CVPR-2025-Workshop-on-Event-based-Vision) | [Workshop Webpage](https://tub-rip.github.io/eventvision2025/) |
+- [WACV 2025 - Event-based Vision in the Era of Generative AI - Transforming Perception and Visual Innovation](#WACV-2025-Workshop-on-Event-based-Vision-in-the-Era-of-Generative-AI) | [Workshop Webpage](https://eventbasedvision.github.io/EVGEN2025/) |
+- [IROS 2024 - Embodied Neuromorphic AI for Robotic Perception and Control](#IROS-2024-Workshop-on-Embodied-Neuromorphic-AI) | [Workshop Webpage](https://sites.google.com/view/iros-2024-workshop/home) |
+- [ECCV 2024-NeVI Workshop on Neuromorphic Vision: Advantages and Applications of Event Camera](#ECCV-2024-Wokshop-on-Neuromorphic-Vision) | [Wokshop Webpage](https://sites.google.com/view/nevi2024) |
+- [ECCV 2024 Workshop on Neuromorphic Vision: Neural Fields Beyond Conventional Cameras](#ECCV-2024-Wokshop-on-Neural-Fields-Beyond-Cams) | [Workshop Webpage](https://neural-fields-beyond-cams.github.io/) |
+- [CVPR 2023 Workshop on Event-based Vision](#CVPRW-2023) |
+- [CVPR 2021 Workshop on Event-based Vision](#CVPRW-2021) |
+- [CVPR 2019 Workshop on Event-based Vision and Smart Cameras](#CVPRW-2019) |
+- [ICRA 2017 Workshop on Event-based Vision](https://rpg.ifi.uzh.ch/ICRA17_event_vision_workshop.html)|
 
 ---
 
@@ -467,8 +469,46 @@ Image Reconstruction from Events <a href="https://openaccess.thecvf.com/content/
 - No Papers on event-based vision / event-based camera / neuromorphic sensors
 
 ---
+## CVPR 2025 Workshop on Event-based Vision 
+- Dynamic EventNeRF: Reconstructing General Dynamic Scenes from Multi-view RGB and Event Streams
+- [Our paper] Event Quality Score (EQS): Assessing the Realism of Simulated Event Camera Streams via Distance in Latent Space
+- E-VLC: A Real-World Dataset for Event-based Visible Light Communication And Localization
+- EV-Flying: an Event-based Dataset for In-The-Wild Recognition of Flying Objects
+- BiasBench: A reproducible benchmark for tuning the biases of event cameras
+- MTevent: A Multi-Task Event Camera Dataset for 6D Pose Estimation and Moving Object Detection
+- Looking into the Shadow: Recording a Total Solar Eclipse with High-resolution Event Cameras
+- Probabilistic Online Event Downsampling
+- Every Event Counts: Balancing Data Efficiency and Accuracy in Event Camera Subsampling
+- Learning from Noise: Enhancing DNNs for Event-Based Vision through Controlled Noise InjectionTowards Low-Latency Event-based Obstacle Avoidance on a FPGA-Drone
+- Real-Time Pedestrian Detection at the Edge on a Fully Asynchronous Neuromorphic System
+- Reading Events Hierarchically to Reduce Latency
+- DELTA: Dense Depth from Events and LiDAR using Transformer’s Attention
+- Quadrocular, Neuromorphic Stereo Triangulation and Asynchronous Data Fusion for 3D Object Tracking
+- Nanoparticle Diameter Measurements With Event Camera Tracking
+- Egocentric Event-Based Vision for Ping Pong Ball Trajectory Prediction
+- Event-Driven Dynamic Attention for Multi-Object Tracking on Neuromorphic Hardware
+- Event-based Tracking and Imaging of Randomly Moving Objects in Dense Dynamical Scattering Media
+- Perturbed State Space Feature Encoders for Optical Flow with Event Cameras
+- Spatio-Temporal State Space Model For Efficient Event-Based Optical Flow
+- Best Linear Unbiased Estimation for 2D and 3D Flow with Event-based Cameras
+- Iterative Event-based Motion Segmentation by Variational Contrast Maximization
+- EV-LayerSegNet: Self-supervised Motion Segmentation using Event Cameras
+- Seeing like a Cephalopod: Colour Vision with a Monochrome Event Camera
+- Event-based Continuous Color Video Decompression from Single Frames
+- Reading in the Dark with Foveated Event Vision
+- Human-Robot Navigation using Event-based Cameras and Reinforcement Learning
+- E-BARF: Bundle Adjusting Neural Radiance Fields from a Moving Event Camera
+- Event-based eye tracking. Even-based Vision Workshop 2025
+- BRAT: Bidirectional Relative Positional Attention Transformer for Event-based Eye tracking
+- Exploring Temporal Dynamics in Event-based Eye Tracker
+- Dual-Path Enhancements in Event-Based Eye Tracking: Augmented Robustness and Adaptive Temporal Modeling
+
 ## WACV 2025 Workshop on Event-based Vision in the Era of Generative AI
-- To be Updated ...
+- Blurring for Clarity: Passive Computation for Defocus-Driven Parsimonious Navigation using a Monocular Event Camera <a href="https://openaccess.thecvf.com/content/WACV2025W/EVGEN/papers/Pawar_Blurring_for_Clarity_Passive_Computation_for_Defocus-Driven_Parsimonious_Navigation_using_WACVW_2025_paper.pdf" target="_blank">[Paper] </a>
+- Continuous Histogram for Event-based Vision Camera Systems <a href="https://openaccess.thecvf.com/content/WACV2025W/EVGEN/papers/Park_Continuous_Histogram_for_Event-based_Vision_Camera_Systems_WACVW_2025_paper.pdf" target="_blank">[Paper] </a>
+- Combined Physics and Event Camera Simulator for Slip Detection <a href="https://openaccess.thecvf.com/content/WACV2025W/EVGEN/papers/Reinold_Combined_Physics_and_Event_Camera_Simulator_for_Slip_Detection_WACVW_2025_paper.pdf" target="_blank">[Paper] </a>
+- BeSplat: Gaussian Splatting from a Single Blurry Image and Event Stream <a href="https://openaccess.thecvf.com/content/WACV2025W/EVGEN/papers/Matta_BeSplat_Gaussian_Splatting_from_a_Single_Blurry_Image_and_Event_WACVW_2025_paper.pdf" target="_blank">[Paper] </a>
+- Simple Transformer with Single Leaky Neuron for Event Vision <a href="https://openaccess.thecvf.com/content/WACV2025W/EVGEN/papers/Kumar_Simple_Transformer_with_Single_Leaky_Neuron_for_Event_Vision_WACVW_2025_paper.pdf" target="_blank">[Paper] </a>
 
 ## IROS 2024 Workshop on Embodied Neuromorphic AI
 - Will be updated soon
