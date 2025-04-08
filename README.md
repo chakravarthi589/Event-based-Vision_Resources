@@ -13,7 +13,8 @@ Event-based vision, event-based camera, DVS, dynamic vision sensor, neuromorphic
 <a href="https://aayush-v.github.io/" target="_blank"> Aayush Atul Verma
 
 #### Announcement:
-Our <strong> Workshop Proposal</strong> on <strong> Event-based Vision in the Era of Generative AI</strong> has been accepted for <strong>WACV 2025</strong>! Stay tuned for more details!
+We organized 1st <strong> Workshop </strong> on <strong> Event-based Vision in the Era of Generative AI</strong> at <strong> WACV 2025</strong>! 
+<a href="https://eventbasedvision.github.io/EVGEN2025/" target="_blank"> [Workshop Webpage] </a> | <a href="https://openaccess.thecvf.com/WACV2025_workshops/EVGEN" target="_blank"> [Check this for accepted papers] </a> 
 
 
 #### Our Publications:
