@@ -2,7 +2,7 @@
   Event-based Vision / Dynamic Vision Sensors / Neuromorphic Vision / Event Camera - Resources
 </h1>
 
-This repository is dedicated to categorizing articles on event-based vision. While many papers are directly linked to PDFs hosted on platforms like arXiv or OpenAccess, certain articles may necessitate access through an academic license. These include publications from IEEE, Springer, Elsevier journals, and others. (Last Update on 04/01/2025)
+This repository is dedicated to categorizing articles on event-based vision. While many papers are directly linked to PDFs hosted on platforms like arXiv or OpenAccess, certain articles may necessitate access through an academic license. These include publications from IEEE, Springer, Elsevier journals, and others. (Last Update on 04/07/2025)
 
 
 #### Search Keywords: 
@@ -17,7 +17,7 @@ Our <strong> Workshop Proposal</strong> on <strong> Event-based Vision in the Er
 
 
 #### Our Publications:
--  <a href="#" target="_blank"> Event Quality Score (EQS): Assessing the Realism of Simulated Event Camera Streams via Distance in Latent Space </a> accepted by CVPR 2025 Workshop on Event-based Vision
+-  <a href="#" target="_blank"> Event Quality Score (EQS) </a>: Assessing the Realism of Simulated Event Camera Streams via Distance in Latent Space  accepted by CVPR 2025 Workshop on Event-based Vision
 - <a href="https://arxiv.org/abs/2408.13627" target="_blank"> Recent Event Camera Innovations - A Survey </a> accepted by ECCV 2024 Workshop on Neuromorphic Vision: Advantages and Applications of Event Cameras
 - <a href="https://eventbasedvision.github.io/eTraM/" target="_blank">eTraM:</a> "Event-based Traffic Monitoring Dataset" accepted by CVPR 2024 <b> (Poster Highlight) </b>
 - <a href="https://eventbasedvision.github.io/SEVD/" target="_blank">SEVD:</a> "Synthetic Event-based Vision Dataset for Ego and Fixed Traffic Perception" accepted by CVPR 2024 Workshop on Synthetic Data for Computer Vision
