@@ -121,33 +121,33 @@ We organized 1st <strong> Workshop </strong> on <strong> Event-based Vision in t
 - Research, Applications and Prospects of Event-Based Pedestrian Detection: A Survey <a href="https://arxiv.org/pdf/2407.04277" target="_blank">[Paper]
 
 ## CVPR 2025
-- EventGPT: Event Stream Understanding with Multimodal Large Language Models
-- Ev-3DOD: Pushing the Temporal Boundaries of 3D Object Detection with Event Cameras
-- EBS-EKF: Accurate and High Frequency Event-based Star Tracking
-- EZSR: Event-based Zero-Shot Recognition
+- EventGPT: Event Stream Understanding with Multimodal Large Language Models <a href="https://arxiv.org/abs/2412.00832" target="_blank">[Paper]
+- Ev-3DOD: Pushing the Temporal Boundaries of 3D Object Detection with Event Cameras <a href="https://arxiv.org/abs/2502.19630" target="_blank">[Paper]
+- EBS-EKF: Accurate and High Frequency Event-based Star Tracking <a href="https://arxiv.org/abs/2503.20101" target="_blank">[Paper]
+- EZSR: Event-based Zero-Shot Recognition <a href="https://arxiv.org/abs/2407.21616" target="_blank">[Paper]
 - Graph Neural Network Combining Event Stream and Periodic Aggregation for Low-Latency Event-based Vision
-- Event-based Video Super-Resolution via State Space Models
-- EDCFlow: Exploring Temporally Dense Difference Maps for Event-based Optical Flow Estimation
-- Repurposing Pre-trained Video Diffusion Models for Event-based Video Interpolation
+- Event-based Video Super-Resolution via State Space Models 
+- EDCFlow: Exploring Temporally Dense Difference Maps for Event-based Optical Flow Estimation 
+- Repurposing Pre-trained Video Diffusion Models for Event-based Video Interpolation <a href="https://arxiv.org/abs/2412.07761" target="_blank">[Paper]
 - EventPSR: Surface Normal and Reflectance Estimation from Photometric Stereo Using an Event Camera
-- Event fields: Capturing light fields at high speed, resolution, and dynamic range
-- Active Hyperspectral Imaging Using an Event Camera
-- Bridge Frame and Event: Common Spatiotemporal Fusion for High-Dynamic Scene Optical Flow
-- EventFly: Event Camera Perception from Ground to the Sky
-- One-Step Event-Driven High-Speed Autofocus
-- Event-based Tracking of Any Point with Motion-Robust Correlation Features
+- Event fields: Capturing light fields at high speed, resolution, and dynamic range <a href="https://arxiv.org/abs/2412.06191" target="_blank">[Paper]
+- Active Hyperspectral Imaging Using an Event Camera 
+- Bridge Frame and Event: Common Spatiotemporal Fusion for High-Dynamic Scene Optical Flow <a href="https://arxiv.org/abs/2503.06992" target="_blank">[Paper]
+- EventFly: Event Camera Perception from Ground to the Sky <a href="https://arxiv.org/abs/2503.19916" target="_blank">[Paper]
+- One-Step Event-Driven High-Speed Autofocus <a href="https://arxiv.org/abs/2503.01214" target="_blank">[Paper]
+- Event-based Tracking of Any Point with Motion-Robust Correlation Features <a href="https://arxiv.org/abs/2412.00133" target="_blank">[Paper]
 - Efficient Event-Based Object Detection: A Hybrid Neural Network with Spatial and Temporal Attention
-- IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera
-- EventSplat: 3D Gaussian Splatting from Moving Event Cameras for Real-time Rendering
-- Asynchronous Collaborative Graph Representation for Frames and Events
-- Event Ellipsometer: Event-based Mueller-Matrix Video Imaging
-- Full-DoF Egomotion Estimation for Event Cameras Using Geometric Solvers
-- TimeTracker: Event-based Continuous Point Tracking for Video Frame Interpolation with Non-linear Motion
-- DiET-GS: Diffusion Prior and Event Stream-Assisted Motion Deblurring 3D Gaussian Splatting
-- EvEnhancer: Empowering Effectiveness, Efficiency and Generalizability for Continuous Space-Time Video Super-Resolution with Events
-- PS-EIP: Robust Photometric Stereo Based on Event Interval Profile
-- Object Detection using Event Camera: A MoE Heat Conduction based Detector and A New Benchmark Dataset
-- Active Event-based Stereo Vision
+- IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera <a href="https://arxiv.org/abs/2410.08107" target="_blank">[Paper]
+- EventSplat: 3D Gaussian Splatting from Moving Event Cameras for Real-time Rendering <a href="https://arxiv.org/abs/2412.07293" target="_blank">[Paper]
+- Asynchronous Collaborative Graph Representation for Frames and Events 
+- Event Ellipsometer: Event-based Mueller-Matrix Video Imaging <a href="https://arxiv.org/abs/2411.17313" target="_blank">[Paper]
+- Full-DoF Egomotion Estimation for Event Cameras Using Geometric Solvers <a href="https://arxiv.org/abs/2503.03307" target="_blank">[Paper]
+- TimeTracker: Event-based Continuous Point Tracking for Video Frame Interpolation with Non-linear Motion 
+- DiET-GS: Diffusion Prior and Event Stream-Assisted Motion Deblurring 3D Gaussian Splatting <a href="https://arxiv.org/abs/2503.24210" target="_blank">[Paper]
+- EvEnhancer: Empowering Effectiveness, Efficiency and Generalizability for Continuous Space-Time Video Super-Resolution with Events 
+- PS-EIP: Robust Photometric Stereo Based on Event Interval Profile <a href="https://arxiv.org/abs/2503.18341" target="_blank">[Paper]
+- Object Detection using Event Camera: A MoE Heat Conduction based Detector and A New Benchmark Dataset <a href="https://arxiv.org/abs/2412.06647" target="_blank">[Paper]
+- Active Event-based Stereo Vision 
 
 ## CVPR 2024
 - [Our paper] eTraM: Event-based Traffic Monitoring Dataset <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Verma_eTraM_Event-based_Traffic_Monitoring_Dataset_CVPR_2024_paper.pdf" target="_blank">[Paper]</a>
