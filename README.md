@@ -290,16 +290,16 @@ We organized 1st <strong> Workshop </strong> on <strong> Event-based Vision in t
 
 ---
 ## WACV 2025
-- Active Event Alignment for Monocular Distance Estimation
-- Secrets of Edge-Informed Contrast Maximization for Event-Based Vision
-- NeuroViG - Integrating Event Cameras for Resource-Efficient Video Grounding
-- Event-Guided Fusion-Mamba for Context-Aware 3D Human Pose Estimation
-- Event-Guided Video Transformer for End-to-End 3D Human Pose Estimation
-- Dense Depth from Event Focal Stack
-- Event-Guided Low-Light Video Semantic Segmentation
-- EI-Nexus: Towards Unmediated and Flexible Inter-Modality Local Feature Extraction and Matching for Event-Image Data
-- Unifying Low-Resolution and High-Resolution Alignment by Event Cameras for Space-Time Video Super-Resolution
-- AnonyNoise: Anonymizing Event Data with Smart Noise to Outsmart Re-Identification and Preserve Privacy
+- Active Event Alignment for Monocular Distance Estimation <a href="https://arxiv.org/abs/2410.22280" target="_blank">[Paper]</a>
+- Secrets of Edge-Informed Contrast Maximization for Event-Based Vision <a href="https://arxiv.org/abs/2409.14611" target="_blank">[Paper]</a>
+- NeuroViG - Integrating Event Cameras for Resource-Efficient Video Grounding <a href="https://openaccess.thecvf.com/content/WACV2025/papers/Weerakoon_NeuroViG_-_Integrating_Event_Cameras_for_Resource-Efficient_Video_Grounding_WACV_2025_paper.pdf" target="_blank">[Paper]</a>
+- Event-Guided Fusion-Mamba for Context-Aware 3D Human Pose Estimation <a href="https://ieeexplore.ieee.org/abstract/document/10944060?casa_token=agGC4GWHyLEAAAAA:fFZbLcmlddat1HnSr8AfRooDNLOINeP-MymmBFJRV_em_AVkNlRewNksHWo6zVsQWCCyX5xi" target="_blank">[Paper]</a>
+- Event-Guided Video Transformer for End-to-End 3D Human Pose Estimation <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10944141" target="_blank">[Paper]</a>
+- Dense Depth from Event Focal Stack <a href="https://arxiv.org/abs/2412.08120" target="_blank">[Paper]</a>
+- Event-Guided Low-Light Video Semantic Segmentation <a href="https://arxiv.org/abs/2411.00639" target="_blank">[Paper]</a> 
+- EI-Nexus: Towards Unmediated and Flexible Inter-Modality Local Feature Extraction and Matching for Event-Image Data <a href="https://arxiv.org/abs/2410.21743" target="_blank">[Paper]</a>
+- Unifying Low-Resolution and High-Resolution Alignment by Event Cameras for Space-Time Video Super-Resolution <a href="https://openaccess.thecvf.com/content/WACV2025/papers/Cho_Unifying_Low-Resolution_and_High-Resolution_Alignment_by_Event_Cameras_for_Space-Time_WACV_2025_paper.pdf" target="_blank">[Paper]</a>
+- AnonyNoise: Anonymizing Event Data with Smart Noise to Outsmart Re-Identification and Preserve Privacy <a href="https://arxiv.org/abs/2411.16440" target="_blank">[Paper]</a>
 
 ## WACV 2024
 - Real-Time 6-DoF Pose Estimation by an Event-Based Camera Using Active LED Markers <a href="https://openaccess.thecvf.com/content/WACV2024/papers/Ebmer_Real-Time_6-DoF_Pose_Estimation_by_an_Event-Based_Camera_Using_Active_WACV_2024_paper.pdf" target="_blank">[Paper]</a>
