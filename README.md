@@ -22,10 +22,6 @@ We organized 1st <strong> Workshop </strong> on <strong> Event-based Vision in t
 - <a href="https://arxiv.org/abs/2408.13627" target="_blank"> Recent Event Camera Innovations - A Survey </a> accepted by ECCV 2024 Workshop on Neuromorphic Vision: Advantages and Applications of Event Cameras
 - <a href="https://eventbasedvision.github.io/eTraM/" target="_blank">eTraM:</a> "Event-based Traffic Monitoring Dataset" accepted by CVPR 2024 <b> (Poster Highlight) </b>
 - <a href="https://eventbasedvision.github.io/SEVD/" target="_blank">SEVD:</a> "Synthetic Event-based Vision Dataset for Ego and Fixed Traffic Perception" accepted by CVPR 2024 Workshop on Synthetic Data for Computer Vision
-<p align="center">
-  <img src="cvpr24_eTram.png" alt="Event Cameras" width="400px">  <img src="cvpr24_SEVD.png" alt="Event Cameras" width="400px">
-</p>
-
 
 ---
 <a id="event-based-cameras"></a>
