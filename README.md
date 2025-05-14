@@ -686,7 +686,7 @@ Network <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/pap
 - Marine Event Vision: Harnessing Event Cameras For Robust Object Detection In Marine Scenarios
 - Compressed Event Sensing (CES) Volumes for Event Cameras
 - An Event-Based Perception Pipeline for a Table Tennis Robot
-- AnEvent Camera Simulator for Arbitrary Viewpoints Based on Neural Radiance Fields
+- An Event Camera Simulator for Arbitrary Viewpoints Based on Neural Radiance Fields
 - High-efficiency sparse convolution operator for event-based cameras
 - NeuroViG - Integrating Event Cameras for Resource-Efficient Video Grounding
 - eKalibr: Dynamic Intrinsic Calibration for Event Cameras From First Principles of Events
