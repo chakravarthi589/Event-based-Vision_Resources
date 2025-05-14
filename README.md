@@ -677,7 +677,22 @@ Network <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/pap
 - Machine Vision Breakthrough: Event-Based Sensors Bring a New Level of Visibility to Industrial Automation
 - ERetinex: Event Camera Meets Retinex Theory for Low-Light Image Enhancement
 - NER-Net+: Seeing Motion at Nighttime With an Event Camera
-  
+- Event-aided Semantic Scene Completion
+- A New Stereo Fisheye Event Camera for Fast Drone Detection and Tracking
+- Event-based video reconstruction via attention-based recurrent network
+- EvTransPose: Towards Robust Human Pose Estimation via Event Camera
+- Data-Driven Feature Tracking for Event Cameras With and Without Frames
+- A PyTorch-Enabled Tool for Synthetic Event Camera Data Generation and Algorithm Development
+- Marine Event Vision: Harnessing Event Cameras For Robust Object Detection In Marine Scenarios
+- Compressed Event Sensing (CES) Volumes for Event Cameras
+- An Event-Based Perception Pipeline for a Table Tennis Robot
+- AnEvent Camera Simulator for Arbitrary Viewpoints Based on Neural Radiance Fields
+- High-efficiency sparse convolution operator for event-based cameras
+- NeuroViG - Integrating Event Cameras for Resource-Efficient Video Grounding
+- eKalibr: Dynamic Intrinsic Calibration for Event Cameras From First Principles of Events
+- SuperEvent: Cross-Modal Learning of Event-based Keypoint Detection
+- EventEgo3D++: 3D Human Motion Capture from a Head-Mounted Event Camera
+- Retina-Inspired Object Motion Segmentation for Event-Cameras
 
 
 #### 2024
