@@ -2,7 +2,7 @@
   Event-based Vision / Dynamic Vision Sensors / Neuromorphic Vision / Event Camera - Resources
 </h1>
 
-This repository is dedicated to categorizing articles on event-based vision. While many papers are directly linked to PDFs hosted on platforms like arXiv or OpenAccess, certain articles may necessitate access through an academic license. These include publications from IEEE, Springer, Elsevier journals, and others. (Last Update on 04/07/2025)
+This repository is dedicated to categorizing articles on event-based vision. While many papers are directly linked to PDFs hosted on platforms like arXiv or OpenAccess, certain articles may necessitate access through an academic license. These include publications from IEEE, Springer, Elsevier journals, and others. (Last Update on 05/13/2025)
 
 
 #### Search Keywords: 
@@ -656,6 +656,29 @@ Network <a href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/pap
 
 ---
 ## Other Papers
+
+#### 2025
+- Rethinking Efficient and Effective Point-based Networks for Event Camera Classification and Regression
+- EvTTC: An Event Camera Dataset for Time-to-Collision Estimation
+- EVLINS: Strong Robust Navigation System Based on Event Camera
+- Event-based vision for egomotion estimation using precise event timing
+- Event-based 3D Reconstruction: Innovative Event Representation Methods
+- EgoEvGesture: Gesture Recognition Based on Egocentric Event Camera
+- Event-based vision in laser welding: An approach for process monitoring
+- Flight of the Future: An Experimental Analysis of Event-Based Vision for Online Perception Onboard Flapping-Wing Robots
+- GelEvent—A Novel High-Speed Tactile Sensor With Event Camera
+- Event Camera-Based Interactive Visualization System of High-Speed Events
+- All-Digital Event-Based Vision Sensor With Multi-Event Generation for Motion/Vibration-Adaptive Detection
+- E-POSE: A Large Scale Event Camera Dataset for Object Pose Estimation
+- A Monocular Event-Camera Motion Capture System
+- Event-based optical flow: Method categorisation and review of techniques that leverage deep learning
+- Thin-film event-based vision sensors for enhanced multispectral perception beyond human vision
+- EventAid: Benchmarking Event-aided Image/Video Enhancement Algorithms with Real-captured Hybrid Dataset
+- Machine Vision Breakthrough: Event-Based Sensors Bring a New Level of Visibility to Industrial Automation
+- ERetinex: Event Camera Meets Retinex Theory for Low-Light Image Enhancement
+- NER-Net+: Seeing Motion at Nighttime With an Event Camera
+  
+
 
 #### 2024
 - IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera  <a href="https://arxiv.org/abs/2410.08107" target="_blank">[Paper]</a>
