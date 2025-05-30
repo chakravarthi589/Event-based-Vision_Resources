@@ -529,7 +529,7 @@ Image Reconstruction from Events <a href="https://openaccess.thecvf.com/content/
 - Neuromorphic Drone Detection: an Event-RGB Multimodal Approach <a href="https://arxiv.org/abs/2409.16099" target="_blank">[Paper] </a>
 - Pushing the boundaries of event subsampling in event-based video classification using CNNs <a href="https://arxiv.org/abs/2409.08953" target="_blank">[Paper] </a>
 - Vibration Vision: Real-Time Machinery Fault Diagnosis with Event Cameras 
-- S-ROPE: Spectral Frame Representation of Periodic Events <a href="doi.org/10.1007/978-3-031-92460-6_19" target="_blank">[Paper] </a>
+- S-ROPE: Spectral Frame Representation of Periodic Events <a href="https://link.springer.com/chapter/10.1007/978-3-031-92460-6_19" target="_blank">[Paper] </a>
 - Autobiasing Event Cameras
 - EvDownsampling: A Robust Method For Downsampling Event Camera Data <a href=" " target="_blank">[Paper] </a>
 - ES-PTAM: Event-based Stereo Parallel Tracking and Mapping <a href="https://www.arxiv.org/abs/2408.15605" target="_blank">[Paper] </a>
